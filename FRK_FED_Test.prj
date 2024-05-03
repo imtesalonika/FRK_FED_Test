@@ -5,8 +5,9 @@
    <tag></tag>
    <UUID>9b3f8839-0061-4b01-9137-2d858d4dc751</UUID>
    <createdVersion>9.3.1</createdVersion>
-   <freeLicense>false</freeLicense>
+   <freeLicense>true</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
+   <modifiedVersion>9.3.1</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
    <projectFileLocation>C:\Users\Tesalonika Sitopu\Documents\SEMESTER VI\MPPL\Testing\FRK_FED_Test\FRK_FED_Test.prj</projectFileLocation>
    <sourceContent>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Menunggu</name>
+   <tag></tag>
+   <elementGuidId>9e14f17d-e612-4f1e-bfcc-3c726fbe822a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>tbody.align_middle > tr > td:nth-of-type(6) > span.badge.bg-secondary</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='tablePendidikan-C']/tbody/tr/td[6]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>eee637d3-b512-4aff-bc47-f3630a72aa8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>badge bg-secondary</value>
+      <webElementGuid>40c3509b-cc45-48fd-a218-4e6d4413b1f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Menunggu</value>
+      <webElementGuid>8a552690-4285-43fa-b6ff-f648ab3fd3bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tablePendidikan-C&quot;)/tbody[@class=&quot;align_middle&quot;]/tr[1]/td[6]/span[@class=&quot;badge bg-secondary&quot;]</value>
+      <webElementGuid>a3a95cbe-d1c0-4bf0-b00f-5ee8e276bf4d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='tablePendidikan-C']/tbody/tr/td[6]/span</value>
+      <webElementGuid>db241b4c-d9e3-45d2-91f7-047d229d8f47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Menunggu'])[5]/following::span[1]</value>
+      <webElementGuid>75c211e1-fb31-49e1-8c62-cf74b6ba1205</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pembimbingan Praktek Lapangan'])[1]/following::span[2]</value>
+      <webElementGuid>0c626ae5-83d0-468e-85cf-06db18c9456b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yakin untuk menghapus kegiatan ini?'])[3]/preceding::span[1]</value>
+      <webElementGuid>15ff3b52-745f-4497-9a02-c25a2a793222</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Batalkan'])[3]/preceding::span[1]</value>
+      <webElementGuid>ef6f84f5-ee6a-4d92-ae8f-072cea3af70f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div[2]/table/tbody/tr/td[6]/span</value>
+      <webElementGuid>52b5a7bd-f883-4d75-ad28-620d76fc3d80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Menunggu' or . = 'Menunggu')]</value>
+      <webElementGuid>f36617fb-1220-48f1-8e14-e1b50f5d990a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
