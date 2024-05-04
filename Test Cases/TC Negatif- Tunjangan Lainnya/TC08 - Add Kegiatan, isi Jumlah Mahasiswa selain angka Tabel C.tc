@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC08 - Add Kegiatan, isi Jumlah Mahasiswa selain angka Tabel C</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8e53d399-cb9d-497d-bfe1-5f87c987ad69</testCaseGuid>
+</TestCaseEntity>
