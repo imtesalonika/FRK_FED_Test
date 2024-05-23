@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Anggota Redaksi Jurnal ber-ISSN</name>
+   <tag></tag>
+   <elementGuidId>3af9c5a7-f77e-4c88-975e-115a0d94626a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='tablePenunjang-G']/tbody/tr[2]/td[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#tablePenunjang-G > tbody.align_middle > tr:nth-of-type(2) > td:nth-of-type(3)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>756af7e8-a393-453a-84b0-2d5af2733ee6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Anggota Redaksi Jurnal ber-ISSN</value>
+      <webElementGuid>91019656-6bd9-46d5-bc6d-2ff0ad00147c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tablePenunjang-G&quot;)/tbody[@class=&quot;align_middle&quot;]/tr[2]/td[3]</value>
+      <webElementGuid>735a4daf-51ae-4e83-87e8-cd0c40899b79</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='tablePenunjang-G']/tbody/tr[2]/td[3]</value>
+      <webElementGuid>08a5d9d1-d9c5-49bd-bc28-6cecf228076c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pemasaran dan Promosi'])[1]/following::td[1]</value>
+      <webElementGuid>dc76d97d-06f9-4147-9017-133e5344b89f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yakin'])[32]/following::td[3]</value>
+      <webElementGuid>5066bf62-09ee-4b1c-966e-5f35537fbecc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Menunggu'])[65]/preceding::td[2]</value>
+      <webElementGuid>87326235-75ef-4e1c-890b-99f0f6cd3b6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Menunggu'])[66]/preceding::td[3]</value>
+      <webElementGuid>3911c25b-57f9-4efa-9707-0e48d058e2cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]/div/div[2]/table/tbody/tr[2]/td[3]</value>
+      <webElementGuid>278e466f-af10-4a8a-8cfb-10afbd2422fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Anggota Redaksi Jurnal ber-ISSN' or . = 'Anggota Redaksi Jurnal ber-ISSN')]</value>
+      <webElementGuid>3672a3c5-5d24-4c43-880a-202bfed514b4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

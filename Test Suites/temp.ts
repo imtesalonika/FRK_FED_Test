@@ -12,31 +12,38 @@
    <rerunImmediately>false</rerunImmediately>
    <testSuiteGuid>0cf41eec-0dcb-4e2b-a745-f1c4cc8e04b9</testSuiteGuid>
    <testCaseLink>
-      <guid>1f2a8ce7-8885-4cd0-8a5d-93e7738a6284</guid>
+      <guid>6fc0eb9d-3348-4cd5-a56b-5070624cc9dc</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TC Positif-Rencana Pendidikan/TC17-Mengedit Kegiatan Pada Tabel G</testCaseId>
+      <testCaseId>Test Cases/TC Positif-Tunjangan Lainnya/TC44-Menambahkan Kegiatan Pada Tabel L-Select Jabatan Anggota Tingkatan Nasional</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>b18abe30-e77b-4291-ad21-af880d9664e8</guid>
+      <guid>9576fc63-0133-4442-a3fc-df56a16056ac</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TC Positif-Rencana Pendidikan/TC18-Mengedit Kegiatan Pada Tabel H</testCaseId>
+      <testCaseId>Test Cases/TC Positif-Tunjangan Lainnya/TC45-Menambahkan Kegiatan Pada Tabel L-Select Jabatan Ketua Tingkatan Nasional</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>865c6a27-5bf2-43da-8797-2a1ca77f347a</guid>
+      <guid>13517d97-e160-43a1-945a-a108de662e88</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TC Positif-Rencana Pendidikan/TC19-Mengedit Kegiatan Pada Tabel I</testCaseId>
+      <testCaseId>Test Cases/TC Positif-Tunjangan Lainnya/TC46-Menambahkan Kegiatan Pada Tabel L-Select Jabatan Anggota Tingkatan Internasional</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>5ec740a3-aa7a-48a7-946e-38ddb32986f8</guid>
+      <guid>b8428d05-707e-46cd-bb33-4dcbe970f595</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TC Positif-Rencana Pendidikan/TC20-Mengedit Kegiatan Pada Tabel J</testCaseId>
+      <testCaseId>Test Cases/TC Positif-Tunjangan Lainnya/TC47-Menambahkan Kegiatan Pada Tabel L-Select Jabatan Ketua Tingkatan Internasional</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>bf2ea468-0688-4c83-a550-ac181cfcb55f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC Positif-Tunjangan Lainnya/TC62-Mengedit Kegiatan Pada Tabel L</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
