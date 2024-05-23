@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC03 - Add kegiatan, isi form tidak lengkap Tabel A</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>206e0a51-8eaf-4801-a542-f663cdd6f3fc</testCaseGuid>
+</TestCaseEntity>
