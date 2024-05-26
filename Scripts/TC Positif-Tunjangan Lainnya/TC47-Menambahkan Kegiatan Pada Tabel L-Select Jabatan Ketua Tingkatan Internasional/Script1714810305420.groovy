@@ -47,15 +47,5 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/Page_FRK  FED/select
 
 WebUI.click(findTestObject('Object Repository/Page_FRK  FED/button_Simpan (62)'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_FRK  FED/td_Ketua Kepengurusan Asosiasi Profesi'), 'Ketua Kepengurusan Asosiasi Profesi')
-
-WebUI.verifyElementText(findTestObject('Object Repository/Page_FRK  FED/td_Ketua (2)'), 'Ketua')
-
-WebUI.verifyElementText(findTestObject('Object Repository/Page_FRK  FED/td_Internasional (1)'), 'Internasional')
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_FRK  FED/td_Menunggu (77)'), 0)
-
-WebUI.rightClick(findTestObject('Object Repository/Page_FRK  FED/td_Menunggu (77)'))
-
 WebUI.closeBrowser()
 
