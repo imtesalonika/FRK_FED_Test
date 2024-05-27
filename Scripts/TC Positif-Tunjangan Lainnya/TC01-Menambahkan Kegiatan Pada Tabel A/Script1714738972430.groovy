@@ -21,22 +21,6 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://localhost:8000/')
 
-WebUI.setText(findTestObject('Object Repository/Page_FRK  FED - LOGIN/input_Username_username (37)'), 'mario')
-
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_FRK  FED - LOGIN/input_Kata                                 _617843 (37)'), 
-    'mHeVG5S2v2QyQ6TvDNzjuw==')
-
-WebUI.sendKeys(findTestObject('Object Repository/Page_FRK  FED - LOGIN/input_Kata                                 _617843 (37)'), 
-    Keys.chord(Keys.ENTER))
-
-WebUI.click(findTestObject('Object Repository/Page_FRK  FED/i_Rencana Kerja_bi bi-chevron-down (1)'))
-
-WebUI.closeBrowser()
-
-WebUI.openBrowser('')
-
-WebUI.navigateToUrl('http://localhost:8000/')
-
 WebUI.click(findTestObject('Object Repository/Page_FRK  FED - LOGIN/form_Login                                 _0ec1e1 (1)'))
 
 WebUI.setText(findTestObject('Object Repository/Page_FRK  FED - LOGIN/input_Username_username (37)'), 'mario')

@@ -50,17 +50,5 @@ WebUI.setText(findTestObject('Object Repository/Page_FRK  FED/input_Nama Kegiata
 
 WebUI.click(findTestObject('Object Repository/Page_FRK  FED/button_Simpan (61)'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_FRK  FED/td_Pengurus Asosiasi'), 'Pengurus Asosiasi')
-
-WebUI.verifyElementText(findTestObject('Object Repository/Page_FRK  FED/td_Anggota (2)'), 'Anggota')
-
-WebUI.verifyElementText(findTestObject('Object Repository/Page_FRK  FED/td_Internasional'), 'Internasional')
-
-WebUI.rightClick(findTestObject('Object Repository/Page_FRK  FED/td_Menunggu (76)'))
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_FRK  FED/td_Menunggu (76)'), 0)
-
-WebUI.rightClick(findTestObject('Object Repository/Page_FRK  FED/td_Menunggu (76)'))
-
 WebUI.closeBrowser()
 

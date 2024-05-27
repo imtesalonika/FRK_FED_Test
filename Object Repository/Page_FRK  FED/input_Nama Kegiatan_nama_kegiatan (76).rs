@@ -3,18 +3,19 @@
    <description></description>
    <name>input_Nama Kegiatan_nama_kegiatan (76)</name>
    <tag></tag>
-   <elementGuidId>495f9094-3024-4b80-89e6-d8a6b44aacd5</elementGuidId>
+   <elementGuidId>388026ad-8256-4c92-8100-e10eb0fdb5cf</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/main/div/div/div[2]/div[5]/div/div/form/div[1]/div[1]/input</value>
+         <value>//input[@id='pend_nama_kegiatan_A']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#nama_kegiatan</value>
+         <value>#pend_nama_kegiatan_A</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +23,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>427be8c0-cc7a-4316-bc80-cd901329fc6b</webElementGuid>
+      <webElementGuid>89aa423f-845a-44a8-b736-407a6843d127</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>pend_nama_kegiatan_A</value>
+      <webElementGuid>12fc6e48-f9e2-4407-95ac-caff231b79c0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +39,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>15bcd427-96b4-4433-9e41-b20b7ebb6b56</webElementGuid>
+      <webElementGuid>4b0a9c02-f9b9-41b3-93b8-7a9bbe5ef7c7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,15 +47,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>df814097-49bf-4c98-94d8-76d58d7ca022</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>nama_kegiatan</value>
-      <webElementGuid>fe858958-5e8b-4f2a-b5a3-9ef14afd89ef</webElementGuid>
+      <webElementGuid>3f580bc0-65c5-4094-aafa-472f9b4c1bde</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,46 +55,46 @@
       <name>name</name>
       <type>Main</type>
       <value>nama_kegiatan</value>
-      <webElementGuid>5f8b0593-3a06-463b-978f-b6823e5b8272</webElementGuid>
+      <webElementGuid>b41e2b24-1d53-42fb-9b2e-1bbbb1ab4ab6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;modalpengabdian_A&quot;)/div[@class=&quot;modal-dialog modal-dialog-centered&quot;]/div[@class=&quot;modal-content&quot;]/form[@class=&quot;formTambahData&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;mb-3&quot;]/input[@id=&quot;nama_kegiatan&quot;]</value>
-      <webElementGuid>fe818280-0a0c-4d46-abd1-0332cb8150d5</webElementGuid>
+      <value>id(&quot;pend_nama_kegiatan_A&quot;)</value>
+      <webElementGuid>c87b6346-5f18-4b57-8869-d960be871a63</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='nama_kegiatan']</value>
-      <webElementGuid>f551edbb-b4a0-4ee7-8878-c91904f2a3cd</webElementGuid>
+      <value>//input[@id='pend_nama_kegiatan_A']</value>
+      <webElementGuid>9c55c45d-4e62-4843-8531-ef1d749863b5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='modalpengabdian_A']/div/div/form/div/div/input</value>
-      <webElementGuid>7b3364ff-2994-42de-9f74-bbae83393ac5</webElementGuid>
+      <value>//div[@id='modalPendidikan_A']/div/div/form/div/div/input</value>
+      <webElementGuid>d9a87e00-c1cf-4dbb-b02b-9c1fb8aae618</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div/div/input</value>
-      <webElementGuid>349c4e00-a98f-464f-9f99-6993e46d9eeb</webElementGuid>
+      <value>//form/div/div/input</value>
+      <webElementGuid>e2442e70-637f-4116-bad9-41b934f4b9e1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'text' and @id = 'nama_kegiatan' and @name = 'nama_kegiatan']</value>
-      <webElementGuid>5646b9e2-78d6-49af-a413-c3946c0e2fef</webElementGuid>
+      <value>//input[@id = 'pend_nama_kegiatan_A' and @type = 'text' and @name = 'nama_kegiatan']</value>
+      <webElementGuid>434995b7-9a28-4d73-b315-de394d65f1fe</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -3,18 +3,19 @@
    <description></description>
    <name>button_Tambah Kegiatan (69)</name>
    <tag></tag>
-   <elementGuidId>0ed2f181-3f2a-4704-a3e0-74db95f040f2</elementGuidId>
+   <elementGuidId>ce6011fe-7bbe-45e7-b94d-13576578d670</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/main/div/div/div[2]/div[5]/div/div/button</value>
+         <value>//button[@id='btnFrkPenunjangN']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#btnFrkPenelitianB</value>
+         <value>#btnFrkPenunjangN</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,15 +23,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>5ddea7b7-9268-4d25-ab3e-bb826aa8d6b4</webElementGuid>
+      <webElementGuid>66de5fef-b550-48d7-9778-4d7c9618ba1c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>btnFrkPenelitianB</value>
-      <webElementGuid>21eeb5ab-1ef6-4e1e-9dc2-c97c40ae4592</webElementGuid>
+      <value>btnFrkPenunjangN</value>
+      <webElementGuid>8fcff038-8601-441e-907a-9aecb8d248ee</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,15 +39,15 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>1fae31e5-6048-4416-9620-e1772b08bb3b</webElementGuid>
+      <webElementGuid>713c7fdc-873a-4f92-82d2-e96a854cb395</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn btn-success col-md-auto mt-2 mb-2</value>
-      <webElementGuid>1ce2e758-717b-4610-baa1-9c876635df61</webElementGuid>
+      <value>btn btn-success col-md-auto m-1</value>
+      <webElementGuid>b5464a3f-fffe-47cc-954e-fbff7ec80bb0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,15 +55,15 @@
       <name>data-bs-toggle</name>
       <type>Main</type>
       <value>modal</value>
-      <webElementGuid>e4918401-7dc2-470f-95c2-2fa0f34ed22c</webElementGuid>
+      <webElementGuid>686791a9-8fc2-41fe-8e27-70a1efc1dfa1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>data-bs-target</name>
       <type>Main</type>
-      <value>#modalPenelitian_B</value>
-      <webElementGuid>e76dbffc-b9ec-4287-ac6a-8d830036b37c</webElementGuid>
+      <value>#modalPenunjang_N</value>
+      <webElementGuid>60797097-1545-4111-a3de-6748e7e3f1b1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -72,50 +73,82 @@
       <value>
                     Tambah Kegiatan
                 </value>
-      <webElementGuid>1b92d071-d2c4-423c-bb11-f44349762672</webElementGuid>
+      <webElementGuid>4b08e81d-145c-4c54-8a78-83173d5b6ac6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;btnFrkPenelitianB&quot;)</value>
-      <webElementGuid>3ad8d949-6dea-41c1-94ab-eb66e37b84bf</webElementGuid>
+      <value>id(&quot;btnFrkPenunjangN&quot;)</value>
+      <webElementGuid>844afb53-b1c6-4a67-8e7c-92d470c25dc4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@id='btnFrkPenelitianB']</value>
-      <webElementGuid>4c32e4c3-7e36-4c7b-acb7-32c7100ff63c</webElementGuid>
+      <value>//button[@id='btnFrkPenunjangN']</value>
+      <webElementGuid>3169ad76-4fb8-4c7f-8b58-af57e3b1693f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//main[@id='contentPage']/div/div/div[2]/div[5]/div/div/button</value>
-      <webElementGuid>c7bc3d90-4e73-4237-b36f-b3efeb52ccb6</webElementGuid>
+      <value>//div[@id='penunjang-N']/div/div/button</value>
+      <webElementGuid>3310d09d-7418-4065-ae10-99608e988147</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='N. Reviewer jurnal ilmiah , proposal Hibah dll'])[1]/following::button[1]</value>
+      <webElementGuid>c2678857-4e8c-46a9-9b1a-5fad6c60ed24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Asesor 2'])[13]/following::button[1]</value>
+      <webElementGuid>1c434dcd-b87a-47c9-abd7-3d5b5bfcea0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No.'])[14]/preceding::button[1]</value>
+      <webElementGuid>36f6f256-9ff6-4be7-9358-60a0b7c9bc71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kegiatan'])[14]/preceding::button[1]</value>
+      <webElementGuid>7984473d-27c4-4db0-990b-7358ff083eea</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[5]/div/div/button</value>
-      <webElementGuid>d1ed5e6f-1a2f-4dbe-bd06-4c4cac43087e</webElementGuid>
+      <value>//div[17]/div/div/button</value>
+      <webElementGuid>5b9d7760-5df1-406a-b65d-c03a0891461d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@id = 'btnFrkPenelitianB' and @type = 'button' and (text() = '
+      <value>//button[@id = 'btnFrkPenunjangN' and @type = 'button' and (text() = '
                     Tambah Kegiatan
                 ' or . = '
                     Tambah Kegiatan
                 ')]</value>
-      <webElementGuid>14614377-8709-4900-a47c-54bd983574ab</webElementGuid>
+      <webElementGuid>fadd2220-a9d6-484c-a11a-434ac8ba986e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

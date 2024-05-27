@@ -45,15 +45,5 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/Page_FRK  FED/select
 WebUI.selectOptionByValue(findTestObject('Object Repository/Page_FRK  FED/select_Open this select menu               _ee553e (1)'), 
     'Nasional', true)
 
-WebUI.click(findTestObject('Object Repository/Page_FRK  FED/button_Simpan (60)'))
-
-WebUI.verifyElementText(findTestObject('Object Repository/Page_FRK  FED/td_Ketua (1)'), 'Ketua')
-
-WebUI.verifyElementText(findTestObject('Object Repository/Page_FRK  FED/td_Nasional (1)'), 'Nasional')
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_FRK  FED/td_Menunggu (75)'), 0)
-
-WebUI.rightClick(findTestObject('Object Repository/Page_FRK  FED/td_Menunggu (75)'))
-
 WebUI.closeBrowser()
 

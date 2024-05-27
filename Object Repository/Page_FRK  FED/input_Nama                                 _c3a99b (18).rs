@@ -3,18 +3,19 @@
    <description></description>
    <name>input_Nama                                 _c3a99b (18)</name>
    <tag></tag>
-   <elementGuidId>f5263deb-b40b-47e8-8e41-840ce70d8e2d</elementGuidId>
+   <elementGuidId>2b37572d-baaf-4d41-a453-74be028de2ca</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(//input[@id='nama_kegiatan'])[2]</value>
+         <value>//input[@id='nama-86']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#modalEditPenelitian-10 > div.modal-dialog.modal-dialog-centered > div.modal-content > div.modal-body > div.modal-body > div.mb-3 > #nama_kegiatan</value>
+         <value>#nama-86</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,15 +23,23 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>2a3db6e8-93ac-47a0-8022-c2a0a87c18f0</webElementGuid>
+      <webElementGuid>95d8eccd-c430-4ea4-bb2e-e976ee9acf70</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>name</name>
+      <name>id</name>
       <type>Main</type>
-      <value>nama_kegiatan</value>
-      <webElementGuid>8f6158e0-14a5-4224-bef6-c56e7355d86e</webElementGuid>
+      <value>nama-86</value>
+      <webElementGuid>55394f25-3a94-4d1b-a263-d14c20550ba5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Test Pendidikan A1</value>
+      <webElementGuid>130ffaa2-7e62-40c3-b4d4-83fc70e3cce4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +47,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>0e4bd7b5-b1fd-4449-a62d-eb9562e8c663</webElementGuid>
+      <webElementGuid>f86823e0-3d22-46d8-b467-86eb429d083e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,62 +55,54 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>448783c6-659b-4329-acd1-84419bd99eb1</webElementGuid>
+      <webElementGuid>53f20d98-3f63-48a4-96a6-75f24d732f8f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>id</name>
+      <name>name</name>
       <type>Main</type>
       <value>nama_kegiatan</value>
-      <webElementGuid>771bce2c-7af8-4e3f-9841-06392e029dac</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>value</name>
-      <type>Main</type>
-      <value>Penelitian 1</value>
-      <webElementGuid>4e2504dc-8c7c-4730-9e33-b2c3946fa577</webElementGuid>
+      <webElementGuid>b6dfef02-b909-4b5c-8eb0-a56beada1ce7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;modalEditPenelitian-10&quot;)/div[@class=&quot;modal-dialog modal-dialog-centered&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;mb-3&quot;]/input[@id=&quot;nama_kegiatan&quot;]</value>
-      <webElementGuid>e8b2f6ce-1645-4944-bd10-1e943e58f2c7</webElementGuid>
+      <value>id(&quot;nama-86&quot;)</value>
+      <webElementGuid>5fb35655-50cd-498a-b559-2587707a9173</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>(//input[@id='nama_kegiatan'])[2]</value>
-      <webElementGuid>dd27463d-6fd1-4633-83af-6a7d33cb50a8</webElementGuid>
+      <value>//input[@id='nama-86']</value>
+      <webElementGuid>7a883b1f-f2cf-4b5e-a671-aff7d537cd22</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='modalEditPenelitian-10']/div/div/div[2]/div/div/input</value>
-      <webElementGuid>db2b8b5b-eb0c-47b0-a910-87eb15ee9b2f</webElementGuid>
+      <value>//div[@id='modalEditPendidikan-86']/div/div/div[2]/div/input</value>
+      <webElementGuid>f8ff71ed-fa69-4b16-8197-4974675833b2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[5]/div/div[2]/div/div/div[2]/div/div/input</value>
-      <webElementGuid>c929822c-1aad-44e4-a190-e18acd21487b</webElementGuid>
+      <value>//div[3]/div/div/div[2]/div/input</value>
+      <webElementGuid>5364a963-209c-4c07-8134-d39505543709</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@name = 'nama_kegiatan' and @type = 'text' and @id = 'nama_kegiatan']</value>
-      <webElementGuid>cbcd01c6-54a5-4f52-a1b8-0a253fedb77d</webElementGuid>
+      <value>//input[@id = 'nama-86' and @type = 'text' and @name = 'nama_kegiatan']</value>
+      <webElementGuid>7f4e55b1-07ef-42ae-b851-535d4d0c1c03</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

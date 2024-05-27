@@ -3,18 +3,19 @@
    <description></description>
    <name>button_Simpan (68)</name>
    <tag></tag>
-   <elementGuidId>7f75771f-73a0-41c2-b69c-ca7b2e3332bb</elementGuidId>
+   <elementGuidId>df9204ec-6a4b-4b2d-8c6a-bafa05d5b6e1</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/main/div/div/div[2]/div[5]/div/div/form/div[2]/button</value>
+         <value>//button[@id='btn_simpan_A']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>button.btn.btn-primary</value>
+         <value>#btn_simpan_A</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +23,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>96ff7705-be7e-4265-97ff-7bccda84c34c</webElementGuid>
+      <webElementGuid>c88394e9-a336-4aba-959d-24af02050131</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>btn_simpan_A</value>
+      <webElementGuid>fea05fc7-2691-4da3-8dfd-08278d3cacbf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +39,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>95d957c1-7911-4b8a-a9c6-d524c247d386</webElementGuid>
+      <webElementGuid>dc04d90a-33d2-4877-9076-b0cd0cad5282</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +47,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-primary</value>
-      <webElementGuid>05957ca9-7a60-4ac5-9d79-b5366ac860b8</webElementGuid>
+      <webElementGuid>f49dc4b3-2ffd-4f59-9b67-21c3eb7e3c5b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,31 +55,63 @@
       <name>text</name>
       <type>Main</type>
       <value>Simpan</value>
-      <webElementGuid>cf6c1929-28db-49a5-9294-e081f1a70997</webElementGuid>
+      <webElementGuid>299849a5-790a-4822-be31-6563743f787a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;modalpengabdian_A&quot;)/div[@class=&quot;modal-dialog modal-dialog-centered&quot;]/div[@class=&quot;modal-content&quot;]/form[@class=&quot;formTambahData&quot;]/div[@class=&quot;modal-footer&quot;]/button[@class=&quot;btn btn-primary&quot;]</value>
-      <webElementGuid>5fa0c661-78c5-4502-90d5-fe16531ddbf9</webElementGuid>
+      <value>id(&quot;btn_simpan_A&quot;)</value>
+      <webElementGuid>388cbda3-e5f5-4e56-aeac-58f828337cea</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@type='submit']</value>
-      <webElementGuid>0a57e66a-42ee-4879-93d5-5a2b0a17c82d</webElementGuid>
+      <value>//button[@id='btn_simpan_A']</value>
+      <webElementGuid>d555e984-8d5b-4b19-812c-67aa54d26684</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='modalpengabdian_A']/div/div/form/div[2]/button</value>
-      <webElementGuid>93328746-0068-4321-8837-fbd0adc22174</webElementGuid>
+      <value>//div[@id='modalPendidikan_A']/div/div/form/div[2]/button</value>
+      <webElementGuid>1cdc50c4-faee-49ac-96b4-57bb00b1bae0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SKS Mata Kuliah'])[3]/following::button[1]</value>
+      <webElementGuid>44578a53-08e0-49a6-91bc-1f21c657d0ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jumlah Kelas Evaluasi'])[3]/following::button[1]</value>
+      <webElementGuid>c71b697b-7b47-4b23-8c23-f708eed912e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama Kegiatan'])[21]/preceding::button[2]</value>
+      <webElementGuid>33aeb9ba-02e4-492a-af4a-1b2cec837521</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Simpan']/parent::*</value>
+      <webElementGuid>984c68af-d3c1-4af9-a2da-f86fd6143538</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,14 +119,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/button</value>
-      <webElementGuid>9888001a-fc78-429a-8c8b-11692f7d24f2</webElementGuid>
+      <webElementGuid>be89a138-8c3e-4ec7-a286-eb3d72742481</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'submit' and (text() = 'Simpan' or . = 'Simpan')]</value>
-      <webElementGuid>51d7307d-4f18-4eec-b336-25ab3f0df44b</webElementGuid>
+      <value>//button[@id = 'btn_simpan_A' and @type = 'submit' and (text() = 'Simpan' or . = 'Simpan')]</value>
+      <webElementGuid>7d7d4a01-9293-4105-935f-0425a2accdda</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

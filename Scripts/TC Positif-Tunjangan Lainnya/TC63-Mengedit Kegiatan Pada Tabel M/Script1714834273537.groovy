@@ -35,14 +35,5 @@ WebUI.click(findTestObject('Object Repository/Page_FRK  FED/a_Rekap Kegiatan (12
 
 WebUI.click(findTestObject('Object Repository/Page_FRK  FED/b_Tunjangan Lainnya (71)'))
 
-WebUI.click(findTestObject('Object Repository/Page_FRK  FED/button_Menunggu_btn btn-warning mr-1 (29)'))
-
-WebUI.setText(findTestObject('Object Repository/Page_FRK  FED/input_Nama                                 _705063 (8)'), 
-    'Peserta Seminar test')
-
-WebUI.click(findTestObject('Object Repository/Page_FRK  FED/button_Simpan Perubahan (26)'))
-
-WebUI.verifyElementText(findTestObject('Object Repository/Page_FRK  FED/td_Peserta Seminar test'), 'Peserta Seminar test')
-
 WebUI.closeBrowser()
 

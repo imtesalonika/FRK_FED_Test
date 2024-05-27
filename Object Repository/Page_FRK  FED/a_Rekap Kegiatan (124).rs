@@ -3,7 +3,7 @@
    <description></description>
    <name>a_Rekap Kegiatan (124)</name>
    <tag></tag>
-   <elementGuidId>56f9f0c6-39cd-488a-9879-4373660a7694</elementGuidId>
+   <elementGuidId>e826f0a7-1bfb-497f-95c5-cccc91baa45d</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -15,6 +15,7 @@
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,15 +23,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>5924d7d9-142e-4420-9b68-68d0b5214f7d</webElementGuid>
+      <webElementGuid>473e3957-a963-409b-97f9-00febd528f13</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>http://127.0.0.1:8000/formRencanaKerja/pendidikan</value>
-      <webElementGuid>c27c2a79-519e-4f21-a59b-de4a466a853b</webElementGuid>
+      <value>http://localhost:8000/formRencanaKerja/pendidikan</value>
+      <webElementGuid>e3e1740e-3279-4062-b941-c6b542231584</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +39,7 @@
       <name>class</name>
       <type>Main</type>
       <value>text-decoration-none sub-menu list-group-item-action py-2 ripple</value>
-      <webElementGuid>7ca63ef1-b201-4512-a7db-b4c8566cea0e</webElementGuid>
+      <webElementGuid>6eed2394-5f2d-4380-8517-5f021102db8c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -48,7 +49,7 @@
       <value>
                                             Rekap Kegiatan
                                         </value>
-      <webElementGuid>ca5be9a9-dd96-4f20-9955-ee3508499c5a</webElementGuid>
+      <webElementGuid>e39ce6b1-fba8-4e72-8579-b91504ff8074</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -56,7 +57,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;frk-collapse&quot;)/ul[@class=&quot;btn-toggle-nav list-unstyled fw-normal pb-1 small&quot;]/li[1]/a[@class=&quot;text-decoration-none sub-menu list-group-item-action py-2 ripple&quot;]</value>
-      <webElementGuid>85d2a076-9ee2-406c-ae8b-e11281b3c93d</webElementGuid>
+      <webElementGuid>4e980b34-22e0-4b29-9c6b-8957dd7dc303</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -64,7 +65,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='frk-collapse']/ul/li/a</value>
-      <webElementGuid>a1f8feff-dcea-4b66-a28f-382e68c0f2c6</webElementGuid>
+      <webElementGuid>8b1df904-c55b-46b2-9b8a-b22ab5e572cd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -72,15 +73,55 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Rekap Kegiatan')]</value>
-      <webElementGuid>ce8e0256-7c72-46ef-b111-5faa8692c124</webElementGuid>
+      <webElementGuid>a0c313fc-d65e-4c9c-bada-06ab19ce7c80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rencana Kerja'])[1]/following::a[1]</value>
+      <webElementGuid>72d79a30-393f-45cc-b465-bb312c4c45d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Profile'])[1]/following::a[2]</value>
+      <webElementGuid>a34d9ffd-f031-4a02-bb43-92817e7d21e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Evaluasi Diri'])[1]/preceding::a[1]</value>
+      <webElementGuid>7abecc7c-0f81-4056-a0f9-2741feffe457</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rekap Kegiatan'])[2]/preceding::a[2]</value>
+      <webElementGuid>ba755a3c-dbea-472b-a854-fbafb66b3fb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Rekap Kegiatan']/parent::*</value>
+      <webElementGuid>c9891714-990c-4c28-ac3b-3e31c3aa8a21</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>//a[@href='http://127.0.0.1:8000/formRencanaKerja/pendidikan']</value>
-      <webElementGuid>81988fe5-aab7-428d-80b3-d35931bca41d</webElementGuid>
+      <value>//a[@href='http://localhost:8000/formRencanaKerja/pendidikan']</value>
+      <webElementGuid>0b870d19-55a0-4859-b303-4922796d500b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -88,18 +129,18 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[3]/div/ul/li/a</value>
-      <webElementGuid>892143c7-28d6-4c56-b869-860838bf0610</webElementGuid>
+      <webElementGuid>d158d4f7-49fa-42ab-aea5-98bb2496d129</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = 'http://127.0.0.1:8000/formRencanaKerja/pendidikan' and (text() = '
+      <value>//a[@href = 'http://localhost:8000/formRencanaKerja/pendidikan' and (text() = '
                                             Rekap Kegiatan
                                         ' or . = '
                                             Rekap Kegiatan
                                         ')]</value>
-      <webElementGuid>074c0d5f-5ef4-4b06-b4a8-e714a13d4eed</webElementGuid>
+      <webElementGuid>4f05efc9-4fe9-454a-9b6b-3ab87ea64ae9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

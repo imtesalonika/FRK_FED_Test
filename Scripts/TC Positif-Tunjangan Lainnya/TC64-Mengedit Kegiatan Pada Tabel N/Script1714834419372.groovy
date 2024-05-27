@@ -21,31 +21,25 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://localhost:8000/')
 
-WebUI.setText(findTestObject('Object Repository/Page_FRK  FED - LOGIN/input_Username_username (106)'), 'mario')
+WebUI.setText(findTestObject('Object Repository/Page_FRK  FED - LOGIN/input_Username_username (127)'), 'mario')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_FRK  FED - LOGIN/input_Kata                                 _617843 (106)'), 
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_FRK  FED - LOGIN/input_Kata                                 _617843 (127)'), 
     'mHeVG5S2v2QyQ6TvDNzjuw==')
 
-WebUI.sendKeys(findTestObject('Object Repository/Page_FRK  FED - LOGIN/input_Kata                                 _617843 (106)'), 
+WebUI.sendKeys(findTestObject('Object Repository/Page_FRK  FED - LOGIN/input_Kata                                 _617843 (127)'), 
     Keys.chord(Keys.ENTER))
 
-WebUI.click(findTestObject('Object Repository/Page_FRK  FED/span_Rencana Kerja (33)'))
+WebUI.click(findTestObject('Object Repository/Page_FRK  FED/a_Rencana Kerja (90)'))
 
-WebUI.click(findTestObject('Object Repository/Page_FRK  FED/a_Rekap Kegiatan (106)'))
+WebUI.click(findTestObject('Object Repository/Page_FRK  FED/a_Rekap Kegiatan (127)'))
 
-WebUI.click(findTestObject('Object Repository/Page_FRK  FED/b_Tunjangan Lainnya (60)'))
+WebUI.click(findTestObject('Object Repository/Page_FRK  FED/b_Tunjangan Lainnya (74)'))
 
-WebUI.click(findTestObject('Object Repository/Page_FRK  FED/button_Menunggu_btn btn-warning mr-1 (17)'))
+WebUI.click(findTestObject('Object Repository/Page_FRK  FED/button_Tambah Kegiatan (69)'))
 
-WebUI.setText(findTestObject('Object Repository/Page_FRK  FED/input_Nama Kegiatan_nama_kegiatan (73)'), 'Reviewer Jurnal Ilmiah')
+WebUI.setText(findTestObject('Object Repository/Page_FRK  FED/input_Nama Kegiatan_nama_kegiatan (77)'), 'Reviewer Jurnal Ilmiah ')
 
-WebUI.click(findTestObject('Object Repository/Page_FRK  FED/button_Simpan Perubahan (20)'))
-
-WebUI.verifyElementText(findTestObject('Object Repository/Page_FRK  FED/td_Reviewer Jurnal Ilmiah'), 'Reviewer Jurnal Ilmiah')
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_FRK  FED/td_Menunggu (98)'), 0)
-
-WebUI.rightClick(findTestObject('Object Repository/Page_FRK  FED/td_Menunggu (98)'))
+WebUI.click(findTestObject('Object Repository/Page_FRK  FED/button_Simpan (69)'))
 
 WebUI.closeBrowser()
 
