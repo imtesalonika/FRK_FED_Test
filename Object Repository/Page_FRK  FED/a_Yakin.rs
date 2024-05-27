@@ -6,16 +6,15 @@
    <elementGuidId>e8459d61-f9cf-4df7-96c8-6e45c19230ce</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#confirmDeleteBtn</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//a[@id='confirmDeleteBtn']</value>
       </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#confirmDeleteBtn</value>
+      </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
-   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -23,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>e2d3ce42-6ddc-4bb9-809b-4087a9f911f4</webElementGuid>
+      <webElementGuid>44ab89a5-aa82-441e-b046-b7ec32d23e31</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>confirmDeleteBtn</value>
-      <webElementGuid>5f1bce13-5cda-4f5f-b899-351a55023a03</webElementGuid>
+      <webElementGuid>334b6a52-f7aa-4476-9d41-02b2f306e3e2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,39 +38,40 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-primary</value>
-      <webElementGuid>17f1d111-d7d3-40bb-8d74-08e726632d0f</webElementGuid>
+      <webElementGuid>c58bcc33-5cfe-45a3-879e-7154fe21aa30</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>http://localhost:8000/formRencanaKerja/pendidikan/teori/1</value>
-      <webElementGuid>4ab4987f-9d7e-4a1e-8505-d79d11008a7e</webElementGuid>
+      <value>http://127.0.0.1:8000/formRencanaKerja/pengabdian/karya/4</value>
+      <webElementGuid>6708913d-3c1d-4a16-a626-d3d200372510</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>onclick</name>
       <type>Main</type>
-      <value>event.preventDefault(); document.getElementById('delete-form-1').submit()</value>
-      <webElementGuid>2ed3604d-5053-4f00-b5a8-5616a0625d9f</webElementGuid>
+      <value>event.preventDefault(); document.getElementById('delete-form-4').submit()</value>
+      <webElementGuid>bb7a7f1f-496c-4694-b5c0-90d46a6e4b2e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Yakin</value>
-      <webElementGuid>867d79f9-b76b-41e1-840d-1957609f4476</webElementGuid>
+      <value>Yakin
+                                                </value>
+      <webElementGuid>f21eab67-1fb5-40c6-a6af-d5c21e50e888</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;tabelPendidikan-A&quot;)/tbody[@class=&quot;align-middle&quot;]/tr[1]/td[9]/div[@id=&quot;modalDeleteConfirm-1&quot;]/div[@class=&quot;modal-dialog modal-dialog-centered&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-footer justify-content-center&quot;]/a[@id=&quot;confirmDeleteBtn&quot;]</value>
-      <webElementGuid>3c1ed7ea-8f43-4b96-b1e4-27fac5583556</webElementGuid>
+      <value>id(&quot;modalDeleteConfirm-1&quot;)/div[@class=&quot;modal-dialog modal-dialog-centered&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-footer justify-content-center&quot;]/a[@id=&quot;confirmDeleteBtn&quot;]</value>
+      <webElementGuid>1647b666-ac81-4330-88a7-ccbc1e0c78ee</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//a[@id='confirmDeleteBtn']</value>
-      <webElementGuid>c6ac4a8f-568b-4c6d-8005-409c0d4b4be3</webElementGuid>
+      <webElementGuid>cbed1ff2-7747-4609-9f9f-412f1784e35a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='modalDeleteConfirm-1']/div/div/div[3]/a</value>
-      <webElementGuid>1340b048-cb1e-4564-b717-96296854717e</webElementGuid>
+      <webElementGuid>cfaf5d8a-f56c-47b1-88d7-caa860055a23</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,87 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Yakin')]</value>
-      <webElementGuid>1a9507cd-5486-43fc-8bec-ea7f33fcc3e4</webElementGuid>
+      <webElementGuid>cb90a347-f449-4256-999b-89ecc83957ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[@href='http://127.0.0.1:8000/formRencanaKerja/pengabdian/karya/4']</value>
+      <webElementGuid>393a5842-a2ec-4f2f-a949-1c7397f2b89b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/a</value>
+      <webElementGuid>8a001e28-5d19-45dd-99aa-c628c95a27b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'confirmDeleteBtn' and @href = 'http://127.0.0.1:8000/formRencanaKerja/pengabdian/karya/4' and (text() = 'Yakin
+                                                ' or . = 'Yakin
+                                                ')]</value>
+      <webElementGuid>842e7b90-3c68-4fa6-89eb-0841d7adb1ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[@href='http://127.0.0.1:8000/formRencanaKerja/pengabdian/konsultan/3']</value>
+      <webElementGuid>83ae1f9a-5335-4c70-95eb-04d4f95cbd68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'confirmDeleteBtn' and @href = 'http://127.0.0.1:8000/formRencanaKerja/pengabdian/konsultan/3' and (text() = 'Yakin
+                                                ' or . = 'Yakin
+                                                ')]</value>
+      <webElementGuid>dfa992bc-b293-4314-aacf-90b14b34fa6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[@href='http://127.0.0.1:8000/formRencanaKerja/pengabdian/penyuluhan/2']</value>
+      <webElementGuid>20fe312a-5262-47b3-8238-f6da908be894</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'confirmDeleteBtn' and @href = 'http://127.0.0.1:8000/formRencanaKerja/pengabdian/penyuluhan/2' and (text() = 'Yakin
+                                                ' or . = 'Yakin
+                                                ')]</value>
+      <webElementGuid>b81c5e5d-21c4-4ea1-8362-90d2284ba4f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[@href='http://127.0.0.1:8000/formRencanaKerja/pengabdian/kegiatan/1']</value>
+      <webElementGuid>2a5166a2-cae3-4d11-a000-aa630b428a64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'confirmDeleteBtn' and @href = 'http://127.0.0.1:8000/formRencanaKerja/pengabdian/kegiatan/1' and (text() = 'Yakin
+                                                ' or . = 'Yakin
+                                                ')]</value>
+      <webElementGuid>d9ddbc7c-326e-49d1-98da-702984ca7d90</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -144,14 +224,6 @@
       <type>Main</type>
       <value>//a[@href='http://localhost:8000/formRencanaKerja/pendidikan/teori/1']</value>
       <webElementGuid>df5f3e47-e234-495c-aec6-1e295c8a72a0</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div[3]/a</value>
-      <webElementGuid>fa7b7f5b-27fa-4a81-b480-968f421ae7f7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

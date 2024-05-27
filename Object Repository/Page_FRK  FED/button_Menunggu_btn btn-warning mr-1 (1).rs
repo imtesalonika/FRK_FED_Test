@@ -7,15 +7,14 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(//button[@type='button'])[12]</value>
+         <value>(//button[@type='button'])[11]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#tablePenunjang-B > tbody > tr > td:nth-of-type(7) > button.btn.btn-warning.mr-1</value>
+         <value>button.btn.btn-danger</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
-   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -23,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>48b0ae11-25cb-41cb-83bf-22344e7b6a65</webElementGuid>
+      <webElementGuid>885a3351-0959-44ab-ac98-fcf6f4c458e4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,15 +30,15 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>306d379f-6c08-4bab-b92f-e87ff30df78d</webElementGuid>
+      <webElementGuid>3d0f52e0-643c-4d9a-b278-b0a70cdcdb99</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn btn-warning mr-1</value>
-      <webElementGuid>d3715995-d9a3-4c6a-a676-1c65664e3897</webElementGuid>
+      <value>btn btn-danger</value>
+      <webElementGuid>34a27075-3361-4ffb-8487-20310277250c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,26 +46,194 @@
       <name>data-bs-toggle</name>
       <type>Main</type>
       <value>modal</value>
-      <webElementGuid>d1d80633-a81a-48a7-b9c1-a2fdac6c0982</webElementGuid>
+      <webElementGuid>448ab1c0-f3e8-4d4a-9311-c4c06cedca6f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>data-bs-target</name>
       <type>Main</type>
-      <value>#modalEditPenunjang-2</value>
-      <webElementGuid>60c8eb4b-8e65-4a5a-8227-0494156d5c8b</webElementGuid>
+      <value>#modalDeleteConfirm-1</value>
+      <webElementGuid>2e7e65c0-df75-48c5-87de-bcf573fc6fc8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;tablePenunjang-B&quot;)/tbody[1]/tr[1]/td[7]/button[@class=&quot;btn btn-warning mr-1&quot;]</value>
-      <webElementGuid>a16a0963-cd26-4d53-9ece-3e64b49771c4</webElementGuid>
+      <value>id(&quot;contentPage&quot;)/div[@class=&quot;bg-abu container-fluid pt-4&quot;]/div[@class=&quot;mt-5 flex-wrap ml-4 mr-4&quot;]/div[@class=&quot;bg-white mt-2&quot;]/div[@class=&quot;card shadow-sm mt-5 ml-1 mr-1 bg-card&quot;]/div[@class=&quot;card-body&quot;]/table[@class=&quot;table table-striped table-bordered mt-2 text-center&quot;]/tbody[1]/tr[1]/td[11]/button[@class=&quot;btn btn-danger&quot;]</value>
+      <webElementGuid>bc942e9c-9947-4261-b35b-9708d05af974</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[11]</value>
+      <webElementGuid>5713812b-2a1e-431c-8316-dd10a8c33097</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='contentPage']/div/div/div[2]/div[10]/div/table/tbody/tr/td[11]/button[2]</value>
+      <webElementGuid>8198f275-1743-44a7-9a87-d735abcbe7ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>1effb499-5fbc-44df-a2af-d2ebc85ed779</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button']</value>
+      <webElementGuid>80c4b28b-3398-482d-8107-17d2dc289a4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[9]</value>
+      <webElementGuid>aeed2675-af70-4725-94c3-10a447bcb4d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='contentPage']/div/div/div[2]/div[8]/div/table/tbody/tr/td[7]/button[2]</value>
+      <webElementGuid>175a1d5c-9341-48db-ac09-61ae62e20852</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[7]</value>
+      <webElementGuid>de9fee5b-4aac-47b2-9579-8e77a7098802</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='contentPage']/div/div/div[2]/div[6]/div/table/tbody/tr/td[7]/button[2]</value>
+      <webElementGuid>301bfbfa-fef8-4df7-998d-d5f273ff6737</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[5]</value>
+      <webElementGuid>8a856c7e-6fdc-4e44-a795-278be871545d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='contentPage']/div/div/div[2]/div[4]/div/table/tbody/tr/td[7]/button[2]</value>
+      <webElementGuid>7f9726d2-e803-4c03-afca-e30d184856f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[25]</value>
+      <webElementGuid>075c8231-41ba-4434-9e73-0bb7c41cb977</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='contentPage']/div/div/div[2]/div[10]/div/table/tbody/tr/td[11]/button</value>
+      <webElementGuid>d322b7c3-0e20-4092-8544-ec01a34c7a5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[11]/button</value>
+      <webElementGuid>6d08884b-f377-4b08-a6ac-79611a99c24b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[18]</value>
+      <webElementGuid>711abf99-07c0-4fad-b10c-6bb823745049</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='contentPage']/div/div/div[2]/div[8]/div/table/tbody/tr/td[7]/button</value>
+      <webElementGuid>8347eab7-afa0-4f85-96dd-0f1e40ad6b3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/table/tbody/tr/td[7]/button</value>
+      <webElementGuid>bd1a3034-25d4-40bb-82e7-69bd9810b17a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='contentPage']/div/div/div[2]/div[6]/div/table/tbody/tr/td[7]/button</value>
+      <webElementGuid>e6a7b09b-0ac6-467c-8aed-2476e94f66ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/table/tbody/tr/td[7]/button</value>
+      <webElementGuid>efbfb04b-0581-493c-a353-0291532a2993</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[4]</value>
+      <webElementGuid>f997c1d7-c434-42af-8b92-58eb3be16098</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='contentPage']/div/div/div[2]/div[4]/div/table/tbody/tr/td[7]/button</value>
+      <webElementGuid>e2cf06f2-2f3e-4dd7-a4e4-3f20e63ea14a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[7]/button</value>
+      <webElementGuid>fbb17f14-130b-47a3-ac90-aa72565461b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
@@ -112,13 +279,5 @@
       <type>Main</type>
       <value>//div[5]/div/div[2]/table/tbody/tr/td[7]/button</value>
       <webElementGuid>6dd3d2fc-5d75-4ca1-be58-a572a401e71a</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//button[@type = 'button']</value>
-      <webElementGuid>cacec17e-e6b4-46b9-a0e9-4649e0a2bc0f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -7,15 +7,14 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//table[@id='tablePenunjang-K']/tbody/tr/td[3]</value>
+         <value>//main[@id='contentPage']/div/div/div[2]/div[8]/div/table/tbody/tr/td[3]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#tablePenunjang-K > tbody > tr > td:nth-of-type(3)</value>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
-   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -23,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>td</value>
-      <webElementGuid>5fb182d6-c8b8-4504-a02f-c558f3494bc3</webElementGuid>
+      <webElementGuid>26375f0d-8565-4740-84a6-334109a1138f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,18 +30,42 @@
       <name>text</name>
       <type>Main</type>
       <value>Ketua</value>
-      <webElementGuid>0f1c0614-641d-48bb-92b1-a0797dbd7361</webElementGuid>
+      <webElementGuid>62f135ee-9503-4a09-9017-5ed1f6daf65a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;tablePenunjang-K&quot;)/tbody[1]/tr[1]/td[3]</value>
-      <webElementGuid>9c5e442f-e1a6-4171-8bbf-9faae5f2f0bc</webElementGuid>
+      <value>id(&quot;contentPage&quot;)/div[@class=&quot;bg-abu container-fluid pt-4&quot;]/div[@class=&quot;mt-5 flex-wrap ml-4 mr-4&quot;]/div[@class=&quot;bg-white mt-2&quot;]/div[@class=&quot;card shadow-sm mt-5 ml-1 mr-1 bg-card&quot;]/div[@class=&quot;card-body&quot;]/table[@class=&quot;table table-striped table-bordered mt-2 text-center&quot;]/tbody[1]/tr[1]/td[3]</value>
+      <webElementGuid>fdcca0cf-5fdd-489d-845d-c8586102bfde</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='contentPage']/div/div/div[2]/div[8]/div/table/tbody/tr/td[3]</value>
+      <webElementGuid>30ef25ae-40bb-4ead-b8bc-755edf110a45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/table/tbody/tr/td[3]</value>
+      <webElementGuid>a24e5299-4488-4cee-886e-26472b3337fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Ketua' or . = 'Ketua')]</value>
+      <webElementGuid>18a3e166-71c9-4814-91f1-1a5923f89851</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
@@ -96,13 +119,5 @@
       <type>Main</type>
       <value>//div[14]/div/div[2]/table/tbody/tr/td[3]</value>
       <webElementGuid>a46945e0-815a-4e2e-881b-0e7f57643990</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//td[(text() = 'Ketua' or . = 'Ketua')]</value>
-      <webElementGuid>84e2e130-640f-4356-9c32-f6acada0f321</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

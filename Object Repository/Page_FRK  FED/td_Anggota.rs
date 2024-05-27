@@ -7,15 +7,14 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//table[@id='tablePenunjang-K']/tbody/tr[2]/td[3]</value>
+         <value>//main[@id='contentPage']/div/div/div[2]/div[8]/div/table/tbody/tr/td[3]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#tablePenunjang-K > tbody > tr:nth-of-type(2) > td:nth-of-type(3)</value>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
-   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -23,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>td</value>
-      <webElementGuid>002ab21a-5a4d-49c2-b651-61a031fdacea</webElementGuid>
+      <webElementGuid>d43ec0bd-c0e0-4e12-bb2a-ad5ca9ca8f7a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,18 +30,42 @@
       <name>text</name>
       <type>Main</type>
       <value>Anggota</value>
-      <webElementGuid>009f04b6-9a9d-4f86-b9e9-a728a164a350</webElementGuid>
+      <webElementGuid>768676b9-7fa9-405c-9fdd-d15f4e6162cc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;tablePenunjang-K&quot;)/tbody[1]/tr[2]/td[3]</value>
-      <webElementGuid>af9de79d-96be-4add-ad27-ba43d791fdbf</webElementGuid>
+      <value>id(&quot;contentPage&quot;)/div[@class=&quot;bg-abu container-fluid pt-4&quot;]/div[@class=&quot;mt-5 flex-wrap ml-4 mr-4&quot;]/div[@class=&quot;bg-white mt-2&quot;]/div[@class=&quot;card shadow-sm mt-5 ml-1 mr-1 bg-card&quot;]/div[@class=&quot;card-body&quot;]/table[@class=&quot;table table-striped table-bordered mt-2 text-center&quot;]/tbody[1]/tr[1]/td[3]</value>
+      <webElementGuid>6e9490fc-2843-4d7b-ac7f-264b07201e65</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='contentPage']/div/div/div[2]/div[8]/div/table/tbody/tr/td[3]</value>
+      <webElementGuid>67fe987d-2745-4473-a55e-44f1f6c316ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/table/tbody/tr/td[3]</value>
+      <webElementGuid>e3cb83cb-f315-42e6-9850-4608a42f21de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Anggota' or . = 'Anggota')]</value>
+      <webElementGuid>573deb8c-e9cc-48ea-9c21-26f127a6e787</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
@@ -96,13 +119,5 @@
       <type>Main</type>
       <value>//div[14]/div/div[2]/table/tbody/tr[2]/td[3]</value>
       <webElementGuid>b8a8ae14-4dc7-4cca-bdc8-d083bca95b80</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//td[(text() = 'Anggota' or . = 'Anggota')]</value>
-      <webElementGuid>df4e5192-aca9-42f0-8b9b-89154e1fd3b3</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
