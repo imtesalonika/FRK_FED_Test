@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC23_Tabel G_gagal menambah kegiatan dengan tidak memilih jenis pengerjaan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a1dcd10e-9853-4db7-8759-133554fd9e7f</testCaseGuid>
+</TestCaseEntity>

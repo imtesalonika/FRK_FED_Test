@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Peran                               _3b4ec9 (1)</name>
+   <tag></tag>
+   <elementGuidId>2df416e9-66cf-48b2-81f4-a8f44a31d8dd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>form.formTambahData > div.modal-body > div.mb-3 > select[name=&quot;peran&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//select[@name='peran'])[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>97e6a473-4bb7-417e-b300-2e0ca90a3777</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>peran</value>
+      <webElementGuid>d4b752ba-7927-4646-9b44-ccaf7cd8c018</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-select form-select-md mb-3</value>
+      <webElementGuid>2aa6eba7-4e8a-4f0a-b4c2-a83b61146128</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>.form-select-lg example</value>
+      <webElementGuid>9db6d9be-4eec-4867-9125-d0b2a9d0e1f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                    Peran
+                                    Editor
+                                    Kontributor
+                                </value>
+      <webElementGuid>83936d5d-457e-49cf-9c00-c21fed6945e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modalPenelitian_C&quot;)/div[@class=&quot;modal-dialog modal-dialog-centered&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/form[@class=&quot;formTambahData&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;mb-3&quot;]/select[@class=&quot;form-select form-select-md mb-3&quot;]</value>
+      <webElementGuid>7ee80cbc-8425-428d-bbdb-72f229efab47</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//select[@name='peran'])[3]</value>
+      <webElementGuid>0146ca28-fe9f-4031-afc9-7910f03f7864</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modalPenelitian_C']/div/div/div[2]/form/div/div[4]/select</value>
+      <webElementGuid>6ec4cbd6-b6fa-4f33-b79a-864b083fefea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Peran'])[6]/following::select[1]</value>
+      <webElementGuid>e3820fef-3e65-401c-9a46-9a0de2a0ee47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jenis Pengerjaan'])[7]/following::select[2]</value>
+      <webElementGuid>be497b35-83f4-4e96-a16b-1af5bdb09a4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Simpan'])[5]/preceding::select[1]</value>
+      <webElementGuid>649648d4-1017-4370-9965-606215d24873</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama Kegiatan'])[14]/preceding::select[1]</value>
+      <webElementGuid>a84f945d-720a-4b5b-9b3c-cad72f18c97c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div[4]/select</value>
+      <webElementGuid>65abb57b-cf50-4871-8681-3f99021e8517</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'peran' and (text() = '
+                                    Peran
+                                    Editor
+                                    Kontributor
+                                ' or . = '
+                                    Peran
+                                    Editor
+                                    Kontributor
+                                ')]</value>
+      <webElementGuid>e51a97fe-1683-45a3-bb02-5b052a7f2c96</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

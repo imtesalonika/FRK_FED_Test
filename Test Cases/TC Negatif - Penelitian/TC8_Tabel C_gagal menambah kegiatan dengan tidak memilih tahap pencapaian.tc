@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC8_Tabel C_gagal menambah kegiatan dengan tidak memilih tahap pencapaian</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f937d782-549c-42c4-a990-95186b1e9682</testCaseGuid>
+</TestCaseEntity>
