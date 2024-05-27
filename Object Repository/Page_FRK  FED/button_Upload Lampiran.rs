@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Upload Lampiran</name>
+   <tag></tag>
+   <elementGuidId>7ec54d38-589a-48fc-ba87-9ca1add48e64</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#btnUploadPenunjangA-1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='btnUploadPenunjangA-1']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>3466fc0e-62c8-405a-8cc2-c2eb209f48d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>164bfd89-df50-4ab6-a8b0-3f97f0430318</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary</value>
+      <webElementGuid>14d488d1-8935-421d-aa91-cf3c77163d22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>btnUploadPenunjangA-1</value>
+      <webElementGuid>7aedce87-12d8-4c0f-b45d-d20bcccb8ab9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                                Upload Lampiran
+                                            </value>
+      <webElementGuid>09ebb7ee-98bb-436b-a564-803aefd859c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;btnUploadPenunjangA-1&quot;)</value>
+      <webElementGuid>53df636a-e9dc-465b-86ab-f33f044d3acc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='btnUploadPenunjangA-1']</value>
+      <webElementGuid>e2b06145-e7c3-473e-ad9a-e4959b90cf97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modalEditEvaluasiPenunjang-1']/div/div/div[3]/button[2]</value>
+      <webElementGuid>3f06134c-4ee6-49be-be0e-2619573e5dde</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>cd8e74f6-4207-4eb2-8394-2034cd3bf0ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and @id = 'btnUploadPenunjangA-1' and (text() = '
+                                                Upload Lampiran
+                                            ' or . = '
+                                                Upload Lampiran
+                                            ')]</value>
+      <webElementGuid>01590ef2-e092-4c00-ab05-c61b5ff976f1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

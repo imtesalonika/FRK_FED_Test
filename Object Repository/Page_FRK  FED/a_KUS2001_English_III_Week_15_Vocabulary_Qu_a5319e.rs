@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_KUS2001_English_III_Week_15_Vocabulary_Qu_a5319e</name>
+   <tag></tag>
+   <elementGuidId>51eb8879-ef23-4778-8486-4d59991d1127</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-danger.btn-sm.btn-circle.ms-2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@onclick=&quot;event.preventDefault(); deleteFile('12', 'S1VTMjAwMV9FbmdsaXNoX0lJSV9XZWVrXzE1X1ZvY2FidWxhcnlfUXVlc3Rpb25zICgxKV8xMl8xNDM1X0Fzb3NpYXNpMTcxNjc5ODk4OS5wcHR4')&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>81f427d1-348a-48f3-9dbf-4539e17efc1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>event.preventDefault(); deleteFile('12', 'S1VTMjAwMV9FbmdsaXNoX0lJSV9XZWVrXzE1X1ZvY2FidWxhcnlfUXVlc3Rpb25zICgxKV8xMl8xNDM1X0Fzb3NpYXNpMTcxNjc5ODk4OS5wcHR4')</value>
+      <webElementGuid>638e5d30-d07f-46ba-b6f9-6c13bd580e4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-danger btn-sm btn-circle ms-2</value>
+      <webElementGuid>97d07116-d169-4a28-a51a-dc8cad31aa21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modalEditEvaluasiPenunjangL-12&quot;)/div[@class=&quot;modal-dialog modal-lg&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;mt-3 mb-3&quot;]/div[@id=&quot;existsFiles&quot;]/div[@class=&quot;file-item d-flex align-items-center mb-2 border rounded p-3&quot;]/div[1]/a[@class=&quot;btn btn-danger btn-sm btn-circle ms-2&quot;]</value>
+      <webElementGuid>4996bc94-1f5a-49c4-96bf-82a32b1465d0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@onclick=&quot;event.preventDefault(); deleteFile('12', 'S1VTMjAwMV9FbmdsaXNoX0lJSV9XZWVrXzE1X1ZvY2FidWxhcnlfUXVlc3Rpb25zICgxKV8xMl8xNDM1X0Fzb3NpYXNpMTcxNjc5ODk4OS5wcHR4')&quot;]</value>
+      <webElementGuid>f2aa6b2a-9172-45d2-8548-327b9c4e07b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='existsFiles']/div/div/a</value>
+      <webElementGuid>ae3badec-b306-469a-b066-46a31fa7ed29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/a</value>
+      <webElementGuid>7870c358-6959-485a-8703-ea09612fe6a2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

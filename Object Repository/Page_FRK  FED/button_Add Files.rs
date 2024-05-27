@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Add Files</name>
+   <tag></tag>
+   <elementGuidId>7e8f5581-19fd-4afa-b094-2d1bd2380ad0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#addFilesBtn-1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='addFilesBtn-1']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>eb5af8c0-d975-4fac-ab58-4e1a27e3af72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>25ba9bc4-a742-4a3c-856f-b2feb6b0c4e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>addFilesBtn-1</value>
+      <webElementGuid>7460b6fe-cf76-4d3a-a940-739f3d45e424</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-secondary</value>
+      <webElementGuid>6a34964c-a71f-4a67-b393-88b59f812b5e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                                            Add Files
+                                                        </value>
+      <webElementGuid>c8ce580e-d6c2-48aa-bfa3-bf40ff469119</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;addFilesBtn-1&quot;)</value>
+      <webElementGuid>690ce410-447c-4e84-b7c2-122b46245625</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='addFilesBtn-1']</value>
+      <webElementGuid>816497ba-1fbc-4c2d-beac-b9593d7a7ef8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modalEditEvaluasiPenunjang-1']/div/div/div[2]/div/div/div/button</value>
+      <webElementGuid>f64e6a19-09a7-4dd2-aeb8-5c13b64da661</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/button</value>
+      <webElementGuid>8a58ddba-fcaf-4d13-82a7-67a83bf80f2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and @id = 'addFilesBtn-1' and (text() = '
+                                                            Add Files
+                                                        ' or . = '
+                                                            Add Files
+                                                        ')]</value>
+      <webElementGuid>460d5e91-a93b-47a8-a1d9-69e5fee28c36</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
