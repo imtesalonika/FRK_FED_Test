@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Pilih posisi                        _7a7306</name>
+   <tag></tag>
+   <elementGuidId>a9a12cc5-7b82-4445-b2ac-b799114de547</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/main/div/div/div[2]/div[18]/div/div/form/div[1]/div[3]/select</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#penePosisiA</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>ebb504d8-b19c-463b-a38a-14103598e1cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>penePosisiA</value>
+      <webElementGuid>5c0c73a5-8583-4ae5-925e-c134370a3664</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>posisi</value>
+      <webElementGuid>a89ce309-8ad0-419f-8db8-be829ad21a61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-select form-select-md mb-3</value>
+      <webElementGuid>57b1139f-4866-4db3-922e-8df07a661e5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>.form-select-lg example</value>
+      <webElementGuid>89e784b0-1ca3-468a-b4ef-442b39b71cd4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                Pilih posisi
+                                Ketua
+                                Anggota
+                            </value>
+      <webElementGuid>3c1d3c40-a352-4d08-9229-4f0e491e71f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;penePosisiA&quot;)</value>
+      <webElementGuid>55535bca-7555-4684-b480-34de5e7ab3e0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='penePosisiA']</value>
+      <webElementGuid>79c374da-abc2-4056-b832-160eee8f3606</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modalPenelitian_A']/div/div/form/div/div[3]/select</value>
+      <webElementGuid>f5ac370f-ec05-406a-81e7-1d401d75d1ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/select</value>
+      <webElementGuid>3b16bf0e-c7e5-4322-bacb-2f6645d214bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'penePosisiA' and @name = 'posisi' and (text() = '
+                                Pilih posisi
+                                Ketua
+                                Anggota
+                            ' or . = '
+                                Pilih posisi
+                                Ketua
+                                Anggota
+                            ')]</value>
+      <webElementGuid>ce2d6505-451f-4f22-a490-749e62a743ad</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

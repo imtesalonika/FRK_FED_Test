@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Pilih jenis pengerjaan              _22d8df</name>
+   <tag></tag>
+   <elementGuidId>fe2d91b2-2b7c-46e0-ad85-ccd162096af9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='jenis_pengerjaan']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#jenis_pengerjaan</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>cc791069-b895-461d-a735-273b1146fd54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>jenis_pengerjaan</value>
+      <webElementGuid>f34663fc-51c2-4642-86c8-b57d70dd46a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>jenis_pengerjaan</value>
+      <webElementGuid>d2be35ea-2512-4248-acbc-f133714e1cb8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-select form-select-md mb-3</value>
+      <webElementGuid>3fcf2091-4f4e-4aef-933e-66877975247c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>.form-select-md example</value>
+      <webElementGuid>23d835d4-663a-4d6e-9550-4deed11a0c55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                Pilih jenis pengerjaan
+                                Mandiri
+                                Kelompok
+                            </value>
+      <webElementGuid>8522299f-622e-42c7-a08e-167fc1e70db4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;jenis_pengerjaan&quot;)</value>
+      <webElementGuid>11ce557b-90dc-4870-bae8-6e6df1334cde</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='jenis_pengerjaan']</value>
+      <webElementGuid>2d550e7c-6fcb-4721-a840-73e0b490f57e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modalpengabdian_D']/div/form/div/div[2]/div[4]/select</value>
+      <webElementGuid>efc75ae5-d5a3-472d-b047-bf97a5fb43a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/select</value>
+      <webElementGuid>dcb6f2be-9eba-4842-a16b-94ed37c7b503</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'jenis_pengerjaan' and @id = 'jenis_pengerjaan' and (text() = '
+                                Pilih jenis pengerjaan
+                                Mandiri
+                                Kelompok
+                            ' or . = '
+                                Pilih jenis pengerjaan
+                                Mandiri
+                                Kelompok
+                            ')]</value>
+      <webElementGuid>9d88e3c3-285a-43ce-9d1c-44a26433a043</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

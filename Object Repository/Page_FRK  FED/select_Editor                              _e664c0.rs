@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Editor                              _e664c0</name>
+   <tag></tag>
+   <elementGuidId>4f032b02-15f7-4859-85da-5716fb7b3711</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//select[@name='peran'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#modalEditPenelitian-12 > div.modal-dialog.modal-dialog-centered > div.modal-content > div.modal-body > div.modal-body > div.mb-3 > select[name=&quot;peran&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>852befaa-c009-4f44-83b8-b4ec1f2ba39f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>peran</value>
+      <webElementGuid>962b61fd-9b77-4e5c-af82-a2c0e26fed8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-select form-select-md mb-3</value>
+      <webElementGuid>9eb90c30-d4be-44a5-b0bb-e28802dd8428</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>.form-select-lg example</value>
+      <webElementGuid>b30f5404-f7b1-45f0-b799-0cb2856af7b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                                        Editor
+                                                        Kontributor
+                                                    </value>
+      <webElementGuid>34e15278-0099-4489-9032-ffb2a1b82ad0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modalEditPenelitian-12&quot;)/div[@class=&quot;modal-dialog modal-dialog-centered&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;mb-3&quot;]/select[@class=&quot;form-select form-select-md mb-3&quot;]</value>
+      <webElementGuid>c369fb09-da19-4a8e-a36c-64e33cf15f0e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//select[@name='peran'])[2]</value>
+      <webElementGuid>1cce64cf-4b7e-4745-8126-815eca6ba729</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modalEditPenelitian-12']/div/div/div[2]/div/div[4]/select</value>
+      <webElementGuid>4cd3dbcf-890b-47f7-9552-b46a1f03001e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div[2]/div/div/div[2]/div/div[4]/select</value>
+      <webElementGuid>9c5df09c-cb78-4a84-be8b-f771d73aae46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'peran' and (text() = '
+                                                        Editor
+                                                        Kontributor
+                                                    ' or . = '
+                                                        Editor
+                                                        Kontributor
+                                                    ')]</value>
+      <webElementGuid>a0fb430e-574f-4617-9391-d5cf4bc07726</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -6,16 +6,15 @@
    <elementGuidId>04181a48-a040-4287-8a63-9728df198261</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#typeEmailX</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@id='typeEmailX']</value>
       </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#typeEmailX</value>
+      </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
-   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -23,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>5e2a5e49-efcf-4ee2-9d41-b5175fc4e26c</webElementGuid>
+      <webElementGuid>0326d91d-9c95-45d0-a72f-34cdc51dcae1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>c179f4fa-9591-4eb7-ba0c-2008f3c09881</webElementGuid>
+      <webElementGuid>f7d86d35-4486-48b1-9a66-26ee6c17f74e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +38,7 @@
       <name>name</name>
       <type>Main</type>
       <value>username</value>
-      <webElementGuid>754af8fb-3bfd-4739-8254-170bd3e79abf</webElementGuid>
+      <webElementGuid>c8e83c79-9a31-46ea-8e94-aceb683883ec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +46,7 @@
       <name>id</name>
       <type>Main</type>
       <value>typeEmailX</value>
-      <webElementGuid>b353064d-f180-4ad6-94f2-97135170130c</webElementGuid>
+      <webElementGuid>94e59d4d-d91f-495e-8c82-4312dbbed88d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +54,7 @@
       <name>class</name>
       <type>Main</type>
       <value>shadow form-control form-control-lg border-dark </value>
-      <webElementGuid>9683c97f-5abc-4648-8c67-aba7a58997a6</webElementGuid>
+      <webElementGuid>a9ff3fe3-24e6-4ad9-8508-41c0c5deb790</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +62,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;typeEmailX&quot;)</value>
-      <webElementGuid>a2b7eafb-e609-4c67-a67a-9728159a517e</webElementGuid>
+      <webElementGuid>737b182b-f155-4ef8-a700-79ad434a803e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>wfd-id</name>
+      <type>Main</type>
+      <value>id1</value>
+      <webElementGuid>bc261cad-f50d-4c5b-b341-6d4dae5867ac</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -71,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='typeEmailX']</value>
-      <webElementGuid>5048413f-7e33-4bd6-b93b-6e101537a5cb</webElementGuid>
+      <webElementGuid>06b4d6c4-05a5-4246-a3f6-5fbbc39d242a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/input</value>
-      <webElementGuid>aa96f3d1-4c7b-47b2-8ecb-a28eed50e51b</webElementGuid>
+      <webElementGuid>50ae8ea8-e3dd-4e5b-8655-6418d437aa2f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @name = 'username' and @id = 'typeEmailX']</value>
-      <webElementGuid>2d73feb2-8264-4890-9daa-306c94afec71</webElementGuid>
+      <webElementGuid>d7f75071-1ae4-42ee-bf83-7690c580edae</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

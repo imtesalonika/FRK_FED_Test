@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Ketua                               _5711b0</name>
+   <tag></tag>
+   <elementGuidId>2b2cfc26-4a06-4149-8aa2-f36f14994950</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//select[@name='posisi'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#modalEditPenelitian-13 > div.modal-dialog.modal-dialog-centered > div.modal-content > div.modal-body > div.modal-body > div.mb-3 > select[name=&quot;posisi&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>eac1dbae-dd81-466b-a90a-fac67d7e5133</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>posisi</value>
+      <webElementGuid>bb797527-7745-40ca-b511-5707f7a45f51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-select form-select-md mb-3</value>
+      <webElementGuid>d18f54e9-cdad-4297-b703-115815e9f73c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>.form-select-lg example</value>
+      <webElementGuid>f62cd5e9-14fe-49e1-b7af-243f1f4e320f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                                        Ketua
+                                                        Editor
+                                                        Anggota
+                                                    </value>
+      <webElementGuid>5479d5b9-743e-443b-99e1-a1209cc3243e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modalEditPenelitian-13&quot;)/div[@class=&quot;modal-dialog modal-dialog-centered&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;mb-3&quot;]/select[@class=&quot;form-select form-select-md mb-3&quot;]</value>
+      <webElementGuid>dae42e8f-6444-475c-94e8-ca4f9daeb1c2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//select[@name='posisi'])[2]</value>
+      <webElementGuid>8ac2b676-2a5e-4d03-8cba-ced4ffb67ed3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modalEditPenelitian-13']/div/div/div[2]/div/div[3]/select</value>
+      <webElementGuid>79a3f8de-fb05-4d23-9de0-0da9a5d39b5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/div[2]/div/div/div[2]/div/div[3]/select</value>
+      <webElementGuid>e3a30ed0-fd66-4dda-83d5-cca84ae8dd7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'posisi' and (text() = '
+                                                        Ketua
+                                                        Editor
+                                                        Anggota
+                                                    ' or . = '
+                                                        Ketua
+                                                        Editor
+                                                        Anggota
+                                                    ')]</value>
+      <webElementGuid>ada0fc6c-db47-4a71-972b-153520ad9425</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
