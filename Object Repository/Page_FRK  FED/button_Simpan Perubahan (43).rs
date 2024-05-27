@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Simpan Perubahan (43)</name>
+   <tag></tag>
+   <elementGuidId>63b41888-90d9-436c-9d7d-405735fa0a60</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='edit-17']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#edit-17</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e304fbaa-040a-40f7-88c7-9ec0bd482087</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>edit-17</value>
+      <webElementGuid>6609f687-73cc-46de-ba53-cc57b25f984b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>817c47d5-0dfa-4b0b-ba60-9eae7c109d69</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary</value>
+      <webElementGuid>2a3acc43-6b0f-4e8b-b6a2-2a07ada5b3d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                                        Simpan Perubahan
+                                                    </value>
+      <webElementGuid>15d5280b-c159-4983-b9bf-0b7bec18305b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;edit-17&quot;)</value>
+      <webElementGuid>1539082d-a7c2-4dad-be45-f195e4ca9ff2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='edit-17']</value>
+      <webElementGuid>c572967d-aeb9-4965-8130-ad65e98a6a1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modalEditPendidikan-17']/div/div/div[3]/button</value>
+      <webElementGuid>0954f69e-bc35-4e9d-ba7d-2a8e8677de48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jumlah Dosen (Maks. 2/smt)'])[1]/following::button[1]</value>
+      <webElementGuid>03cbe317-0793-4262-927c-bece41dc74d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama Kegiatan'])[16]/following::button[1]</value>
+      <webElementGuid>63ba292d-18cd-464f-8fda-0144b967a11d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama Kegiatan'])[17]/preceding::button[2]</value>
+      <webElementGuid>7632884f-56b1-46e9-a284-b4734284ad67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jumlah Dosen (Maks. 2/smt)'])[2]/preceding::button[2]</value>
+      <webElementGuid>802bfc5b-e34d-44bb-8fbf-5a385915d8a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[12]/div/div[2]/div/div/div/div[3]/button</value>
+      <webElementGuid>c18ff5cc-2387-4a66-a8c8-75d6b62ab439</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'edit-17' and @type = 'submit' and (text() = '
+                                                        Simpan Perubahan
+                                                    ' or . = '
+                                                        Simpan Perubahan
+                                                    ')]</value>
+      <webElementGuid>3698786a-25e5-46c9-8ba0-b939fd436611</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

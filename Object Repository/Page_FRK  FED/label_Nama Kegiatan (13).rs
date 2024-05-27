@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Nama Kegiatan (13)</name>
+   <tag></tag>
+   <elementGuidId>4635384c-91f2-465d-84bc-a0055e69da75</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='modalEditPendidikan_7']/div/div/div[2]/div/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#modalEditPendidikan_7 > div.modal-dialog.modal-dialog-centered > div.modal-content > div.modal-body > div.mb-3 > label.form-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>3ab61343-2806-4543-8195-373d7274bb3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>nama</value>
+      <webElementGuid>75b6ec4b-2858-46f0-8808-c99b71df42b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-label</value>
+      <webElementGuid>f2dd45be-e3c5-4ea0-a88d-cc06285324a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Nama Kegiatan</value>
+      <webElementGuid>c134d251-b8c3-420a-a338-9ae000c4aea8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modalEditPendidikan_7&quot;)/div[@class=&quot;modal-dialog modal-dialog-centered&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;mb-3&quot;]/label[@class=&quot;form-label&quot;]</value>
+      <webElementGuid>20e18740-880e-42e2-adaf-b892334680f1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modalEditPendidikan_7']/div/div/div[2]/div/label</value>
+      <webElementGuid>4fb62cd6-1005-4ffe-b5ca-f5ddad95ccef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tambah Kegiatan'])[7]/following::label[1]</value>
+      <webElementGuid>ac6c3177-5a84-4cc4-bce4-b142d1aff281</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='G. Membimbing dosen yang lebih rendah Jenjang Jabatan Akademiknya'])[1]/following::label[1]</value>
+      <webElementGuid>2b834983-2b15-4c45-b744-d2c89be14f58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jumlah Dosen Dibimbing'])[1]/preceding::label[1]</value>
+      <webElementGuid>112b98a8-1f40-4493-a6a4-f3ebf2002321</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Simpan Perubahan'])[7]/preceding::label[2]</value>
+      <webElementGuid>7c91d26e-b6fd-4f00-b364-a35ccd742e2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]/div/div[2]/div/div/div/div[2]/div/label</value>
+      <webElementGuid>f03d1fdb-f466-4812-a3fa-6179db1c8df3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Nama Kegiatan' or . = 'Nama Kegiatan')]</value>
+      <webElementGuid>ce7bd305-469b-4803-81b1-c15065db8826</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

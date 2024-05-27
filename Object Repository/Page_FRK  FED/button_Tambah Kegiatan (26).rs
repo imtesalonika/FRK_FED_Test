@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Tambah Kegiatan (26)</name>
+   <tag></tag>
+   <elementGuidId>ca8b454f-7171-4fc8-b792-0bec76adc89c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='btnFrkPenelitianE']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#btnFrkPenelitianE</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>37a5cd7d-bd63-409a-8131-95487789c4c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>btnFrkPenelitianE</value>
+      <webElementGuid>303538c6-df05-4a80-ac6d-6356e16f6c6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>8eb87fe4-9d47-4c6f-bf97-549c9c765890</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-success col-md-auto m-1</value>
+      <webElementGuid>413b17a7-3042-4687-8d0f-a1976ce08903</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bs-toggle</name>
+      <type>Main</type>
+      <value>modal</value>
+      <webElementGuid>d2d3ad5b-0a9f-4147-9674-590181e18177</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bs-target</name>
+      <type>Main</type>
+      <value>#modalPendidikan_E</value>
+      <webElementGuid>6d0dcd84-929c-4e1b-94a1-d78c067fef11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                    Tambah Kegiatan
+                </value>
+      <webElementGuid>c048d513-0964-4142-a6d7-219edf63080b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;btnFrkPenelitianE&quot;)</value>
+      <webElementGuid>66ccdc39-b080-4476-beef-60fb8baab0dc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='btnFrkPenelitianE']</value>
+      <webElementGuid>84d3f9e6-c310-45db-872a-269fa69a245a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pendidikan-E']/div/div/button</value>
+      <webElementGuid>30309522-5a2c-4817-aa80-f2b3b47ad392</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Asesor 2'])[4]/following::button[1]</value>
+      <webElementGuid>baec63a0-86b0-4173-ab60-1032ac029719</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Asesor 1'])[4]/following::button[1]</value>
+      <webElementGuid>3e522201-9558-4435-89aa-1b653b76a908</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No.'])[5]/preceding::button[1]</value>
+      <webElementGuid>f5a80dbb-7a54-4468-8e8c-4452662b0ea9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kegiatan'])[5]/preceding::button[1]</value>
+      <webElementGuid>a64f2047-f378-4e37-88de-08bed4d6e163</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/div/button</value>
+      <webElementGuid>29610ac8-01d1-4934-9ce1-89921040ca1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'btnFrkPenelitianE' and @type = 'button' and (text() = '
+                    Tambah Kegiatan
+                ' or . = '
+                    Tambah Kegiatan
+                ')]</value>
+      <webElementGuid>50d307e6-fb61-40c6-a68b-e3e07c9a91f8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

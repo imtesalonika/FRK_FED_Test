@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Jumlah SAP (1)</name>
+   <tag></tag>
+   <elementGuidId>f860c72f-6d4e-4454-aa09-92dd4f6db57e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='modalEditPendidikan_8']/div/div/div[2]/div[2]/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>586a2843-2645-44ab-86c2-df657c8bd884</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-label</value>
+      <webElementGuid>954ef3eb-822d-4e30-a34e-778b00e41245</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Jumlah SAP</value>
+      <webElementGuid>1f0ddb81-f9cd-4c83-b114-8df337b32087</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modalEditPendidikan_8&quot;)/div[@class=&quot;modal-dialog modal-dialog-centered&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;mb-3&quot;]/label[@class=&quot;form-label&quot;]</value>
+      <webElementGuid>e2a89a12-2a5d-494f-b6cb-64e39eafb1c8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modalEditPendidikan_8']/div/div/div[2]/div[2]/label</value>
+      <webElementGuid>fc515005-e7ee-4cf3-9602-5124c46edfa9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama Kegiatan'])[8]/following::label[1]</value>
+      <webElementGuid>0056eefd-4ac8-4f93-b20c-0616d1cbdb5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tambah Kegiatan'])[8]/following::label[2]</value>
+      <webElementGuid>40398cf7-e811-46c6-afe5-773d1c634195</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Simpan Perubahan'])[8]/preceding::label[1]</value>
+      <webElementGuid>d16823f6-5f5b-464d-bef7-22d5e7594a89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yakin untuk menghapus kegiatan ini?'])[8]/preceding::label[1]</value>
+      <webElementGuid>d8ccb3b2-fff2-49c5-9458-457e80c1b126</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Jumlah SAP']/parent::*</value>
+      <webElementGuid>5959be32-e5d9-4ad9-8348-772856a0ce40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[11]/div/div[2]/div/div/div/div[2]/div[2]/label</value>
+      <webElementGuid>60c4dee7-5d7c-44a9-a05d-c6e59f72cd32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Jumlah SAP' or . = 'Jumlah SAP')]</value>
+      <webElementGuid>2e1c863e-1c32-4efa-ada8-ed1af34b6861</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

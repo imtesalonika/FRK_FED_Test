@@ -6,12 +6,12 @@
    <elementGuidId>806e0c13-24b6-4c22-b0ec-b5cecb2bf3c7</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#btn_simpan_A</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//button[@id='btn_simpan_A']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#btn_simpan_A</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>c7a61ff8-2bec-47d5-818e-d52276834340</webElementGuid>
+      <webElementGuid>93fcab75-9a05-4365-a562-2762211f4715</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>id</name>
       <type>Main</type>
       <value>btn_simpan_A</value>
-      <webElementGuid>e268ce8f-4200-4f95-be21-cda11bedcc57</webElementGuid>
+      <webElementGuid>80156a02-1244-4ac1-bb88-1ba05639233b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>fd2418df-78d1-4f0a-b512-40585820ec7a</webElementGuid>
+      <webElementGuid>2ffdba19-90e3-45a1-bc64-5aa3247ee692</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-primary</value>
-      <webElementGuid>40adc6c2-d904-4936-b9fc-2266302cd831</webElementGuid>
+      <webElementGuid>c5064c1c-4ef2-4a87-86bc-249741735ede</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Simpan</value>
-      <webElementGuid>6da57295-19ca-4066-bb2b-1da82bd5596d</webElementGuid>
+      <webElementGuid>64af89b2-028b-4cff-9f30-2fa86103a999</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;btn_simpan_A&quot;)</value>
-      <webElementGuid>13060272-f650-4fa9-b513-3bada9bfe97f</webElementGuid>
+      <webElementGuid>efcc45de-5f25-48cd-808d-b469b87c05de</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='btn_simpan_A']</value>
-      <webElementGuid>09276ed6-7715-4b4f-ba51-4077e51c56bf</webElementGuid>
+      <webElementGuid>9e186a5a-b85d-4fbd-9a43-17c29f43ff9d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,55 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='modalPendidikan_A']/div/div/form/div[2]/button</value>
-      <webElementGuid>7c7c22be-7e6e-4b6f-8f9b-70041b2a1c82</webElementGuid>
+      <webElementGuid>15bd226a-ff5f-44ea-a2c5-ed4c81dbb7b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SKS Mata Kuliah'])[3]/following::button[1]</value>
+      <webElementGuid>016f85e1-6600-46e4-8345-f8020e232dcd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jumlah Kelas Evaluasi'])[3]/following::button[1]</value>
+      <webElementGuid>e278290e-420b-4cb9-af78-0ed52ef17694</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama Kegiatan'])[5]/preceding::button[2]</value>
+      <webElementGuid>b832b646-a0db-494b-8af7-f22c1c276bb8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Simpan']/parent::*</value>
+      <webElementGuid>4c80981c-9155-4e5b-80c2-865c791dca58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button</value>
+      <webElementGuid>00e1b2b9-0ad7-4532-9e67-93750472df29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'btn_simpan_A' and @type = 'submit' and (text() = 'Simpan' or . = 'Simpan')]</value>
+      <webElementGuid>a69e4431-2d91-464a-9dc3-e8df61961f46</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -104,29 +152,5 @@
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama Kegiatan'])[2]/preceding::button[2]</value>
       <webElementGuid>5057472a-5428-43de-a1c6-a1d416f48b72</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Simpan']/parent::*</value>
-      <webElementGuid>60ba6aec-5d64-4e33-91be-8414a550d8e5</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div[2]/button</value>
-      <webElementGuid>97716e4f-996e-4779-83ef-95340a9fe294</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//button[@id = 'btn_simpan_A' and @type = 'submit' and (text() = 'Simpan' or . = 'Simpan')]</value>
-      <webElementGuid>c6a1da8a-4b1b-4c24-9a58-84c4112e00ec</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

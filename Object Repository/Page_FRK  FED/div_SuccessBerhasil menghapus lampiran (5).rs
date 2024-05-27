@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_SuccessBerhasil menghapus lampiran (5)</name>
+   <tag></tag>
+   <elementGuidId>667ac94e-f668-41a9-8085-897f7e5ba1ae</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='toast-container']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.toast.toast-success</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c6e09e3c-cdea-4ee1-8597-8089e7282aa1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>toast toast-success</value>
+      <webElementGuid>a573fc36-7cde-4c46-947c-4b355138d862</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>×Success!Berhasil menghapus lampiran</value>
+      <webElementGuid>0c93a784-ca62-4afd-b51d-173a34753890</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;toast-container&quot;)/div[@class=&quot;toast toast-success&quot;]</value>
+      <webElementGuid>712b8062-d894-44bd-a130-64892a5924c2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='toast-container']/div</value>
+      <webElementGuid>71047248-f8eb-49cf-aaa6-4c8b19368cb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tidak'])[1]/following::div[3]</value>
+      <webElementGuid>d3041085-fad5-43a7-b602-1ad8a8259e62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yakin'])[2]/following::div[3]</value>
+      <webElementGuid>dd79ba37-fc3d-4491-82c6-1eb44e8a0218</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//body/div/div</value>
+      <webElementGuid>d94bc625-84a9-4d20-8629-7793bbaf80b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '×Success!Berhasil menghapus lampiran' or . = '×Success!Berhasil menghapus lampiran')]</value>
+      <webElementGuid>7efdd7e1-7ec5-45d2-b226-43c7e37f69c4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

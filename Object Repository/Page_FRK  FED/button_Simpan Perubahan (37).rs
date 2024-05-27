@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Simpan Perubahan (37)</name>
+   <tag></tag>
+   <elementGuidId>3b824bc0-0ca9-4937-a27e-6c06f68b9267</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='edit-11']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#edit-11</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f67ce7ca-375c-4770-8bd5-f2e247dc4885</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>edit-11</value>
+      <webElementGuid>7b7f548d-4248-449d-81a5-ed667d20b6db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>2037fa42-ae2b-46fb-8fa0-4f1d04de2ae3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary</value>
+      <webElementGuid>efebfb45-a25f-4494-9c55-80124f5498b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                                        Simpan Perubahan
+                                                    </value>
+      <webElementGuid>736bcc27-a4b8-49c1-9717-7c6d3d3a5187</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;edit-11&quot;)</value>
+      <webElementGuid>f802f650-972a-4109-b11c-6775a24e5e96</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='edit-11']</value>
+      <webElementGuid>a5e48cf3-b84f-4fd3-9e02-34a454b651d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modalEditPendidikan-11']/div/div/div[3]/button</value>
+      <webElementGuid>d376ad1c-f7df-4add-b25f-d3eef9677718</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div/div[2]/div/div/div/div[3]/button</value>
+      <webElementGuid>9a743baf-aa0c-46c0-97fb-a57a2b51a025</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'edit-11' and @type = 'submit' and (text() = '
+                                                        Simpan Perubahan
+                                                    ' or . = '
+                                                        Simpan Perubahan
+                                                    ')]</value>
+      <webElementGuid>ce02fc9c-043e-496f-8b5b-0ad9f13d46fd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

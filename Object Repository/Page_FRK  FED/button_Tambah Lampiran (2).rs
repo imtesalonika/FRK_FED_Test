@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Tambah Lampiran (2)</name>
+   <tag></tag>
+   <elementGuidId>fbfac1ff-6e4a-4e06-9782-3bb338c4552a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[28]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td:nth-of-type(11) > button.btn.btn-primary.mr-1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>418acbba-11a3-4fc7-b8e6-c08135437c8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>09e2e241-6279-41e8-9ed7-491cb2b7b3b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary mr-1</value>
+      <webElementGuid>13f4f519-e76f-474a-a7c1-16ccb992fcda</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bs-toggle</name>
+      <type>Main</type>
+      <value>modal</value>
+      <webElementGuid>b33bedb0-9906-4584-aa78-c40099f70418</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bs-target</name>
+      <type>Main</type>
+      <value>#modalEditEvaluasiPengabdian_D_55</value>
+      <webElementGuid>d47356e9-34e9-43fe-919d-f594e07b2fc7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tambah Lampiran</value>
+      <webElementGuid>93e2dcb9-b9c8-4117-bf91-2884c4761e2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tablePengabdian-D&quot;)/tbody[1]/tr[1]/td[11]/button[@class=&quot;btn btn-primary mr-1&quot;]</value>
+      <webElementGuid>433adef6-9f51-4019-b0b5-4f0383c16f9e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[28]</value>
+      <webElementGuid>bde43ddd-58ad-483d-b32f-8872d11b3dba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='tablePengabdian-D']/tbody/tr/td[11]/button</value>
+      <webElementGuid>6667fe7b-0e2b-4255-ba05-9ee077598aa7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Penulis Utama'])[1]/following::button[1]</value>
+      <webElementGuid>7a728133-2c52-4410-bb43-bbae8aae2cad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mandiri'])[1]/following::button[1]</value>
+      <webElementGuid>95c5a736-585d-4900-a869-3d74a4e17bf9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Test Pengabdian D 2'])[1]/preceding::button[1]</value>
+      <webElementGuid>1d845ecd-fd48-4d69-aaa2-f3a41064d65e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lampiran sudah diisi.'])[4]/preceding::button[1]</value>
+      <webElementGuid>61e17e17-1172-475a-be64-60fe7d90fd41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[11]/button</value>
+      <webElementGuid>769f3abb-9e0b-4712-870f-1657ea843956</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Tambah Lampiran' or . = 'Tambah Lampiran')]</value>
+      <webElementGuid>f1c8ac0d-9097-4534-815c-e4f96302b05c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

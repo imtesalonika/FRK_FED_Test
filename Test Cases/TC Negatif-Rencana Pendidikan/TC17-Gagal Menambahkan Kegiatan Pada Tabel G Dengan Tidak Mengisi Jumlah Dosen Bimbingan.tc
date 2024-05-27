@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC17-Gagal Menambahkan Kegiatan Pada Tabel G Dengan Tidak Mengisi Jumlah Dosen Bimbingan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a9e15122-b90d-4ab9-b1bd-173057ab7935</testCaseGuid>
+</TestCaseEntity>

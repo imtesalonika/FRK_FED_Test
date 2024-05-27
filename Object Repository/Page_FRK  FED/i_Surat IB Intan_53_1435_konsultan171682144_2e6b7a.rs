@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Surat IB Intan_53_1435_konsultan171682144_2e6b7a</name>
+   <tag></tag>
+   <elementGuidId>a7247127-d6c0-42ff-8dfc-9bceae7c7e18</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@id='existsFiles']/div/div/a/i)[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#modalEditEvaluasiPengabdian_C_53 > div.modal-dialog.modal-lg > div.modal-content > div.modal-body > div.container > div.row > div.col-md-12 > #existsFiles > div.file-item.d-flex.align-items-center.mb-2.border.rounded.p-3 > div > a.btn.btn-danger.btn-sm.btn-circle.ms-2 > i.bi.bi-x</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>5777a13c-0066-43f1-8c00-1591324f8038</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bi bi-x</value>
+      <webElementGuid>43507764-b99a-44a8-8209-7e7895561d4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modalEditEvaluasiPengabdian_C_53&quot;)/div[@class=&quot;modal-dialog modal-lg&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@id=&quot;existsFiles&quot;]/div[@class=&quot;file-item d-flex align-items-center mb-2 border rounded p-3&quot;]/div[1]/a[@class=&quot;btn btn-danger btn-sm btn-circle ms-2&quot;]/i[@class=&quot;bi bi-x&quot;]</value>
+      <webElementGuid>7d513d3f-0418-4144-b14c-463dfa9da5df</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//div[@id='existsFiles']/div/div/a/i)[2]</value>
+      <webElementGuid>c5516fc7-6a5b-4bd0-be5e-823b04d78dea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/div/div/div/div[2]/div/div/div/div[2]/div/div/a/i</value>
+      <webElementGuid>5ca62146-e3e1-4663-a893-6e808e0d1328</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC06-Gagal Menambahkan Kegiatan Pada Tabel B Dengan Tidak Mengisi Jumlah Kelas</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>df0f9282-3a95-4f2f-94d9-e076a3da5237</testCaseGuid>
+</TestCaseEntity>

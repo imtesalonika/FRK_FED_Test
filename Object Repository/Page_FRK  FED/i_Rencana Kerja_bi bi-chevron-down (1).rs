@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Rencana Kerja_bi bi-chevron-down (1)</name>
+   <tag></tag>
+   <elementGuidId>ae9222b9-4aed-41d4-b72c-a015fa9dab6a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//nav[@id='sidebarMenu']/div/div/ul/li[3]/a/i[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.bi.bi-chevron-down</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>9ade7165-521e-4b72-9dfc-562cae5e18ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bi bi-chevron-down</value>
+      <webElementGuid>edaa7539-4032-4fef-96e2-f6be77db2205</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sidebarMenu&quot;)/div[@class=&quot;position-sticky&quot;]/div[@class=&quot;list-group list-group-flush mx-3 mt-5&quot;]/ul[@class=&quot;mt-5 list-unstyled ps-0&quot;]/li[3]/a[@class=&quot;btn-toggle list-group-item bg-abu list-group-item-action py-2 ripple d-flex justify-content-between align-items-center&quot;]/i[@class=&quot;bi bi-chevron-down&quot;]</value>
+      <webElementGuid>9d617491-c9b2-405a-9c7a-d3ea3d92ce04</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//nav[@id='sidebarMenu']/div/div/ul/li[3]/a/i[2]</value>
+      <webElementGuid>62e4d5f3-675a-4442-9481-574d3f4bb5c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//i[2]</value>
+      <webElementGuid>55a40a87-f739-48b8-ae4d-eb1853c46cc7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

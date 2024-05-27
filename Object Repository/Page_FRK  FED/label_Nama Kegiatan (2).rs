@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Nama Kegiatan (2)</name>
+   <tag></tag>
+   <elementGuidId>148bd4f7-2862-4d57-951d-906b2caa9e04</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='modalPendidikan_B']/div/div/div[2]/form/div/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>form.needs-validation > div.mb-3 > label.form-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>663b9270-f059-4c7e-9ca9-1ee74342f599</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>nama_kegiatan</value>
+      <webElementGuid>6a1a4dc5-e361-4fca-aec4-8755c53602f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-label</value>
+      <webElementGuid>1a2e3aa8-d29d-4fb1-817f-123c3529e4a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Nama Kegiatan</value>
+      <webElementGuid>0402e820-9581-4822-b493-0edccc62bb21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modalPendidikan_B&quot;)/div[@class=&quot;modal-dialog modal-dialog-centered&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/form[@class=&quot;needs-validation&quot;]/div[@class=&quot;mb-3&quot;]/label[@class=&quot;form-label&quot;]</value>
+      <webElementGuid>068158d7-f9fc-40d2-b001-c4de4d7b7cdb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modalPendidikan_B']/div/div/div[2]/form/div/label</value>
+      <webElementGuid>e0fb13ea-d408-4b0c-ba33-9e7d90051f79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Simpan'])[1]/following::label[1]</value>
+      <webElementGuid>2028dde6-06e5-4e2c-a6a8-76f7d7267193</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jumlah Kelas'])[3]/preceding::label[1]</value>
+      <webElementGuid>232e7d0e-37e5-4e6a-9462-e389c0118ac3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SKS Praktikum (1 SKS = 2 jam)'])[3]/preceding::label[2]</value>
+      <webElementGuid>8b60fc2b-1852-4667-80fd-4928c495d9a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/label</value>
+      <webElementGuid>f6d4d7af-7976-4a08-ad46-a5e4e70d0c7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Nama Kegiatan' or . = 'Nama Kegiatan')]</value>
+      <webElementGuid>d2cb7793-10aa-4648-b9d8-5015b110adb7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Tambah Kegiatan (19)</name>
+   <tag></tag>
+   <elementGuidId>879250ff-d369-4297-8df3-1d4601a8b32f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='btnFrkPenelitianB']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#btnFrkPenelitianB</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1b12adc2-7b5b-45a8-97a2-8e08e86df6d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>btnFrkPenelitianB</value>
+      <webElementGuid>ed06684f-1ce3-4cb3-9719-4f50872ff130</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d360d9fb-9bba-4062-93dc-fb257d34a571</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-success col-md-auto m-1</value>
+      <webElementGuid>445d5287-1944-44af-8b6e-97ce92b34f80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bs-toggle</name>
+      <type>Main</type>
+      <value>modal</value>
+      <webElementGuid>2bde5a7f-2c76-433e-b4c0-962d0b7c968a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bs-target</name>
+      <type>Main</type>
+      <value>#modalPendidikan_B</value>
+      <webElementGuid>a8636973-7592-44e6-8902-f824436aa953</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                    Tambah Kegiatan
+                </value>
+      <webElementGuid>98cfa8de-adae-4fb3-9b77-206dde189f6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;btnFrkPenelitianB&quot;)</value>
+      <webElementGuid>af3b67bf-eada-4264-a5f7-8eedad53472f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='btnFrkPenelitianB']</value>
+      <webElementGuid>19f388b4-3259-47a3-9c69-db9e8e6c958e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pendidikan-B']/div/div/button</value>
+      <webElementGuid>4fe661f8-e2e3-4667-a834-419bfc938947</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='B. Asistensi tugas atau praktikum terhadap setiap kelompok'])[1]/following::button[1]</value>
+      <webElementGuid>a5b74b08-9f82-48ce-9b81-9995803eea34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yakin'])[1]/following::button[1]</value>
+      <webElementGuid>440b1bb0-8f16-4ba0-a338-a381441f21dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jumlah Kelas'])[1]/preceding::button[2]</value>
+      <webElementGuid>4f5f257a-893b-400d-94c9-6448a7c614fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/button</value>
+      <webElementGuid>761f3af4-a941-4731-81a8-956ce572d150</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'btnFrkPenelitianB' and @type = 'button' and (text() = '
+                    Tambah Kegiatan
+                ' or . = '
+                    Tambah Kegiatan
+                ')]</value>
+      <webElementGuid>f685579a-bbf7-4e39-99ad-a145c224d562</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

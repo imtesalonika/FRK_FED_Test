@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Evaluasi Diri_bi bi-chevron-down (1)</name>
+   <tag></tag>
+   <elementGuidId>1b7df2d9-e17d-406a-9303-c73af8428177</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(4) > a.btn-toggle.list-group-item.bg-abu.list-group-item-action.py-2.ripple.d-flex.justify-content-between.align-items-center > i.bi.bi-chevron-down</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//nav[@id='sidebarMenu']/div/div/ul/li[4]/a/i[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>b2157726-37d0-41c2-9c11-3b1e3a167d29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bi bi-chevron-down</value>
+      <webElementGuid>3b9257b8-8f5e-4554-aae8-c133f46abea3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sidebarMenu&quot;)/div[@class=&quot;position-sticky&quot;]/div[@class=&quot;list-group list-group-flush mx-3 mt-5&quot;]/ul[@class=&quot;mt-5 list-unstyled ps-0&quot;]/li[4]/a[@class=&quot;btn-toggle list-group-item bg-abu list-group-item-action py-2 ripple d-flex justify-content-between align-items-center&quot;]/i[@class=&quot;bi bi-chevron-down&quot;]</value>
+      <webElementGuid>773b0ec8-5054-42b5-a3b9-7140cbd3d49d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//nav[@id='sidebarMenu']/div/div/ul/li[4]/a/i[2]</value>
+      <webElementGuid>5c1daad1-39cd-4642-992f-0b88c1232918</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/a/i[2]</value>
+      <webElementGuid>dab998d0-7a63-4606-b8ab-1a905db8646b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

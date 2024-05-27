@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC18-Gagal Menambahkan Kegiatan Pada Tabel H Dengan Tidak Mengisi Nama Kegiatan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cd320ce1-8065-40f4-97b0-1d9c3a752b8b</testCaseGuid>
+</TestCaseEntity>

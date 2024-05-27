@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Berhasil mengupload lampiran</name>
+   <tag></tag>
+   <elementGuidId>bf0b9283-b7bf-44e8-ac59-f5c9a4bb897d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='toast-container']/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.toast-message</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f1288154-5e8f-4ae3-b2bf-6fd4d2a47515</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>toast-message</value>
+      <webElementGuid>76a69e32-bb60-487b-9670-4525755102c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Berhasil mengupload lampiran</value>
+      <webElementGuid>91736dc0-a0cd-44cc-8086-95b85188bd92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;toast-container&quot;)/div[@class=&quot;toast toast-success&quot;]/div[@class=&quot;toast-message&quot;]</value>
+      <webElementGuid>c28331a3-1059-4ec5-9957-b9e5248c707f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='toast-container']/div/div[2]</value>
+      <webElementGuid>ced36141-46df-49b2-a446-1815d1c0bfe5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Success!'])[1]/following::div[1]</value>
+      <webElementGuid>8cba69b4-dd00-42bb-834c-0880ed8cf88c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[1]/following::div[2]</value>
+      <webElementGuid>6dc24b41-1841-4fc6-b624-a29df9fe0d51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Berhasil mengupload lampiran']/parent::*</value>
+      <webElementGuid>67bcbe35-6035-4f97-af75-8fe490ca9e7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//body/div/div/div[2]</value>
+      <webElementGuid>c32a528c-7989-4d55-867c-3a9cc0a56e69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Berhasil mengupload lampiran' or . = 'Berhasil mengupload lampiran')]</value>
+      <webElementGuid>181aa3cf-d545-4c5b-b1fc-4f66510e47d2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

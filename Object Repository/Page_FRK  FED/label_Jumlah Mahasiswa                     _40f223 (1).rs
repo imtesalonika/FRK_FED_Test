@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Jumlah Mahasiswa                     _40f223 (1)</name>
+   <tag></tag>
+   <elementGuidId>de68d9c8-1002-4dfe-9e3f-17122f466498</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='modalEditPendidikan-5']/div/div/div[2]/div[2]/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>84ad4fdc-7d7f-4007-95aa-6c3b2fe81ab3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>jumlah_mahasiswa</value>
+      <webElementGuid>f081c81a-cda7-4b55-842e-de66e00dec1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-label</value>
+      <webElementGuid>32e520ff-7708-401e-ba29-14067e6fcff3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Jumlah Mahasiswa
+                                                            Bimbingan</value>
+      <webElementGuid>0267a75e-04e5-43c0-a4e5-ce9c4f29bc21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modalEditPendidikan-5&quot;)/div[@class=&quot;modal-dialog modal-dialog-centered&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;mb-3&quot;]/label[@class=&quot;form-label&quot;]</value>
+      <webElementGuid>41beec4d-fa8c-4a96-aa11-d4e2222e7ea0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modalEditPendidikan-5']/div/div/div[2]/div[2]/label</value>
+      <webElementGuid>4b995197-5a8e-479b-a843-bcfae88dfb29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tambah Kegiatan'])[3]/following::label[2]</value>
+      <webElementGuid>7e3e7703-9230-49fc-92a4-b3edc04216fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div[2]/div/div/div/div[2]/div[2]/label</value>
+      <webElementGuid>eca9633b-e116-4a34-9a10-093b2a1fe882</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Jumlah Mahasiswa
+                                                            Bimbingan' or . = 'Jumlah Mahasiswa
+                                                            Bimbingan')]</value>
+      <webElementGuid>173f3b77-f7b6-4b95-8db4-63f124c8ae4d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

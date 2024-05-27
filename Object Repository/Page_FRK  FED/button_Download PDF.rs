@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Download PDF</name>
+   <tag></tag>
+   <elementGuidId>646eda31-d520-4f6b-b6e0-8a7cee994143</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-danger</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='submit']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>7cd79514-55ed-487c-aa6b-8ea35b71ba7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>4ca8acb7-09dc-46a5-b3a6-7a01da254357</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-danger</value>
+      <webElementGuid>31f63bde-649f-42a1-b2cd-f5d0c18ed841</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Download PDF</value>
+      <webElementGuid>0c99b5bd-7a71-4707-9103-20f3e6b02ebb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;contentPage&quot;)/div[@class=&quot;bg-abu container-fluid pt-4&quot;]/div[@class=&quot;mt-5 flex-wrap ml-4 mr-4 pb-4&quot;]/div[@class=&quot;bg-white mt-2 pb-3&quot;]/div[@class=&quot;container d-flex justify-content-end mr-1&quot;]/form[1]/button[@class=&quot;btn btn-danger&quot;]</value>
+      <webElementGuid>5330a62e-e827-432f-865a-b849d0988ae5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='submit']</value>
+      <webElementGuid>3313ce5f-ed42-4494-a5bd-1d1ea2782a88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='contentPage']/div/div/div[2]/div[4]/form/button</value>
+      <webElementGuid>e5352163-0890-4062-84e5-9a1042d3df31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Simpulan'])[1]/following::button[1]</value>
+      <webElementGuid>90646f55-d082-4b90-932b-d435ca529a34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Evaluasi Penunjang Lainnya'])[1]/following::button[1]</value>
+      <webElementGuid>08a69fec-f97c-4d28-8f27-347cda3e306e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Simpulan Evaluasi Diri'])[1]/preceding::button[1]</value>
+      <webElementGuid>99f5617d-85fc-4b5a-bb89-749e097ea534</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[1]/preceding::button[1]</value>
+      <webElementGuid>4af2c3ce-88aa-443b-8bf3-595795c3ac49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Download PDF']/parent::*</value>
+      <webElementGuid>7b773214-a1f0-4c5f-a883-131ec1bdef37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/button</value>
+      <webElementGuid>48ac8c96-c35d-4fdd-8c80-3a91b0630808</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = 'Download PDF' or . = 'Download PDF')]</value>
+      <webElementGuid>ec6bc3d3-0120-45e6-a544-d2fad574688a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

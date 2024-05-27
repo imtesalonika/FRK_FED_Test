@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC05-Gagal Menambahkan Kegiatan Pada Tabel B Dengan Tidak Mengisi Nama Kegiatan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e2f88311-ac72-4548-8f8d-d1b594eef8d2</testCaseGuid>
+</TestCaseEntity>
