@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC1_Tabel A_gagal menambah kegiatan dengan mengosongkan nama kegiatan</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>59af3f43-925a-48b3-870d-1cff00678c22</testCaseGuid>
-</TestCaseEntity>

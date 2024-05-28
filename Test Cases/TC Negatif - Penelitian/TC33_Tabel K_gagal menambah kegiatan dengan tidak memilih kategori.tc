@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC33_Tabel K_gagal menambah kegiatan dengan tidak memilih kategori</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>d269c35e-573b-4d85-bc60-ebe19e5cbc20</testCaseGuid>
-</TestCaseEntity>

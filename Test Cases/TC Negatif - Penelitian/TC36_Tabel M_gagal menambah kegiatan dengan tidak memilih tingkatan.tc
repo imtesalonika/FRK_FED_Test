@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC36_Tabel M_gagal menambah kegiatan dengan tidak memilih tingkatan</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>99747f4c-b6ce-4b33-aea8-b0ad1401ee42</testCaseGuid>
-</TestCaseEntity>

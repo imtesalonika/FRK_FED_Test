@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC14_Tabel D_gagal menambah kegiatan dengan tidak memilih peran</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>72a60af9-e1f0-4be4-9e84-fa4a881056e9</testCaseGuid>
-</TestCaseEntity>

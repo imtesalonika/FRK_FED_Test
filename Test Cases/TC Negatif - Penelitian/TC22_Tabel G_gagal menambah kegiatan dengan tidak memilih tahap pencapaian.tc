@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC22_Tabel G_gagal menambah kegiatan dengan tidak memilih tahap pencapaian</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>98e18193-f280-4235-a091-b343e0786c09</testCaseGuid>
-</TestCaseEntity>

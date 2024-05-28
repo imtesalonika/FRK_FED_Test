@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC17_Tabel E_gagal menambah kegiatan dengan tidak memilih posisi</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>9c073f1c-0865-45a0-9bc7-c136235db145</testCaseGuid>
-</TestCaseEntity>

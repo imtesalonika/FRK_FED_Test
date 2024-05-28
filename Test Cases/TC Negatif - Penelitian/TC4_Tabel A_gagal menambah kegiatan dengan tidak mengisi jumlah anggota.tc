@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC4_Tabel A_gagal menambah kegiatan dengan tidak mengisi jumlah anggota</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>1ffdd55f-c70f-4942-b32e-a2e433ef6ba9</testCaseGuid>
-</TestCaseEntity>
