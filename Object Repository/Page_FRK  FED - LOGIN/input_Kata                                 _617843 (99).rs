@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
@@ -90,3 +91,97 @@
       <webElementGuid>4379c6e2-27e7-4480-b027-1c45444f80a3</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Kata                                 _617843 (99)</name>
+   <tag></tag>
+   <elementGuidId>e0941932-9fb9-4e8d-afa8-20b35652e473</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='typePasswordX']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#typePasswordX</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>4f91ea80-691e-46e2-918c-14055df93aba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>password</value>
+      <webElementGuid>f6f27b0f-61a9-4c96-99a2-234bf6514d11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>password</value>
+      <webElementGuid>bf5ff655-b3a7-4b79-9091-9baf066e5b39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>typePasswordX</value>
+      <webElementGuid>f41279e6-90f9-4242-b18a-a3916d77b26c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>shadow form-control form-control-lg border-dark</value>
+      <webElementGuid>35296e1c-e989-45f9-aeb0-5e9cd4e4b31b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;typePasswordX&quot;)</value>
+      <webElementGuid>d4820b85-1a6a-41ae-aa78-74bc36cdaa7c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@id='typePasswordX']</value>
+      <webElementGuid>2f210252-5c30-403c-b756-6e8ce9dbaf3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/input</value>
+      <webElementGuid>0addf293-7229-48fc-820b-8f4467608e7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'password' and @name = 'password' and @id = 'typePasswordX']</value>
+      <webElementGuid>d506226b-2165-4b32-a094-a0e19488104d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
+>>>>>>> 8a8f20fa9ebde034c1c19771418b225d06099da6

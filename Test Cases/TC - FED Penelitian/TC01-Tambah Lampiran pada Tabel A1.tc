@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01-Tambah Lampiran pada Tabel A1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e4b2eade-461f-4d58-b389-7545a931cb95</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>78ef0855-89a1-4e14-8266-c68c5543aca8</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'C:\\\\Users\\\\ASUS\\\\Downloads\\\\Documents\\\\mpdf.pdf'</defaultValue>
+      <description></description>
+      <id>78ef0855-89a1-4e14-8266-c68c5543aca8</id>
+      <masked>false</masked>
+      <name>File</name>
+   </variable>
+</TestCaseEntity>

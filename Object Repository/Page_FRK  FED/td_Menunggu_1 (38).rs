@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Menunggu_1 (38)</name>
+   <tag></tag>
+   <elementGuidId>b75dbd17-ee66-4689-8951-7bc459c8b27e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='tablePenunjang-E']/tbody/tr[11]/td[6]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>tr:nth-of-type(11) > td:nth-of-type(6)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>eb2154e9-9e56-4b84-8e2a-2f841f920d70</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                                                            Menunggu
+                                                                        </value>
+      <webElementGuid>6830f5e8-822d-4645-9e54-71b7c36c4055</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tablePenunjang-E&quot;)/tbody[@class=&quot;align_middle&quot;]/tr[11]/td[6]</value>
+      <webElementGuid>ad6d9a54-f5ea-4771-abd0-f7f2dd2fc559</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='tablePenunjang-E']/tbody/tr[11]/td[6]</value>
+      <webElementGuid>a0ace135-27e4-4e36-b477-9cf34bbbfb18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Menunggu'])[29]/following::td[1]</value>
+      <webElementGuid>36cc8d06-409e-4d2b-821b-6d99b7811fdd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Waka Biro/ Waka Lembaga'])[11]/following::td[3]</value>
+      <webElementGuid>6565155b-586c-4a96-8cfb-a20a25acaefd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[11]/td[6]</value>
+      <webElementGuid>b0901a6d-ed7d-4a4a-b8f0-bed109c3ef7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '
+                                                                            Menunggu
+                                                                        ' or . = '
+                                                                            Menunggu
+                                                                        ')]</value>
+      <webElementGuid>2abcb5e7-72d9-4c03-84c5-d2a4d193bad7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

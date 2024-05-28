@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Tunjangan Lainnya (1)</name>
+   <tag></tag>
+   <elementGuidId>84a7c592-fc19-44da-bf3d-cafd66ff45a3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='contentPage']/div/div/div[2]/div[3]/ul/li[4]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ab0b040a-845c-43cd-ac02-05faf954ff7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-link</value>
+      <webElementGuid>e96d52c1-5009-4766-8b59-60c4c1d06d2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>http://localhost:8000/formRencanaKerja/penunjang </value>
+      <webElementGuid>6dd12305-7615-4724-bdee-9878bfa93d77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tunjangan Lainnya</value>
+      <webElementGuid>487e964d-6d1c-4877-9dae-f76c99af7bcd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;contentPage&quot;)/div[@class=&quot;bg-abu container-fluid pt-4&quot;]/div[@class=&quot;mt-5 flex-wrap ml-4 mr-4&quot;]/div[@class=&quot;bg-white mt-2 pb-3&quot;]/div[@class=&quot;mt-5 mb-5&quot;]/ul[@class=&quot;nav nav-pills justify-content-center text-center&quot;]/li[@class=&quot;nav-item nav-item-150 bg-abu-nav&quot;]/a[@class=&quot;nav-link&quot;]</value>
+      <webElementGuid>12f826fe-06c3-46a6-973a-e6b3ddc1d287</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='contentPage']/div/div/div[2]/div[3]/ul/li[4]/a</value>
+      <webElementGuid>0c398f47-8955-4a53-8abf-fef828aec962</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rencana Pengabdian'])[1]/following::a[1]</value>
+      <webElementGuid>a1b7f8d3-7f98-4cf5-b353-087b2fa456c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rencana Penelitian'])[1]/following::a[2]</value>
+      <webElementGuid>f7fb5795-a07b-4908-bae9-385461bea081</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Simpulan'])[1]/preceding::a[1]</value>
+      <webElementGuid>0287c302-e866-4aa5-98c8-d0705a9476ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[@href='http://localhost:8000/formRencanaKerja/penunjang ']</value>
+      <webElementGuid>a7385915-6ff8-4ff3-b4c5-c409ce9fec1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/ul/li[4]/a</value>
+      <webElementGuid>b696e1b1-5a96-4ec7-9843-e5567f0a9830</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'http://localhost:8000/formRencanaKerja/penunjang ' and (text() = 'Tunjangan Lainnya' or . = 'Tunjangan Lainnya')]</value>
+      <webElementGuid>5af213c0-704b-4a9a-a056-8c1a3bfaa36f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

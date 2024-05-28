@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Evaluasi Penunjang Lainnya (9)</name>
+   <tag></tag>
+   <elementGuidId>ef64c71f-463c-4fd9-9740-017e1942ad4f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='contentPage']/div/div/div[2]/div[3]/ul/li[4]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f979d7ca-b169-4444-ad13-7e2146b4b626</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-link</value>
+      <webElementGuid>65b7b2af-79c0-44dc-a757-8f85ce837d73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>http://127.0.0.1:8000/formEvaluasiDiri/penunjang </value>
+      <webElementGuid>a1730078-7b99-437e-be30-0d3f998a498d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Evaluasi Penunjang Lainnya</value>
+      <webElementGuid>b8a50904-31c2-4c01-a953-a428b7deb32a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;contentPage&quot;)/div[@class=&quot;bg-abu container-fluid pt-4&quot;]/div[@class=&quot;mt-5 flex-wrap ml-4 mr-4&quot;]/div[@class=&quot;bg-white mt-2&quot;]/div[@class=&quot;mt-5 mb-5&quot;]/ul[@class=&quot;nav nav-pills justify-content-center text-center&quot;]/li[@class=&quot;nav-item nav-item-150 bg-abu-nav&quot;]/a[@class=&quot;nav-link&quot;]</value>
+      <webElementGuid>a2e0fd73-87c3-4ab5-b3e7-60549bdc2828</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='contentPage']/div/div/div[2]/div[3]/ul/li[4]/a</value>
+      <webElementGuid>a911ee22-c229-4b7f-b1fd-cbf6d9ed40e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[@href='http://127.0.0.1:8000/formEvaluasiDiri/penunjang ']</value>
+      <webElementGuid>8b096d61-feff-48e8-8269-3bf3fde9e51e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/ul/li[4]/a</value>
+      <webElementGuid>3e388016-75c6-42cc-aa81-61e33bfaa03f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'http://127.0.0.1:8000/formEvaluasiDiri/penunjang ' and (text() = 'Evaluasi Penunjang Lainnya' or . = 'Evaluasi Penunjang Lainnya')]</value>
+      <webElementGuid>80ab37d3-a490-4959-bb15-59cc1c41b4e5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

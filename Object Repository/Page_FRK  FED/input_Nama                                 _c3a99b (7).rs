@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
@@ -106,3 +107,113 @@
       <webElementGuid>2f24e9b0-3a76-493f-ab43-848054de8fe7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Nama                                 _c3a99b (7)</name>
+   <tag></tag>
+   <elementGuidId>1187e86a-ec6e-4ef8-ad34-2fd901f2d26d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='nama-2']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#nama-2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>0ab3cf74-d173-4aa9-9884-2bf96f92c00f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>nama-2</value>
+      <webElementGuid>7db196bb-b2f4-4f06-9317-faba4f4c3d8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Bimbingan Mahasiswa</value>
+      <webElementGuid>cf75fa14-de35-4481-86d4-b27ceecb924a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>11353682-c49a-4175-8cf9-9d8a91adae3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>d461c76f-41e9-4807-8121-dfa12e470804</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>nama_kegiatan</value>
+      <webElementGuid>5df1ca8d-3531-47db-b43d-72a958851413</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nama-2&quot;)</value>
+      <webElementGuid>87b56810-6d5b-4f73-b451-2fe737ca73cf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@id='nama-2']</value>
+      <webElementGuid>80025c54-d13c-4a30-b253-f74c4e49ee94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modalEditPenunjang-2']/div/div/div[2]/div/input</value>
+      <webElementGuid>8be879dc-527b-4ef8-8478-3e6e6ae5de30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div[2]/div/div/div/div[2]/div/input</value>
+      <webElementGuid>139a8748-9fd1-408b-b5ed-9533d156f9ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@id = 'nama-2' and @type = 'text' and @name = 'nama_kegiatan']</value>
+      <webElementGuid>6ace0f93-85b5-4ab6-9665-aedc6669c18a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
+>>>>>>> 8a8f20fa9ebde034c1c19771418b225d06099da6

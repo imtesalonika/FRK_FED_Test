@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Tambah                              _e565e0</name>
+   <tag></tag>
+   <elementGuidId>69d58d96-e0d8-441e-a8ba-69fd26878ecb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[25]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#tablePenelitian-C > tbody > tr:nth-of-type(2) > td:nth-of-type(9) > button.btn.btn-primary.mr-1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;2 Test Penelitian C 2 Lampiran belum diupload. Pendahuluan Mandiri Editor 2.00 Tambah Lampiran&quot;i] >> internal:role=button</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>01c2df47-5ecb-4c94-a54f-67b01a1b3fab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>79a8c233-9b7c-4ccd-b78d-78e05462841f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary mr-1</value>
+      <webElementGuid>76b47a2e-0cba-4c93-b798-e38da3653e6d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bs-toggle</name>
+      <type>Main</type>
+      <value>modal</value>
+      <webElementGuid>97c7904b-7a7a-4109-96c6-3688a4ed4120</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bs-target</name>
+      <type>Main</type>
+      <value>#modalEditEvaluasiPenelitian_C-26</value>
+      <webElementGuid>b0891363-05d6-41c1-8784-b90b57798f30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tambah
+                                            Lampiran</value>
+      <webElementGuid>bb20a0ff-5c0e-4d2b-b267-ad942536d0ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tablePenelitian-C&quot;)/tbody[1]/tr[2]/td[9]/button[@class=&quot;btn btn-primary mr-1&quot;]</value>
+      <webElementGuid>6962d35e-8e24-460a-80cd-d4ced682bb0a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[25]</value>
+      <webElementGuid>7ca1eae2-1818-4fd2-8a49-28cfbcab6583</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='tablePenelitian-C']/tbody/tr[2]/td[9]/button</value>
+      <webElementGuid>e324e498-e224-49ec-b1f1-a351045d12ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Editor'])[2]/following::button[1]</value>
+      <webElementGuid>3466d6ba-b785-4425-954f-62288f409472</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mandiri'])[2]/following::button[1]</value>
+      <webElementGuid>cbcbb026-96c5-4e76-9e89-f777bff7a0db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*Jenis Dokumen yang harus dilengkapi :'])[7]/preceding::button[2]</value>
+      <webElementGuid>906aeb4a-e642-48c7-92f4-03940ca82089</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buku yang sudah terbit'])[3]/preceding::button[2]</value>
+      <webElementGuid>bf68c9e1-476b-4cf2-80e6-3f742cbd84eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/table/tbody/tr[2]/td[9]/button</value>
+      <webElementGuid>344e0869-8dba-4d8b-ad5e-b72fa88d0159</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Tambah
+                                            Lampiran' or . = 'Tambah
+                                            Lampiran')]</value>
+      <webElementGuid>515bb37f-5021-4af8-bfb6-6ac6ebe2097c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

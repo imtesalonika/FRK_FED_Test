@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Simpan</name>
+   <tag></tag>
+   <elementGuidId>09380203-a097-44c5-b37b-acf17168f3c5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='modalpengabdian_D']/div/form/div/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#modalpengabdian_D > div.modal-dialog.modal-dialog-centered > form.formTambahData > div.modal-content > div.modal-footer</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>75d9a466-eb97-4014-9160-6585c0f9e72b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>modal-footer</value>
+      <webElementGuid>006ffdd5-933e-48ec-b1b1-093b4e213609</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                        Simpan
+                    </value>
+      <webElementGuid>8b0c046c-c78f-4418-98fd-ef3fc3b3c7c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modalpengabdian_D&quot;)/div[@class=&quot;modal-dialog modal-dialog-centered&quot;]/form[@class=&quot;formTambahData&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-footer&quot;]</value>
+      <webElementGuid>4ed2d00a-f223-4441-853f-5d499cc1cc3d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modalpengabdian_D']/div/form/div/div[3]</value>
+      <webElementGuid>92578ece-f1b7-4da0-a14d-f270fe310b43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[11]/div/form/div/div[3]</value>
+      <webElementGuid>64e3d537-eab8-43dc-8d76-46747c8c76a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '
+                        Simpan
+                    ' or . = '
+                        Simpan
+                    ')]</value>
+      <webElementGuid>9fd94471-ad4f-4d52-b1e9-a376d7c2bb07</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

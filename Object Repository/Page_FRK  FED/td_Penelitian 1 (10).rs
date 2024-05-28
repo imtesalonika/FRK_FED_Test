@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Penelitian 1 (10)</name>
+   <tag></tag>
+   <elementGuidId>14a7bf52-fa96-4fe5-a4c2-ffd974b42cc6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='contentPage']/div/div/div[2]/div[9]/div/table/tbody/tr/td[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>c6d4c6d9-3e6c-4afd-a78e-6fe70549ef40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Penelitian 1</value>
+      <webElementGuid>74a21517-1229-4788-8963-0273185e3b44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;contentPage&quot;)/div[@class=&quot;bg-abu container-fluid pt-4&quot;]/div[@class=&quot;mt-5 flex-wrap ml-4 mr-4&quot;]/div[@class=&quot;bg-white mt-2&quot;]/div[@class=&quot;card shadow-sm mt-5 ml-1 mr-1 bg-card&quot;]/div[@class=&quot;card-body&quot;]/table[@class=&quot;table table-striped table-bordered mt-2 text-center&quot;]/tbody[@class=&quot;align-middle&quot;]/tr[1]/td[2]</value>
+      <webElementGuid>80b21a79-67c9-4e07-8355-fb105eac84ad</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='contentPage']/div/div/div[2]/div[9]/div/table/tbody/tr/td[2]</value>
+      <webElementGuid>9789eb55-2889-4af2-809d-c8ec2b18b62a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div/table/tbody/tr/td[2]</value>
+      <webElementGuid>13706612-c712-4729-b87a-81e7038191a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Penelitian 1' or . = 'Penelitian 1')]</value>
+      <webElementGuid>4d82f4de-8bf0-4b1b-9368-6b8b7cd53379</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

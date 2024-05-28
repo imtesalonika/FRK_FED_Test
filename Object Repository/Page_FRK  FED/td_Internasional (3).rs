@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Internasional (3)</name>
+   <tag></tag>
+   <elementGuidId>c51a2926-7046-451d-90f6-8c2c59790253</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='tablePenunjang-L']/tbody/tr/td[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#tablePenunjang-L > tbody > tr > td:nth-of-type(4)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>44b71ced-b2d2-485f-a94e-2eb875f2e926</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Internasional</value>
+      <webElementGuid>d202bcf8-107d-4bfd-b550-ba10f1a69155</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tablePenunjang-L&quot;)/tbody[1]/tr[1]/td[4]</value>
+      <webElementGuid>14c73920-75b9-4828-9c0e-d5b102558aa7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='tablePenunjang-L']/tbody/tr/td[4]</value>
+      <webElementGuid>48887398-8dc7-4259-a4a3-d0f0ee4821b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ketua'])[5]/following::td[1]</value>
+      <webElementGuid>4dca9a3a-be05-4987-b133-f19a9113c265</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Anggota Asosiasi Profesi'])[1]/following::td[2]</value>
+      <webElementGuid>0de4f39d-a9ea-47aa-bfd8-6ff72e4dc47a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Menunggu'])[87]/preceding::td[2]</value>
+      <webElementGuid>78b44c9e-a814-4503-937e-ba214d3c45ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Menunggu'])[88]/preceding::td[3]</value>
+      <webElementGuid>db79e345-85d5-4265-b4a9-5ce8b4cd6a30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[15]/div/div[2]/table/tbody/tr/td[4]</value>
+      <webElementGuid>fad8dde8-2c28-48e6-beea-93e57b4ea721</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Internasional' or . = 'Internasional')]</value>
+      <webElementGuid>52995da7-22a2-405f-8322-c331ab32e6d2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Rencana Penelitian (12)</name>
+   <tag></tag>
+   <elementGuidId>2d577f15-e231-48cb-bfbe-877ba9e408f1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='contentPage']/div/div/div[2]/div[3]/ul/li[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c455f653-31c7-4cc8-b1ed-fd77ee895848</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-link </value>
+      <webElementGuid>3380e577-ee71-4a0c-841f-a64cb16a320f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>http://127.0.0.1:8000/formRencanaKerja/penelitian </value>
+      <webElementGuid>fbf7c54c-7b19-44aa-8814-d9178cd928e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Rencana Penelitian</value>
+      <webElementGuid>5b715fde-9209-4521-b1fe-6f078a31e25d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;contentPage&quot;)/div[@class=&quot;bg-abu container-fluid pt-4&quot;]/div[@class=&quot;mt-5 flex-wrap ml-4 mr-4&quot;]/div[@class=&quot;bg-white mt-2&quot;]/div[@class=&quot;mt-5 mb-5&quot;]/ul[@class=&quot;nav nav-pills justify-content-center text-center&quot;]/li[@class=&quot;nav-item nav-item-150 bg-abu-nav&quot;]/a[@class=&quot;nav-link&quot;]</value>
+      <webElementGuid>ce18ec05-396a-4d08-803d-3c1aee7ed653</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='contentPage']/div/div/div[2]/div[3]/ul/li[2]/a</value>
+      <webElementGuid>2935dadf-a0f7-4b69-bbd5-1956d6775a93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[@href='http://127.0.0.1:8000/formRencanaKerja/penelitian ']</value>
+      <webElementGuid>4b3dbd5d-8a62-434d-b9c1-39f86799b6b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/ul/li[2]/a</value>
+      <webElementGuid>071f1846-7caa-4d0b-b63a-57ee5c6e850a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'http://127.0.0.1:8000/formRencanaKerja/penelitian ' and (text() = 'Rencana Penelitian' or . = 'Rencana Penelitian')]</value>
+      <webElementGuid>23976ebf-27de-4adf-8b29-697dbbcb5451</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

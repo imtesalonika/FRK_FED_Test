@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
@@ -90,3 +91,97 @@
       <webElementGuid>bc58954b-234e-46b8-ad68-36922e13a6cb</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Username_username (112)</name>
+   <tag></tag>
+   <elementGuidId>56192cad-fd51-4261-af61-ff49f21ce79a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#typeEmailX</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='typeEmailX']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>16163e35-7968-4366-887b-6998a70da3fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>d0b87cc5-87a3-4c74-8cc1-4bd9a9cd639f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>username</value>
+      <webElementGuid>83b6df21-c607-48ae-b349-3e5fab1a7720</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>typeEmailX</value>
+      <webElementGuid>48125231-bb42-4efb-bbfe-3b51ece2f092</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>shadow form-control form-control-lg border-dark </value>
+      <webElementGuid>893d0105-a2e3-41e1-a1fb-95a345bbb629</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;typeEmailX&quot;)</value>
+      <webElementGuid>a78b559b-1f4e-444c-8ba8-57dd30dabe36</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@id='typeEmailX']</value>
+      <webElementGuid>bb14be1d-9028-4293-bb5c-0c0182c65f92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/input</value>
+      <webElementGuid>c983864c-2b42-48f4-b69d-39efe02a97b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @name = 'username' and @id = 'typeEmailX']</value>
+      <webElementGuid>86f56b37-4058-4394-bb9a-3900da52063e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
+>>>>>>> 8a8f20fa9ebde034c1c19771418b225d06099da6

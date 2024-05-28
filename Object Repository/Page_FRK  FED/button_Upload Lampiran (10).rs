@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Upload Lampiran (10)</name>
+   <tag></tag>
+   <elementGuidId>0fb315dc-e546-47f6-a759-df62d763e24a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#modalEditEvaluasiPenunjangK-11 > div.modal-dialog.modal-lg > div.modal-content > div.modal-footer.justify-content-center > button.btn.btn-primary</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='submit'])[11]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a37c5460-e9a3-41d7-8eef-1192a82be928</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>57a0abc4-4a17-4260-8a7d-b0e773486c5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary</value>
+      <webElementGuid>2ba20efb-39c6-429d-ade2-af952438034c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Upload Lampiran</value>
+      <webElementGuid>2aea45ab-20d1-4c2f-8a01-3ab9e3eb9306</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modalEditEvaluasiPenunjangK-11&quot;)/div[@class=&quot;modal-dialog modal-lg&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-footer justify-content-center&quot;]/button[@class=&quot;btn btn-primary&quot;]</value>
+      <webElementGuid>4d6d2ee7-851d-451e-a775-3b525f2c72e8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='submit'])[11]</value>
+      <webElementGuid>6a6cac96-2b2c-4b77-8135-bc4a1d9fe632</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modalEditEvaluasiPenunjangK-11']/div/div/div[3]/button[2]</value>
+      <webElementGuid>0cc8ca12-15fb-4ca6-9be2-17d2a85d72dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[14]/div/div/div/div/div/div[3]/button[2]</value>
+      <webElementGuid>049171f5-e090-46a7-9ebd-6bbf49b98428</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = 'Upload Lampiran' or . = 'Upload Lampiran')]</value>
+      <webElementGuid>2e08688f-13e4-4556-bce8-2848e6f727b6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

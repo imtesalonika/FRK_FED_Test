@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Kegiatan 1 (16)</name>
+   <tag></tag>
+   <elementGuidId>3cb71815-a79b-44c1-b476-ed09cbdb2820</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='contentPage']/div/div/div[2]/div[15]/div/table/tbody/tr/td[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>3a861116-376b-40d3-8b6c-e040c0726c8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Kegiatan 1 </value>
+      <webElementGuid>5735e7c4-3d20-4a0f-8d9b-e440f417b278</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;contentPage&quot;)/div[@class=&quot;bg-abu container-fluid pt-4&quot;]/div[@class=&quot;mt-5 flex-wrap ml-4 mr-4&quot;]/div[@class=&quot;bg-white mt-2&quot;]/div[@class=&quot;card shadow-sm mt-5 ml-1 mr-1 bg-card&quot;]/div[@class=&quot;card-body&quot;]/table[@class=&quot;table table-striped table-bordered mt-2 text-center&quot;]/tbody[1]/tr[1]/td[2]</value>
+      <webElementGuid>5e04cc6c-ee54-4a8d-93bc-33cd7fb690f5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='contentPage']/div/div/div[2]/div[15]/div/table/tbody/tr/td[2]</value>
+      <webElementGuid>da219810-13ff-482c-a58e-983f1fc0352d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[15]/div/table/tbody/tr/td[2]</value>
+      <webElementGuid>75b7b88f-e370-4cad-b954-790b8a8e001e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = ' Kegiatan 1 ' or . = ' Kegiatan 1 ')]</value>
+      <webElementGuid>6e765858-71d5-4e5a-b197-f1865d6abe11</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

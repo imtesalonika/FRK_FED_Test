@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_2 (7)</name>
+   <tag></tag>
+   <elementGuidId>75ea80fe-1940-4ace-9b5a-76a6771bfad3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='tabelPendidikan-A']/tbody/tr[3]/td[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>tr:nth-of-type(3) > td:nth-of-type(3)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>212d5f34-8601-4acb-8b92-18238f9e1187</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>193a4c85-4c50-43af-8083-435728dc054a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tabelPendidikan-A&quot;)/tbody[@class=&quot;align-middle&quot;]/tr[3]/td[3]</value>
+      <webElementGuid>6a7c1881-13c5-4a2f-92dc-dba22d114467</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='tabelPendidikan-A']/tbody/tr[3]/td[3]</value>
+      <webElementGuid>bd11a309-18f8-4af7-8e41-0bb378b6cabb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Test Rencana Pendidikan A1'])[1]/following::td[1]</value>
+      <webElementGuid>2cebb72b-4a45-4531-b3ee-554882cb1013</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yakin'])[2]/following::td[3]</value>
+      <webElementGuid>ab429318-31ee-495b-8f06-4c361a423066</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Menunggu'])[5]/preceding::td[4]</value>
+      <webElementGuid>058de44f-d0bd-43a1-9bc6-4ae0bcbdd072</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Menunggu'])[6]/preceding::td[5]</value>
+      <webElementGuid>508d2a29-c7af-4f70-948d-8eacb9151273</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td[3]</value>
+      <webElementGuid>e47248b0-800a-4f80-b3ec-93e404c2685e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '2' or . = '2')]</value>
+      <webElementGuid>43122f58-3752-43fd-bd4e-96f3f001ede3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

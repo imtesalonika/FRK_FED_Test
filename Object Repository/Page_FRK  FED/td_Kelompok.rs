@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Kelompok</name>
+   <tag></tag>
+   <elementGuidId>122e72d0-4383-4387-bb0b-0bbbf659797b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='contentPage']/div/div/div[2]/div[10]/div/table/tbody/tr/td[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>a73a8043-a884-4023-a5a7-bee7a332b8bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kelompok</value>
+      <webElementGuid>59abdef0-85fd-42c3-858d-2214a3def6b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;contentPage&quot;)/div[@class=&quot;bg-abu container-fluid pt-4&quot;]/div[@class=&quot;mt-5 flex-wrap ml-4 mr-4&quot;]/div[@class=&quot;bg-white mt-2&quot;]/div[@class=&quot;card shadow-sm mt-5 ml-1 mr-1 bg-card&quot;]/div[@class=&quot;card-body&quot;]/table[@class=&quot;table table-striped table-bordered mt-2 text-center&quot;]/tbody[1]/tr[1]/td[5]</value>
+      <webElementGuid>179dc2f5-b711-41cc-8e00-e73b7c789bac</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='contentPage']/div/div/div[2]/div[10]/div/table/tbody/tr/td[5]</value>
+      <webElementGuid>679ab443-a5f6-49cb-8d57-ae8d203306d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]/div/table/tbody/tr/td[5]</value>
+      <webElementGuid>7a0f1d67-687b-4a8e-b64e-745e1321f9d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Kelompok' or . = 'Kelompok')]</value>
+      <webElementGuid>5a00177e-cfd1-45ca-97a2-e88918bb9805</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

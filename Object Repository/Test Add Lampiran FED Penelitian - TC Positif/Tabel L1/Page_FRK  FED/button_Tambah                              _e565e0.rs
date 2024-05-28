@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Tambah                              _e565e0</name>
+   <tag></tag>
+   <elementGuidId>92a20c5a-f2b8-4823-87a4-2225d241c9c2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#tablePenelitian-L > tbody > tr > td:nth-of-type(6) > button.btn.btn-primary.mr-1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[96]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;1 Test Penelitian L 1 Lampiran belum diupload. 2.00 Tambah Lampiran&quot;i] >> internal:role=button</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c8a9e0a4-7ebe-427e-9212-29d5d260cedc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>6dd855cb-5891-4817-8459-3a400edeec19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary mr-1</value>
+      <webElementGuid>6437da80-b7a5-4092-87cb-bd0fdd525481</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bs-toggle</name>
+      <type>Main</type>
+      <value>modal</value>
+      <webElementGuid>775bb6b5-874c-44d0-aea8-dba4311c2724</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bs-target</name>
+      <type>Main</type>
+      <value>#modalEditPenelitian_L-43</value>
+      <webElementGuid>55fe6852-ecf9-44f4-bd9e-adb85181c77d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tambah
+                                            Lampiran</value>
+      <webElementGuid>79c1c246-6631-47c3-95f8-838da704d934</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tablePenelitian-L&quot;)/tbody[1]/tr[1]/td[6]/button[@class=&quot;btn btn-primary mr-1&quot;]</value>
+      <webElementGuid>c4b4ef37-af23-4e13-9ab5-a53fef87093f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[96]</value>
+      <webElementGuid>59ba62b4-2281-4e88-82ec-538050164749</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='tablePenelitian-L']/tbody/tr/td[6]/button</value>
+      <webElementGuid>08abb474-2229-4b3a-a67b-b94596258345</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lampiran belum diupload.'])[1]/following::button[1]</value>
+      <webElementGuid>09d323c4-0c1b-4641-b3e9-3620071a1625</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Test Penelitian L 1'])[1]/following::button[1]</value>
+      <webElementGuid>62d03aea-9bd1-45cb-89db-e186cea4f3eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Test Penelitian L 2'])[1]/preceding::button[1]</value>
+      <webElementGuid>222a5688-2a18-48ef-8bcc-9f92ae7f5360</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lampiran belum diupload.'])[2]/preceding::button[1]</value>
+      <webElementGuid>217da24a-9342-47ba-b232-9f39acb1cce6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[15]/div/div/table/tbody/tr/td[6]/button</value>
+      <webElementGuid>0cbbc5df-1896-4b27-9157-0ca0e23446c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Tambah
+                                            Lampiran' or . = 'Tambah
+                                            Lampiran')]</value>
+      <webElementGuid>6f66bb49-a5d1-4f92-bca0-25cb21789c5a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

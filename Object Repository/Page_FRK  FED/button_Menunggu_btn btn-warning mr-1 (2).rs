@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Menunggu_btn btn-warning mr-1 (2)</name>
+   <tag></tag>
+   <elementGuidId>9508190e-1224-4f8f-9e84-917d2af248ce</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[16]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>tbody.align_middle > tr > td:nth-of-type(7) > button.btn.btn-warning.mr-1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>7dbdb45f-b692-43d7-a0fd-e8f2010bdb4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c2822f2c-c2ff-495e-9b50-61d0e503b201</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-warning mr-1</value>
+      <webElementGuid>9df1a525-9429-4bbd-a80f-81fd181ba2d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bs-toggle</name>
+      <type>Main</type>
+      <value>modal</value>
+      <webElementGuid>091bf7d2-d0d9-4c96-b381-e5f74c364385</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bs-target</name>
+      <type>Main</type>
+      <value>#modalEditPenunjang-3</value>
+      <webElementGuid>de3a8897-544e-4f18-8eae-03174898c44f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tablePenunjang-C&quot;)/tbody[@class=&quot;align_middle&quot;]/tr[1]/td[7]/button[@class=&quot;btn btn-warning mr-1&quot;]</value>
+      <webElementGuid>6ec23619-11ed-4527-8180-9ed2e97734d1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[16]</value>
+      <webElementGuid>c596118a-c870-4888-bef3-813497a3a98c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='tablePenunjang-C']/tbody/tr/td[7]/button</value>
+      <webElementGuid>b61ae6f1-c27a-4894-b970-4c1c5b012d19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Menunggu'])[6]/following::button[1]</value>
+      <webElementGuid>1ff347f9-2d1c-4d8a-ad4e-39f43b70d5b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Menunggu'])[5]/following::button[1]</value>
+      <webElementGuid>ec12e20e-0486-4d4a-a288-50d1a2681018</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yakin untuk menghapus kegiatan ini?'])[3]/preceding::button[3]</value>
+      <webElementGuid>c937d1f0-3473-4489-b9ea-63317791d860</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Batalkan'])[3]/preceding::button[3]</value>
+      <webElementGuid>0be5b953-2712-4d6e-bd40-26906f5171bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div[2]/table/tbody/tr/td[7]/button</value>
+      <webElementGuid>1c3365ed-0dba-487e-a12f-b34e9ed2b1b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button']</value>
+      <webElementGuid>692ea44e-14b7-477c-ac6f-95353b0062d3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

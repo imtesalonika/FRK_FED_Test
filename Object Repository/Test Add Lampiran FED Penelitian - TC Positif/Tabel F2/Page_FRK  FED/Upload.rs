@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Upload</name>
+   <tag></tag>
+   <elementGuidId>e380ebb8-f716-4dd4-8877-29dd1ab73000</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;fileInputPenelitianF-32&quot;]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>File</name>
+      <type>Main</type>
+      <value></value>
+      <webElementGuid>cd2627ce-cc24-455f-83c0-66c821b5e83b</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

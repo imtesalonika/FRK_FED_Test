@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
@@ -114,3 +115,121 @@
       <webElementGuid>3932435c-7d54-4d15-b701-3e48753f612d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Jumlah Kelas                         _ee35bd (1)</name>
+   <tag></tag>
+   <elementGuidId>6b41347b-1812-4391-8685-9dd4fab95421</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='evaluasi-86']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#evaluasi-86</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>f81f28cf-7891-4808-8c05-f5decd78f0b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>evaluasi-86</value>
+      <webElementGuid>da884f79-d012-4233-b2b6-de5ef239f48d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>55045c37-6ee7-488e-a3ca-a2b5511b9bd4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>number</value>
+      <webElementGuid>0741f0f3-370c-4af3-b36f-2abb7dabf17d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>6d7f6bd6-4de4-44db-aed2-667eebeccf3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>jumlah_evaluasi</value>
+      <webElementGuid>3e8e7f77-7e44-42ba-8680-879c479eb115</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>min</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>4798fe43-ef5f-43fd-929b-722319971190</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;evaluasi-86&quot;)</value>
+      <webElementGuid>2c44e0fb-674f-408a-ae56-4cc7b2c185ee</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@id='evaluasi-86']</value>
+      <webElementGuid>297fd575-fdc7-4d63-9675-09f01c4735fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modalEditPendidikan-86']/div/div/div[2]/div[3]/input</value>
+      <webElementGuid>c54e8cd8-62e5-49e7-9187-5995dfa02b2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[2]/div[3]/input</value>
+      <webElementGuid>e101f0d1-7dc3-4631-8ae0-7c4ed44989cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@id = 'evaluasi-86' and @type = 'number' and @name = 'jumlah_evaluasi']</value>
+      <webElementGuid>c5cd0a71-cd96-4a5b-b33e-3f2b559b1832</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
+>>>>>>> 8a8f20fa9ebde034c1c19771418b225d06099da6

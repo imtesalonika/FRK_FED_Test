@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Anggota (5)</name>
+   <tag></tag>
+   <elementGuidId>c73fdf1f-ba54-4ad5-b7ac-41ae5e8eb748</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#tablePenunjang-L > tbody > tr:nth-of-type(4) > td:nth-of-type(3)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='tablePenunjang-L']/tbody/tr[4]/td[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>f3027f30-6fe1-4ff2-96b9-980fbd32e508</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Anggota</value>
+      <webElementGuid>9ce90ceb-a15c-4c68-a103-61f76f96f34c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tablePenunjang-L&quot;)/tbody[1]/tr[4]/td[3]</value>
+      <webElementGuid>efe36832-0dca-4337-ab97-a2a9cbeeeef3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='tablePenunjang-L']/tbody/tr[4]/td[3]</value>
+      <webElementGuid>92c2d561-d200-4276-a7ea-774f8ec61fe7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Anggota Kepengurusan Asosiasi Profesi'])[1]/following::td[1]</value>
+      <webElementGuid>a0cb476f-541c-4fe3-8b89-2a745c919b30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Menunggu'])[92]/following::td[4]</value>
+      <webElementGuid>5a14c400-01dd-458d-8260-c835806a058b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nasional'])[7]/preceding::td[1]</value>
+      <webElementGuid>5e2ead15-9c9c-4644-ac97-5d991d6cd179</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Menunggu'])[93]/preceding::td[3]</value>
+      <webElementGuid>88da3713-5869-4c80-80b5-2f03b23eab0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[15]/div/div[2]/table/tbody/tr[4]/td[3]</value>
+      <webElementGuid>c90026fa-b156-4d31-a860-861461cf1a6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Anggota' or . = 'Anggota')]</value>
+      <webElementGuid>16ed45c0-03a4-4af0-9929-44c481951cbf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

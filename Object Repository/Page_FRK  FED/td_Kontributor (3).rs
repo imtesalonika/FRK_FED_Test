@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Kontributor (3)</name>
+   <tag></tag>
+   <elementGuidId>46f459b7-e7c5-4cbc-8eef-cf0b9def64b5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='contentPage']/div/div/div[2]/div[7]/div/table/tbody/tr/td[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>e2efdb32-b903-4160-86a5-db7a75ecb98b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kontributor</value>
+      <webElementGuid>ba271b16-6200-49a7-a473-19f3e0524306</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;contentPage&quot;)/div[@class=&quot;bg-abu container-fluid pt-4&quot;]/div[@class=&quot;mt-5 flex-wrap ml-4 mr-4&quot;]/div[@class=&quot;bg-white mt-2&quot;]/div[@class=&quot;card shadow-sm mt-5 ml-1 mr-1 bg-card&quot;]/div[@class=&quot;card-body&quot;]/table[@class=&quot;table table-striped table-bordered mt-2 text-center&quot;]/tbody[@class=&quot;align-middle&quot;]/tr[1]/td[5]</value>
+      <webElementGuid>da2c6753-e1dc-4178-a40b-bc2b98b5ae31</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='contentPage']/div/div/div[2]/div[7]/div/table/tbody/tr/td[5]</value>
+      <webElementGuid>6102e421-5ac0-44b2-a110-6337a6e4fb94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/table/tbody/tr/td[5]</value>
+      <webElementGuid>4ae93465-e26f-4cab-aa6c-0e1396b28cef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Kontributor' or . = 'Kontributor')]</value>
+      <webElementGuid>d7ea5fc1-ac88-4f27-b993-7360fb2a45cc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

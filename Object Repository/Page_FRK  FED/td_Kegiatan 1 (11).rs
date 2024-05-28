@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Kegiatan 1 (11)</name>
+   <tag></tag>
+   <elementGuidId>7452b4ae-a8df-4481-af7f-c2b577d15f70</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='contentPage']/div/div/div[2]/div[10]/div/table/tbody/tr/td[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>58508885-3115-4bf8-a4da-cb15d73dd6e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kegiatan 1</value>
+      <webElementGuid>10a9d24c-771c-4e86-b734-28f93b1a7ca1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;contentPage&quot;)/div[@class=&quot;bg-abu container-fluid pt-4&quot;]/div[@class=&quot;mt-5 flex-wrap ml-4 mr-4&quot;]/div[@class=&quot;bg-white mt-2&quot;]/div[@class=&quot;card shadow-sm mt-5 ml-1 mr-1 bg-card&quot;]/div[@class=&quot;card-body&quot;]/table[@class=&quot;table table-striped table-bordered mt-2 text-center&quot;]/tbody[@class=&quot;align-middle&quot;]/tr[1]/td[2]</value>
+      <webElementGuid>1c4c4589-94ba-442c-bf64-4fb2a2211541</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='contentPage']/div/div/div[2]/div[10]/div/table/tbody/tr/td[2]</value>
+      <webElementGuid>2eb3b637-2d28-44ce-adc3-e54d96dc6a8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]/div/table/tbody/tr/td[2]</value>
+      <webElementGuid>5275c6e7-fae6-4f65-a5f2-0594a27c83db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Kegiatan 1' or . = 'Kegiatan 1')]</value>
+      <webElementGuid>bfbba97f-7612-4a62-b439-bbb22bf943fa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

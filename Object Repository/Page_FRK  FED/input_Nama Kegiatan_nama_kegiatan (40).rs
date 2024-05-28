@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
@@ -106,3 +107,105 @@
       <webElementGuid>db1f05fa-239c-4a16-891a-26e286f824fb</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Nama Kegiatan_nama_kegiatan (40)</name>
+   <tag></tag>
+   <elementGuidId>e13da082-a0d3-49d0-849c-94745f27337c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='penunjang_nama_E']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#penunjang_nama_E</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>19063017-0531-4441-b1e9-9a39aadb8ba1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>penunjang_nama_E</value>
+      <webElementGuid>c6ce9fde-e6d4-4a85-b44f-60e94f30dc90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>1e6d8a38-13cc-46fe-a597-956975531e81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>21cab556-fe84-48a0-95ee-c0c4b28bb906</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>nama_kegiatan</value>
+      <webElementGuid>a6db6c55-a3e3-4476-b2db-594352107bfa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;penunjang_nama_E&quot;)</value>
+      <webElementGuid>0536600b-2761-4dad-9c38-aad64e64ba81</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@id='penunjang_nama_E']</value>
+      <webElementGuid>e704519a-7aa4-49e1-a915-c759a2fe3163</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modalPenunjang_E']/div/div/form/div/div/input</value>
+      <webElementGuid>01e42ac3-b4b2-4cfc-ba47-ac37e54a1984</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[22]/div/div/form/div/div/input</value>
+      <webElementGuid>1a2590f8-77ef-428d-998d-e8557e3192d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@id = 'penunjang_nama_E' and @type = 'text' and @name = 'nama_kegiatan']</value>
+      <webElementGuid>76945949-6505-48d7-ba33-9bfb931d2a52</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
+>>>>>>> 8a8f20fa9ebde034c1c19771418b225d06099da6

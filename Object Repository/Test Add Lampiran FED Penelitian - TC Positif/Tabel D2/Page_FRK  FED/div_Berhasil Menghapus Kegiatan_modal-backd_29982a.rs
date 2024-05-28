@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Berhasil Menghapus Kegiatan_modal-backd_29982a</name>
+   <tag></tag>
+   <elementGuidId>95481646-9350-4fba-893e-8e89242a7ad6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.modal-backdrop.fade.show</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.modal-backdrop</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>429a9247-cdde-407e-b5ab-528a6d3d2cc4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>modal-backdrop fade show</value>
+      <webElementGuid>32c9f1bd-6963-4cb8-abc0-4c34d5e5da37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;modal-open&quot;]/div[@class=&quot;modal-backdrop fade show&quot;]</value>
+      <webElementGuid>e405df11-02ef-48e4-9f50-2fcc950412ea</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//body/div</value>
+      <webElementGuid>fea68b45-c652-450d-a525-94a2fdb3e5aa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

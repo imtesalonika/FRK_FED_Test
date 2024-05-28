@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Tambah Lampiran (7)</name>
+   <tag></tag>
+   <elementGuidId>09e294c1-dd66-4157-9505-418c9a5b543b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#tableEvaluasiPenunjang-H > tbody > tr > td:nth-of-type(7) > button.btn.btn-primary.mr-1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[33]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c1c73664-2e3c-4b9b-9792-95d825a97a22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c9c772ae-2bef-43b2-b502-f2b71dbbaab4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary mr-1</value>
+      <webElementGuid>253fa1ce-c3dd-4435-9b89-9616f06fb6dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bs-toggle</name>
+      <type>Main</type>
+      <value>modal</value>
+      <webElementGuid>b531bdfa-4ead-46dc-8d08-f9c444153d38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bs-target</name>
+      <type>Main</type>
+      <value>#modalEditEvaluasiPenunjangH-8</value>
+      <webElementGuid>d00398ee-98f5-4f57-beab-87241db61305</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tambah Lampiran
+                                    </value>
+      <webElementGuid>7259c5dd-f748-4c80-a5f9-8772649e4fd5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tableEvaluasiPenunjang-H&quot;)/tbody[1]/tr[1]/td[7]/button[@class=&quot;btn btn-primary mr-1&quot;]</value>
+      <webElementGuid>8162d979-2e75-4220-a818-2c60f539ab61</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[33]</value>
+      <webElementGuid>aba42eb3-248a-4eba-88ea-a752bb86246d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='tableEvaluasiPenunjang-H']/tbody/tr/td[7]/button</value>
+      <webElementGuid>81461178-3de7-4472-b298-dbe3abf449cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[11]/div/div/table/tbody/tr/td[7]/button</value>
+      <webElementGuid>50823605-a9c1-4b7b-bad2-a262dd8688df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Tambah Lampiran
+                                    ' or . = 'Tambah Lampiran
+                                    ')]</value>
+      <webElementGuid>010982b1-9f17-4dad-ab8c-0b7fbbf291df</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

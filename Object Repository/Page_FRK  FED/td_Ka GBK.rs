@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Ka GBK</name>
+   <tag></tag>
+   <elementGuidId>2cda1fe5-2bd0-46e5-ba44-e2965c1a48ae</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='tablePenunjang-F']/tbody/tr[7]/td[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#tablePenunjang-F > tbody.align_middle > tr:nth-of-type(7) > td:nth-of-type(3)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>35a1e6fb-9f3c-49ef-9396-ceb1b4951508</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ka GBK</value>
+      <webElementGuid>d0f0da64-6dc5-455d-8f7e-6d1642759f3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tablePenunjang-F&quot;)/tbody[@class=&quot;align_middle&quot;]/tr[7]/td[3]</value>
+      <webElementGuid>c90ff950-d964-4e90-a621-db30a0baf442</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='tablePenunjang-F']/tbody/tr[7]/td[3]</value>
+      <webElementGuid>0def8dd4-4387-4dd7-9a38-1ebf5e186100</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Perencanaan dan pengembangan infrastruktur'])[1]/following::td[1]</value>
+      <webElementGuid>8736abc1-c6fe-4497-9e5c-8c0f95b3219a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yakin'])[28]/following::td[3]</value>
+      <webElementGuid>49fbef73-401c-48e9-b1a9-11dce51dd5af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Menunggu'])[57]/preceding::td[2]</value>
+      <webElementGuid>93420161-75bc-4218-8ee4-faeb994afafe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Menunggu'])[58]/preceding::td[3]</value>
+      <webElementGuid>7a98a96e-adca-4de5-b05e-3c1f7c38e37e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div/div[2]/table/tbody/tr[7]/td[3]</value>
+      <webElementGuid>9a76a7d0-b0ca-445a-818e-31ba69f18fc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Ka GBK' or . = 'Ka GBK')]</value>
+      <webElementGuid>47c92e63-8daf-4b29-b6f0-ef8465dc5274</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

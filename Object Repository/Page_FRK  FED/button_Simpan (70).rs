@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Simpan (70)</name>
+   <tag></tag>
+   <elementGuidId>cde829a7-dc15-4c3f-9058-5e754e9c86d3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/main/div/div/div[2]/div[9]/div/form/div/div[3]/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.modal-content > div.modal-footer > button.btn.btn-primary</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>859758dd-76eb-4f23-a447-bcc6ea45113b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>55b550f3-71b4-41a4-8089-17c57bfdc23f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary</value>
+      <webElementGuid>102875f7-e1fd-4f53-a953-97ef7fc76863</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Simpan</value>
+      <webElementGuid>21300875-39da-4d7d-8ef2-da13fc6100f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modalpengabdian_C&quot;)/div[@class=&quot;modal-dialog modal-dialog-centered&quot;]/form[@class=&quot;formTambahData&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-footer&quot;]/button[@class=&quot;btn btn-primary&quot;]</value>
+      <webElementGuid>4181f924-3689-4768-be43-d9dee323e1a4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='submit'])[5]</value>
+      <webElementGuid>4b801b8a-573d-4913-9c03-f8c10b1dd9fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modalpengabdian_C']/div/form/div/div[3]/button</value>
+      <webElementGuid>ab68c293-096f-490b-adb3-acfa86d41293</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div[3]/button</value>
+      <webElementGuid>e92fa7e8-1dac-4a45-a153-6f4591cedd4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = 'Simpan' or . = 'Simpan')]</value>
+      <webElementGuid>56373113-5184-4d6a-8731-f60ca7a93f56</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

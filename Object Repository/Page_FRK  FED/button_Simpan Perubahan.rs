@@ -6,16 +6,15 @@
    <elementGuidId>440ef05a-373a-450e-891b-f4a55d8824ba</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#edit-1</value>
+         <key>XPATH</key>
+         <value>(//button[@type='submit'])[7]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//button[@id='edit-1']</value>
+         <key>CSS</key>
+         <value>#modalEditPengabdian-4 > div.modal-dialog.modal-dialog-centered > div.modal-content > div.modal-body > div.modal-footer > button.btn.btn-primary</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
-   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -23,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>22c5b368-ee83-440f-a3de-b348c6424b20</webElementGuid>
+      <webElementGuid>60b08b38-ca18-4208-b633-bbd1869bd861</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +38,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>5880a0ef-3a38-4288-870a-5ef6deae8cb4</webElementGuid>
+      <webElementGuid>00e4d2f2-5fd8-43ca-81c9-9148d14557a4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-primary</value>
-      <webElementGuid>6f6a84a8-771a-403a-a9ea-9a78282760ec</webElementGuid>
+      <webElementGuid>e03e06ee-9bfe-4456-b451-a170dd657c81</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,20 +54,128 @@
       <name>text</name>
       <type>Main</type>
       <value>
-                                                        Simpan Perubahan
-                                                    </value>
-      <webElementGuid>85e8f27f-dc68-4181-90f3-a67728fbae96</webElementGuid>
+                                                    Simpan Perubahan
+                                                </value>
+      <webElementGuid>c5b095da-ec23-4868-be38-76669b16af3e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;edit-1&quot;)</value>
-      <webElementGuid>5281e64f-0f84-4bba-99a6-3b48804c7169</webElementGuid>
+      <value>id(&quot;modalEditPengabdian-4&quot;)/div[@class=&quot;modal-dialog modal-dialog-centered&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;modal-footer&quot;]/button[@class=&quot;btn btn-primary&quot;]</value>
+      <webElementGuid>44c34da8-acb6-43db-9518-f0b4b55fda7e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='submit'])[7]</value>
+      <webElementGuid>714aedfb-6c95-41b2-9ba2-0106ccec4d72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modalEditPengabdian-4']/div/div/div[2]/div[2]/button</value>
+      <webElementGuid>3ab3205f-bca0-4cc6-8fb2-8502c1ed7b1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]/div/div[2]/div/div/div[2]/div[2]/button</value>
+      <webElementGuid>d8f98504-8cd2-4678-aa1b-4e549e7ffda2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = '
+                                                    Simpan Perubahan
+                                                ' or . = '
+                                                    Simpan Perubahan
+                                                ')]</value>
+      <webElementGuid>4d73aa73-61af-415f-8fa0-d2952feb4e4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='submit'])[5]</value>
+      <webElementGuid>6cd7278a-e11b-498b-bbd1-68d09e95cf1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modalEditPengabdian-3']/div/div/div[2]/div[2]/button</value>
+      <webElementGuid>532eaa21-cc48-445e-b652-c548039ec077</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/div[2]/div/div/div[2]/div[2]/button</value>
+      <webElementGuid>660cfdc0-a5d3-4fdc-8885-194b6e774cd7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='submit'])[3]</value>
+      <webElementGuid>c36eef73-840c-47cc-9a6d-13c9191ce458</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modalEditPengabdian-2']/div/div/div[2]/div[2]/button</value>
+      <webElementGuid>cb843fa4-7a07-4d2f-8027-c9f397b73b3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div[2]/div/div/div[2]/div[2]/button</value>
+      <webElementGuid>ca0f3f98-3227-4a17-84e6-5f4f4fcc38c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='submit']</value>
+      <webElementGuid>ac4f39de-f455-4b8d-921c-a6070966ea6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modalEditPengabdian-1']/div/div/div[2]/div[2]/button</value>
+      <webElementGuid>01ca9b22-7181-47a5-8386-fd161215c482</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button</value>
+      <webElementGuid>558b434c-463a-49af-8cd6-db465c0127f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>

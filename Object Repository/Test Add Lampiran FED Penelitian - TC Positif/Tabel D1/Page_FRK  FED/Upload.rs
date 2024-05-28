@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Upload</name>
+   <tag></tag>
+   <elementGuidId>96c06f1d-6799-4895-880e-c42297bf417b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;fileInputD-27&quot;]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>File</name>
+      <type>Main</type>
+      <value></value>
+      <webElementGuid>5c3f2fee-e7ef-4bf8-b35d-508071aa7e35</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

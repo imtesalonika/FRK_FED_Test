@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
@@ -58,3 +59,65 @@
       <webElementGuid>55a40a87-f739-48b8-ae4d-eb1853c46cc7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Rencana Kerja_bi bi-chevron-down (1)</name>
+   <tag></tag>
+   <elementGuidId>ab68a50d-63d3-4a23-a0f3-54d5ba962d9f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//nav[@id='sidebarMenu']/div/div/ul/li[3]/a/i[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.bi.bi-chevron-down</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>c1339233-9cdc-458c-a69c-047e684e0c3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bi bi-chevron-down</value>
+      <webElementGuid>96a838ad-5fc5-4ce9-8424-8f5d4819063c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sidebarMenu&quot;)/div[@class=&quot;position-sticky&quot;]/div[@class=&quot;list-group list-group-flush mx-3 mt-5&quot;]/ul[@class=&quot;mt-5 list-unstyled ps-0&quot;]/li[3]/a[@class=&quot;btn-toggle list-group-item bg-abu list-group-item-action py-2 ripple d-flex justify-content-between align-items-center&quot;]/i[@class=&quot;bi bi-chevron-down&quot;]</value>
+      <webElementGuid>2ecaadaa-f27a-400b-8ff1-3f1b1f05abc8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//nav[@id='sidebarMenu']/div/div/ul/li[3]/a/i[2]</value>
+      <webElementGuid>4298e2d2-8577-49be-abab-f966d107ff06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//i[2]</value>
+      <webElementGuid>31f5876a-ebe9-483b-b972-dd9c7b4077dc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
+>>>>>>> 8a8f20fa9ebde034c1c19771418b225d06099da6

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Simpan (75)</name>
+   <tag></tag>
+   <elementGuidId>a70ee019-5c73-47e2-b0b7-fd482a8d86d9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='submit'])[7]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#modalPenelitian_D > div.modal-dialog.modal-dialog-centered > div.modal-content > div.modal-body > form.formTambahData > div.modal-footer > button.btn.btn-primary</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>89fbf536-7364-4292-9bd4-f162b3f45306</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>180bc351-f0a8-4c28-a26f-50b791a13005</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary</value>
+      <webElementGuid>565bdd80-3715-45c7-ad03-10d9c44d6590</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                Simpan
+                            </value>
+      <webElementGuid>7ad34d76-1c73-4e7a-be48-b0a17e226d86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modalPenelitian_D&quot;)/div[@class=&quot;modal-dialog modal-dialog-centered&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/form[@class=&quot;formTambahData&quot;]/div[@class=&quot;modal-footer&quot;]/button[@class=&quot;btn btn-primary&quot;]</value>
+      <webElementGuid>55861200-4b0c-4be6-aaf8-12874e5afe68</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='submit'])[7]</value>
+      <webElementGuid>3816f6c9-79fe-4d7e-a58d-193dfdb04ed3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modalPenelitian_D']/div/div/div[2]/form/div[2]/button</value>
+      <webElementGuid>c15c3c66-2c81-4d34-b613-d1e79d2aad1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[21]/div/div/div[2]/form/div[2]/button</value>
+      <webElementGuid>167dbbbc-787f-43cd-bbf0-3fbcc3269946</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = '
+                                Simpan
+                            ' or . = '
+                                Simpan
+                            ')]</value>
+      <webElementGuid>789034eb-7808-4dc3-9811-5a898d4d569e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

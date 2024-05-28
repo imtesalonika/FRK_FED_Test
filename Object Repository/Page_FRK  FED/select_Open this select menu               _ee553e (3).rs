@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Open this select menu               _ee553e (3)</name>
+   <tag></tag>
+   <elementGuidId>c80dacac-1e5b-415a-b6e2-5df0986c0a81</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='penunjang_tingkatan_L']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#penunjang_tingkatan_L</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>ad0c56a6-b7b6-49bc-8472-30dde3164482</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>penunjang_tingkatan_L</value>
+      <webElementGuid>b91ea716-4a7b-41f3-9df6-ad586cc41a6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>de0820a3-d905-4724-beaf-1c7de6e22190</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>jenis_tingkatan</value>
+      <webElementGuid>1330af77-e9c9-4bc8-81c8-8a05d199d17e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                            Open this select menu
+                            Nasional
+                            Internasional
+                        </value>
+      <webElementGuid>a4e9ceb7-5394-43eb-9d08-203a92370433</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;penunjang_tingkatan_L&quot;)</value>
+      <webElementGuid>2d584d2c-0f83-4a29-b4d4-f00a90ed7d6f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='penunjang_tingkatan_L']</value>
+      <webElementGuid>3987e4a6-35d3-41ee-bfb1-9959d78632da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modalPenunjang_L']/div/div/div[2]/form/select</value>
+      <webElementGuid>9634fc86-6114-4118-b12c-18344a51e49b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tingkatan:'])[4]/following::select[1]</value>
+      <webElementGuid>61cbcbde-0842-4146-abb2-d4fb9eddeb88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jabatan:'])[5]/following::select[2]</value>
+      <webElementGuid>4fb8930d-a5b5-41c6-a408-c390c32824a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Simpan'])[12]/preceding::select[1]</value>
+      <webElementGuid>18431da4-ddd5-40df-baf4-2c624599051e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='M. Peserta Seminar/Workshop/Kursus Berdasar Penugasan Pimpinan'])[2]/preceding::select[1]</value>
+      <webElementGuid>b7fbc398-48a9-4541-8e0a-dd6e5c415595</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/select</value>
+      <webElementGuid>33bd33f9-5bc8-4364-8365-ed9774c909dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'penunjang_tingkatan_L' and @name = 'jenis_tingkatan' and (text() = '
+                            Open this select menu
+                            Nasional
+                            Internasional
+                        ' or . = '
+                            Open this select menu
+                            Nasional
+                            Internasional
+                        ')]</value>
+      <webElementGuid>083dbceb-d8dd-4791-a86a-1ec461bb4415</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

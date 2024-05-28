@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Rencana Kerja (1)</name>
+   <tag></tag>
+   <elementGuidId>86ed0680-6188-4e7d-a795-06d684c6b1c4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//nav[@id='sidebarMenu']/div/div/ul/li[3]/a/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.me-auto</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>cf0949a4-a197-413e-bbde-db699886c5f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>me-auto</value>
+      <webElementGuid>285656e2-37df-4254-b263-6dc857530d3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Rencana Kerja</value>
+      <webElementGuid>a2e07bc6-585a-4951-bca1-7c147dec7a52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sidebarMenu&quot;)/div[@class=&quot;position-sticky&quot;]/div[@class=&quot;list-group list-group-flush mx-3 mt-5&quot;]/ul[@class=&quot;mt-5 list-unstyled ps-0&quot;]/li[3]/a[@class=&quot;btn-toggle list-group-item bg-abu list-group-item-action py-2 ripple d-flex justify-content-between align-items-center&quot;]/div[@class=&quot;me-auto&quot;]</value>
+      <webElementGuid>09a600c8-0710-43fe-9c0b-d8dc0c4a1138</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//nav[@id='sidebarMenu']/div/div/ul/li[3]/a/div</value>
+      <webElementGuid>27bd3ab7-7e66-4828-afb9-9463b8861e8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Profile'])[1]/following::div[1]</value>
+      <webElementGuid>47a2243b-8555-42e6-aa9f-d4ef05828fa6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rekap Kegiatan'])[1]/preceding::div[1]</value>
+      <webElementGuid>2f8684e9-449e-4a8f-9260-9d5bdb0d9831</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div</value>
+      <webElementGuid>db12455d-0343-4526-a312-1dfa1f4305fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Rencana Kerja' or . = 'Rencana Kerja')]</value>
+      <webElementGuid>39d30ab6-919a-4e47-a558-57374d15a91d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Jenis Pengerjaan                    _03b864</name>
+   <tag></tag>
+   <elementGuidId>a707790c-a85f-4b5b-b698-e9a0e6df609d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/main/div/div/div[2]/div[20]/div/div/div[2]/form/div[1]/div[3]/select</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;jenis_pengerjaan&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>04d4fc02-cae7-45fc-a694-c64ec3719cba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>jenis_pengerjaan</value>
+      <webElementGuid>bb11c8e9-f35e-4dd7-a21f-3fa9a89f6fbc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-select form-select-md mb-3</value>
+      <webElementGuid>8a56a786-2b44-4e8e-a6c8-8b3b501c9d17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>.form-select-lg example</value>
+      <webElementGuid>256a3af6-bfe6-4ac0-b4f7-71a2718dd412</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                    Jenis Pengerjaan
+                                    Mandiri
+                                    Kelompok
+                                </value>
+      <webElementGuid>d837b9aa-8b2b-4b8b-9ca2-e93be0a8876f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modalPenelitian_C&quot;)/div[@class=&quot;modal-dialog modal-dialog-centered&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/form[@class=&quot;formTambahData&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;mb-3&quot;]/select[@class=&quot;form-select form-select-md mb-3&quot;]</value>
+      <webElementGuid>4aa9b04c-0be9-493b-82b2-27b528346a8a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='jenis_pengerjaan']</value>
+      <webElementGuid>1a75f7f8-3b86-45c5-8930-26c60e735e55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modalPenelitian_C']/div/div/div[2]/form/div/div[3]/select</value>
+      <webElementGuid>710dd49a-1dcd-447a-a7d1-73c05f4b86f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/form/div/div[3]/select</value>
+      <webElementGuid>c973dc4d-afb5-4ea4-a5c4-29e5d40c8679</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'jenis_pengerjaan' and (text() = '
+                                    Jenis Pengerjaan
+                                    Mandiri
+                                    Kelompok
+                                ' or . = '
+                                    Jenis Pengerjaan
+                                    Mandiri
+                                    Kelompok
+                                ')]</value>
+      <webElementGuid>53a2eaec-99f2-41fe-b2db-6a8925e42357</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

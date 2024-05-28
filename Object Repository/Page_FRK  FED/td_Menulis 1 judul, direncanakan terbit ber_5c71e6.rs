@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Menulis 1 judul, direncanakan terbit ber_5c71e6</name>
+   <tag></tag>
+   <elementGuidId>a5a7f519-dff6-45f7-acc2-ae27ab217d50</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='contentPage']/div/div/div[2]/div[10]/div/table/tbody/tr/td[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>c7c901a3-8992-4996-af6e-ca2abcee382b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Menulis 1 judul, direncanakan terbit ber-ISBN, ada kontrak penerbitan dan atau sudah diterbitkan dan ber-ISN</value>
+      <webElementGuid>26b7cdb0-f73c-4dd3-b832-cc66de6c7edd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;contentPage&quot;)/div[@class=&quot;bg-abu container-fluid pt-4&quot;]/div[@class=&quot;mt-5 flex-wrap ml-4 mr-4&quot;]/div[@class=&quot;bg-white mt-2&quot;]/div[@class=&quot;card shadow-sm mt-5 ml-1 mr-1 bg-card&quot;]/div[@class=&quot;card-body&quot;]/table[@class=&quot;table table-striped table-bordered mt-2 text-center&quot;]/tbody[1]/tr[1]/td[3]</value>
+      <webElementGuid>de021a15-aed6-42ef-ba7e-7111b2503c21</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='contentPage']/div/div/div[2]/div[10]/div/table/tbody/tr/td[3]</value>
+      <webElementGuid>403aec9a-cef8-45ab-a61a-c4c9bea3362c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]/div/table/tbody/tr/td[3]</value>
+      <webElementGuid>793c799b-a9e3-4b46-8416-433c880cbec8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Menulis 1 judul, direncanakan terbit ber-ISBN, ada kontrak penerbitan dan atau sudah diterbitkan dan ber-ISN' or . = 'Menulis 1 judul, direncanakan terbit ber-ISBN, ada kontrak penerbitan dan atau sudah diterbitkan dan ber-ISN')]</value>
+      <webElementGuid>bb81d02d-776f-426b-8575-20efe1bd6556</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

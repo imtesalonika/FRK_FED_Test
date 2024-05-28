@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
@@ -114,3 +115,121 @@
       <webElementGuid>07001c6a-49c4-4d25-94cd-b309a94123ef</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_SKS Mata Kuliah_sks_matakuliah (2)</name>
+   <tag></tag>
+   <elementGuidId>b1194198-711f-4807-8ad3-86b0f3568c10</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='pend_sks_A']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#pend_sks_A</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>380e80b7-7d8b-482a-a91a-cfa32432ac1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>pend_sks_A</value>
+      <webElementGuid>36f0f860-0092-4d6b-bce1-4180d3f53034</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>number</value>
+      <webElementGuid>049e74d7-9004-45ac-b3a8-629976898b31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>5f59ea78-df36-4de7-a4bc-8126773b8df5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>sks_matakuliah</value>
+      <webElementGuid>68263a9c-88fa-49ad-9a7d-d441e48c83a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>min</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>35438594-80f4-469f-876f-cfb4efc050ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>step</name>
+      <type>Main</type>
+      <value>any</value>
+      <webElementGuid>4970f1dd-f94b-4472-a4d2-0e83a554c6f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pend_sks_A&quot;)</value>
+      <webElementGuid>a73b8c9e-6b9f-4bc4-a099-56d9ca5b0671</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@id='pend_sks_A']</value>
+      <webElementGuid>23e7fa48-0f75-4b6b-97fa-b5258bd61e2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modalPendidikan_A']/div/div/form/div/div[4]/input</value>
+      <webElementGuid>175b1941-4d59-45e9-a286-697c31c46b91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div[4]/input</value>
+      <webElementGuid>3df8a7a7-1750-4827-9b86-912443b8136e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@id = 'pend_sks_A' and @type = 'number' and @name = 'sks_matakuliah']</value>
+      <webElementGuid>910a44c1-c40e-49a2-9972-f8243055cfbc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
+>>>>>>> 8a8f20fa9ebde034c1c19771418b225d06099da6

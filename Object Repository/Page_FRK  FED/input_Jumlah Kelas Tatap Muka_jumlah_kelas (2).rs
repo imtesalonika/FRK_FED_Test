@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
@@ -114,3 +115,121 @@
       <webElementGuid>e96caca8-ee31-430b-acc4-f597b4b9b335</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Jumlah Kelas Tatap Muka_jumlah_kelas (2)</name>
+   <tag></tag>
+   <elementGuidId>ac34c192-ad6a-42e6-9cf8-c9a5eea9d3e0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='pend_jumlah_kelas_A']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#pend_jumlah_kelas_A</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>6a8d3510-95f3-4fae-a4d2-3eeae06d9040</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>pend_jumlah_kelas_A</value>
+      <webElementGuid>39796ddd-4719-4615-8fd9-f2affac86f8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>number</value>
+      <webElementGuid>0d81ee08-bec8-4172-8e3e-1ed176c9955e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>45865625-df5f-41e0-bb9c-ad9913ca0ccb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>jumlah_kelas</value>
+      <webElementGuid>9980abaa-c9e2-42a8-8a90-64272b734e92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>min</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>febf1069-e8ca-4492-b2e7-68a092fa51c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>step</name>
+      <type>Main</type>
+      <value>any</value>
+      <webElementGuid>819fcfef-3766-4192-b3c4-528940118bd2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pend_jumlah_kelas_A&quot;)</value>
+      <webElementGuid>ccbd46ce-1969-4d9b-b36f-3c0156e74726</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@id='pend_jumlah_kelas_A']</value>
+      <webElementGuid>30b614f2-3733-4b71-baa5-4777a59e86d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modalPendidikan_A']/div/div/form/div/div[2]/input</value>
+      <webElementGuid>7ff845ef-b552-4536-9656-f11665f32fbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div[2]/input</value>
+      <webElementGuid>f0851845-433c-46ed-a4b8-fbd2567a2126</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@id = 'pend_jumlah_kelas_A' and @type = 'number' and @name = 'jumlah_kelas']</value>
+      <webElementGuid>10e7a64e-a2ed-45d9-a931-b30690a5f623</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
+>>>>>>> 8a8f20fa9ebde034c1c19771418b225d06099da6

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Melaksanakan perwalian kepada mahasiswa (2)</name>
+   <tag></tag>
+   <elementGuidId>c25dc1d9-94e0-43a4-b8dd-df19004452dd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td:nth-of-type(2)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='tablePenunjang-A']/tbody/tr/td[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>e283a9d8-4844-4b91-8479-c98aa5314b55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Melaksanakan perwalian kepada mahasiswa</value>
+      <webElementGuid>02dba0dd-e5e5-40c4-8bcc-8bfccfaa531c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tablePenunjang-A&quot;)/tbody[1]/tr[1]/td[2]</value>
+      <webElementGuid>6f802103-3ce5-4c35-97eb-b3ecc9adb55b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='tablePenunjang-A']/tbody/tr/td[2]</value>
+      <webElementGuid>03d41100-2a8e-4707-848d-bd91ebefda43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Asesor 2'])[1]/following::td[2]</value>
+      <webElementGuid>ea23645d-2082-41bf-a037-47a69a7c950f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Asesor 1'])[1]/following::td[2]</value>
+      <webElementGuid>09ccb4ec-2c53-4627-8256-9ca66ead22f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Menunggu'])[1]/preceding::td[3]</value>
+      <webElementGuid>e6c337f3-2fb1-433a-8c12-801c4dd4bfd5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Menunggu'])[2]/preceding::td[4]</value>
+      <webElementGuid>1b036b1b-4592-4d93-9a72-bd750a9a5d71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Melaksanakan perwalian kepada mahasiswa']/parent::*</value>
+      <webElementGuid>5bd3f9cc-9828-497b-a6fb-535a42c944eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]</value>
+      <webElementGuid>73f2e195-2441-44ca-9e8a-eb3e1129a5f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Melaksanakan perwalian kepada mahasiswa' or . = 'Melaksanakan perwalian kepada mahasiswa')]</value>
+      <webElementGuid>2e029c7c-6db7-4f90-b183-bd7f882f01db</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

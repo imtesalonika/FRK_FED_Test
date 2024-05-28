@@ -3,7 +3,7 @@
    <description></description>
    <name>button_Masuk (84)</name>
    <tag></tag>
-   <elementGuidId>35fdcec3-4707-4fd1-9e5b-6680dbf1927d</elementGuidId>
+   <elementGuidId>4b8d5edd-6381-46f6-b5b6-0570e61f8f45</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -15,7 +15,6 @@
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
-   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -23,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>c479bf33-f989-4c72-bcb4-8f54df160ea5</webElementGuid>
+      <webElementGuid>a275b861-dad5-42c4-9dd7-cfc693aac0a8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn text-white btn-lg px-5</value>
-      <webElementGuid>77b14b0c-bbeb-4b3e-ab30-df355ffa26a8</webElementGuid>
+      <webElementGuid>5ccdfe1a-f25b-4f9a-a681-47766ddd7f20</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +38,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>a68f1ef2-ff48-4f06-87df-0b5aeb4cfe3a</webElementGuid>
+      <webElementGuid>8f1f690b-284a-4146-99b1-de3ee49e5ace</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,8 +46,8 @@
       <name>text</name>
       <type>Main</type>
       <value>Masuk
-                                    </value>
-      <webElementGuid>a22ff4d7-5f0c-4b48-89b5-bbd7d0d98f08</webElementGuid>
+                                </value>
+      <webElementGuid>de801057-65f3-463a-95d7-afe2686e02fc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -56,7 +55,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/section[@class=&quot;vh-100&quot;]/div[@class=&quot;container py-lg-5 h-100&quot;]/div[@class=&quot;row d-flex justify-content-center align-items-center h-100&quot;]/div[@class=&quot;col-12 col-md-8 col-lg-6 col-xl-5&quot;]/div[@class=&quot;card bg-white text-black&quot;]/div[@class=&quot;card-body py-4 px-5 text-center&quot;]/div[@class=&quot;mb-md-5 px-4 mt-md-4&quot;]/form[1]/button[@class=&quot;btn text-white btn-lg px-5&quot;]</value>
-      <webElementGuid>9d5d2ca0-9600-459f-9f6f-9edecdc19054</webElementGuid>
+      <webElementGuid>2d92b4da-d66f-43f3-9a73-c391fdefb9d4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -64,23 +63,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@type='submit']</value>
-      <webElementGuid>3f89a740-6698-49e2-ad57-1cdc527705f9</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar Sekarang'])[1]/preceding::button[1]</value>
-      <webElementGuid>00913cce-9797-4730-a59f-86e97eca8642</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Masuk']/parent::*</value>
-      <webElementGuid>56d0638a-eaf6-4589-b83f-e14114140814</webElementGuid>
+      <webElementGuid>2e031a01-97f7-4393-8e21-9a1248bad2ca</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -88,7 +71,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button</value>
-      <webElementGuid>1e69e8a5-c58d-4e38-9bda-babd099355e3</webElementGuid>
+      <webElementGuid>1a54e1b5-6fd0-4210-864e-bbcf3657b5bf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -96,8 +79,8 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'submit' and (text() = 'Masuk
-                                    ' or . = 'Masuk
-                                    ')]</value>
-      <webElementGuid>2274c907-fb71-47c5-976e-d890fb05b2df</webElementGuid>
+                                ' or . = 'Masuk
+                                ')]</value>
+      <webElementGuid>fbd297fa-7b58-4ae1-99bd-4c19cd909293</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
