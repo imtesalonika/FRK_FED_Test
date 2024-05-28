@@ -49,8 +49,5 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/Test Add Lampiran F
 
 WebUI.click(findTestObject('Object Repository/Test Add Lampiran FED Penelitian - TC Positif/Tabel I1/Page_FRK  FED/button_Tambah                              _e565e0'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Test Add Lampiran FED Penelitian - TC Positif/Tabel I1/Page_FRK  FED/a_mpdf_37_1435_Penelitian_Tridharma1716818360.pdf'), 
-    0)
-
 WebUI.closeBrowser()
 

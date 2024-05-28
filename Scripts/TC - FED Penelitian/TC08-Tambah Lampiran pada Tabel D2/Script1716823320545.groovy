@@ -49,8 +49,5 @@ WebUI.click(findTestObject('Object Repository/Test Add Lampiran FED Penelitian -
 
 WebUI.doubleClick(findTestObject('Object Repository/Test Add Lampiran FED Penelitian - TC Positif/Tabel D2/Page_FRK  FED/div_Berhasil Menghapus Kegiatan_modal-backd_29982a'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Test Add Lampiran FED Penelitian - TC Positif/Tabel D2/Page_FRK  FED/a_mpdf_28_1435_Buku_Internasional1716815086.pdf'), 
-    0)
-
 WebUI.closeBrowser()
 

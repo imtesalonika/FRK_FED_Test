@@ -21,35 +21,31 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://127.0.0.1:8000/')
 
-WebUI.setText(findTestObject('Object Repository/Test Add Lampiran FED Penelitian - TC Positif/Tabel B1/Page_FRK  FED - LOGIN/input_Username_username'), 
+WebUI.setText(findTestObject('Object Repository/Test Add Lampiran FED Penelitian - TC Positif/Tabel B1/Page_FRK  FED - LOGIN/input_Username_username (2)'), 
     'mario')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Test Add Lampiran FED Penelitian - TC Positif/Tabel B1/Page_FRK  FED - LOGIN/input_Kata                                 _617843'), 
+WebUI.setEncryptedText(findTestObject('Object Repository/Test Add Lampiran FED Penelitian - TC Positif/Tabel B1/Page_FRK  FED - LOGIN/input_Kata                                 _617843 (2)'), 
     'mHeVG5S2v2QyQ6TvDNzjuw==')
 
-WebUI.sendKeys(findTestObject('Object Repository/Test Add Lampiran FED Penelitian - TC Positif/Tabel B1/Page_FRK  FED - LOGIN/input_Kata                                 _617843'), 
+WebUI.sendKeys(findTestObject('Object Repository/Test Add Lampiran FED Penelitian - TC Positif/Tabel B1/Page_FRK  FED - LOGIN/input_Kata                                 _617843 (2)'), 
     Keys.chord(Keys.ENTER))
 
-WebUI.click(findTestObject('Object Repository/Test Add Lampiran FED Penelitian - TC Positif/Tabel B1/Page_FRK  FED/span_Evaluasi Diri'))
+WebUI.click(findTestObject('Object Repository/Test Add Lampiran FED Penelitian - TC Positif/Tabel B1/Page_FRK  FED/span_Evaluasi Diri (2)'))
 
-WebUI.click(findTestObject('Object Repository/Test Add Lampiran FED Penelitian - TC Positif/Tabel B1/Page_FRK  FED/a_Rekap Kegiatan'))
+WebUI.click(findTestObject('Object Repository/Test Add Lampiran FED Penelitian - TC Positif/Tabel B1/Page_FRK  FED/a_Rekap Kegiatan (2)'))
 
-WebUI.click(findTestObject('Object Repository/Test Add Lampiran FED Penelitian - TC Positif/Tabel B1/Page_FRK  FED/b_Evaluasi Penelitian'))
+WebUI.click(findTestObject('Object Repository/Test Add Lampiran FED Penelitian - TC Positif/Tabel B1/Page_FRK  FED/b_Evaluasi Penelitian (1)'))
 
-WebUI.click(findTestObject('Object Repository/Test Add Lampiran FED Penelitian - TC Positif/Tabel B1/Page_FRK  FED/button_Tambah                              _e565e0'))
+WebUI.click(findTestObject('Object Repository/Test Add Lampiran FED Penelitian - TC Positif/Tabel B1/Page_FRK  FED/button_Tambah                              _e565e0 (2)'))
 
 WebUI.uploadFile(findTestObject('Test Add Lampiran FED Penelitian - TC Positif/Tabel B1/Page_FRK  FED/Upload'), 'C:\\\\Users\\\\ASUS\\\\Downloads\\\\Documents\\\\mpdf.pdf')
 
-WebUI.click(findTestObject('Object Repository/Test Add Lampiran FED Penelitian - TC Positif/Tabel B1/Page_FRK  FED/button_Upload                              _8f5048'))
+WebUI.click(findTestObject('Object Repository/Test Add Lampiran FED Penelitian - TC Positif/Tabel B1/Page_FRK  FED/button_Upload                              _8f5048 (2)'))
 
-WebUI.click(findTestObject('Object Repository/Test Add Lampiran FED Penelitian - TC Positif/Tabel B1/Page_FRK  FED/button_Tambah                              _e565e0'))
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Test Add Lampiran FED Penelitian - TC Positif/Tabel B1/Page_FRK  FED/a_mpdf_23_1435_Penelitian_Mandiri1716802880.pdf'), 
+WebUI.verifyElementPresent(findTestObject('Object Repository/Test Add Lampiran FED Penelitian - TC Positif/Tabel B1/Page_FRK  FED/div_Lampiran sudah diupload (2)'), 
     0)
 
-WebUI.click(findTestObject('Object Repository/Test Add Lampiran FED Penelitian - TC Positif/Tabel B1/Page_FRK  FED/button_Tambah                              _d18153'))
-
-WebUI.rightClick(findTestObject('Object Repository/Test Add Lampiran FED Penelitian - TC Positif/Tabel B1/Page_FRK  FED/div_Lampiran sudah diupload'))
+WebUI.click(findTestObject('Object Repository/Test Add Lampiran FED Penelitian - TC Positif/Tabel B1/Page_FRK  FED/button_Tambah                              _e565e0 (2)'))
 
 WebUI.closeBrowser()
 

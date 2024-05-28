@@ -23,6 +23,6 @@
       <name>File</name>
       <type>Main</type>
       <value></value>
-      <webElementGuid>2f2452c1-fd87-438a-a96e-3056943869a6</webElementGuid>
+      <webElementGuid>95c278aa-af50-44cf-a5e1-58786d586f2c</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

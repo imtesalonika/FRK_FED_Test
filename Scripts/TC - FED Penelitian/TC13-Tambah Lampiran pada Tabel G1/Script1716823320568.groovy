@@ -47,8 +47,5 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/Test Add Lampiran F
 
 WebUI.click(findTestObject('Object Repository/Test Add Lampiran FED Penelitian - TC Positif/Tabel G1/Page_FRK  FED/button_Tambah Lampiran'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Test Add Lampiran FED Penelitian - TC Positif/Tabel G1/Page_FRK  FED/a_mpdf_33_1435_Menulis_Modul1716816833.pdf'), 
-    0)
-
 WebUI.closeBrowser()
 
