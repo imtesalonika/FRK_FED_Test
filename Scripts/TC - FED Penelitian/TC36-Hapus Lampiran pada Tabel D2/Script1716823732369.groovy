@@ -17,3 +17,30 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.maximizeWindow()
+
+WebUI.navigateToUrl('http://127.0.0.1:8000/')
+
+WebUI.setText(findTestObject('Object Repository/Test Delete FED Penelitian - TC Positif/Tabel D2/Page_FRK  FED - LOGIN/input_Username_username'), 
+    'mario')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Test Delete FED Penelitian - TC Positif/Tabel D2/Page_FRK  FED - LOGIN/input_Kata                                 _617843'), 
+    'mHeVG5S2v2QyQ6TvDNzjuw==')
+
+WebUI.sendKeys(findTestObject('Object Repository/Test Delete FED Penelitian - TC Positif/Tabel D2/Page_FRK  FED - LOGIN/input_Kata                                 _617843'), 
+    Keys.chord(Keys.ENTER))
+
+WebUI.click(findTestObject('Object Repository/Test Delete FED Penelitian - TC Positif/Tabel D2/Page_FRK  FED/a_Evaluasi Diri'))
+
+WebUI.click(findTestObject('Object Repository/Test Delete FED Penelitian - TC Positif/Tabel D2/Page_FRK  FED/a_Rekap Kegiatan'))
+
+WebUI.click(findTestObject('Object Repository/Test Delete FED Penelitian - TC Positif/Tabel D2/Page_FRK  FED/a_Evaluasi Penelitian'))
+
+WebUI.click(findTestObject('Object Repository/Test Delete FED Penelitian - TC Positif/Tabel D2/Page_FRK  FED/button_Tambah                              _e565e0'))
+
+WebUI.click(findTestObject('Object Repository/Test Delete FED Penelitian - TC Positif/Tabel D2/Page_FRK  FED/i_mpdf_28_1435_Buku_Internasional1716815086_febacb'))
+
+WebUI.closeBrowser()
+

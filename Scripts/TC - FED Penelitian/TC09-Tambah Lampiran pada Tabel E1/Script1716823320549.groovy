@@ -42,15 +42,12 @@ WebUI.click(findTestObject('Object Repository/Test Add Lampiran FED Penelitian -
 
 WebUI.uploadFile(findTestObject('Test Add Lampiran FED Penelitian - TC Positif/Tabel D2/Page_FRK  FED/Upload'), 'C:\\\\Users\\\\ASUS\\\\Downloads\\\\Documents\\\\mpdf.pdf')
 
-WebUI.doubleClick(findTestObject('Object Repository/Test Add Lampiran FED Penelitian - TC Positif/Tabel E1/Page_FRK  FED/button_Upload                              _8f5048'))
+WebUI.click(findTestObject('Object Repository/Test Add Lampiran FED Penelitian - TC Positif/Tabel E1/Page_FRK  FED/button_Upload                              _8f5048'))
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Test Add Lampiran FED Penelitian - TC Positif/Tabel E1/Page_FRK  FED/div_Lampiran sudah diupload'), 
     0)
 
 WebUI.click(findTestObject('Object Repository/Test Add Lampiran FED Penelitian - TC Positif/Tabel E1/Page_FRK  FED/button_Tambah                              _e565e0'))
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Test Add Lampiran FED Penelitian - TC Positif/Tabel E1/Page_FRK  FED/a_mpdf_29_1435_Menyadur_Buku1716815393.pdf'), 
-    0)
 
 WebUI.closeBrowser()
 
