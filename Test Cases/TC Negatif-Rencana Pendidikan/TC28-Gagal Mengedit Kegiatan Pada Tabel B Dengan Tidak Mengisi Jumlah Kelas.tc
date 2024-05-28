@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC28-Gagal Mengedit Kegiatan Pada Tabel B Dengan Tidak Mengisi Jumlah Kelas</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f5814b3f-74f4-4752-98ab-4db4f1b55986</testCaseGuid>
+</TestCaseEntity>

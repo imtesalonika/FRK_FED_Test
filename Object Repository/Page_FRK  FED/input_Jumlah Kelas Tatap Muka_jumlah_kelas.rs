@@ -6,12 +6,12 @@
    <elementGuidId>8e0fcfe7-a95e-430e-835b-e6f407d5b3d1</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#pend_jumlah_kelas_A</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@id='pend_jumlah_kelas_A']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#pend_jumlah_kelas_A</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>45a44728-c9d7-45cb-a6ee-e74cb2ebf548</webElementGuid>
+      <webElementGuid>d8820ac4-33a0-4376-8ffd-0afbbbc5cd88</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>id</name>
       <type>Main</type>
       <value>pend_jumlah_kelas_A</value>
-      <webElementGuid>e376b7ef-13e0-4885-ba4f-9a48697e6a9a</webElementGuid>
+      <webElementGuid>00f64032-f351-477f-819e-c27f7e142a25</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>type</name>
       <type>Main</type>
       <value>number</value>
-      <webElementGuid>fa79468a-7f21-4595-bd84-85f94befb29c</webElementGuid>
+      <webElementGuid>91eaf4e9-24e2-45b9-a2be-820f442dd45f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>68fc0332-b646-4677-bbfc-166f01b18d34</webElementGuid>
+      <webElementGuid>535fbcf1-42e8-426e-9202-29f75883e7da</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>name</name>
       <type>Main</type>
       <value>jumlah_kelas</value>
-      <webElementGuid>03d60f1e-7f8d-4283-9e18-4f69b799a6b7</webElementGuid>
+      <webElementGuid>82188aa8-167e-45ff-958d-8d36675b33a3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>min</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>5e9ee198-2faa-4c80-ab87-efeb89bd509a</webElementGuid>
+      <webElementGuid>b31a415b-734d-47ec-9ca5-6335b48e5294</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>step</name>
       <type>Main</type>
       <value>any</value>
-      <webElementGuid>7adf19af-a8ec-4b67-8211-7729e2686e3d</webElementGuid>
+      <webElementGuid>2d5c0849-6071-4cd6-8188-acf2a345dbc1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;pend_jumlah_kelas_A&quot;)</value>
-      <webElementGuid>a727d6e0-4c7e-4172-83d3-d9911ee5b9f4</webElementGuid>
+      <webElementGuid>a471bc27-490b-48a7-802a-9412f9015249</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='pend_jumlah_kelas_A']</value>
-      <webElementGuid>a44d5090-95cb-4615-94f3-ecbd9d1ce210</webElementGuid>
+      <webElementGuid>e6b76015-bbcf-4f99-b487-ee565cc1098f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,23 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='modalPendidikan_A']/div/div/form/div/div[2]/input</value>
-      <webElementGuid>75ebfa44-f06d-420e-9b45-c712c2f6ea02</webElementGuid>
+      <webElementGuid>cc9d3f66-3499-41c3-a46f-b86b4bd12d75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div[2]/input</value>
+      <webElementGuid>85db0fbd-83aa-4b26-8c69-830be2bd747b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@id = 'pend_jumlah_kelas_A' and @type = 'number' and @name = 'jumlah_kelas']</value>
+      <webElementGuid>82b0986a-e98f-4a5c-b42c-64553b97ee5d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -104,13 +120,5 @@
       <type>Main</type>
       <value>//div[2]/input</value>
       <webElementGuid>1d9f2fde-b5d5-48ad-8f7c-8011101cad35</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//input[@id = 'pend_jumlah_kelas_A' and @type = 'number' and @name = 'jumlah_kelas']</value>
-      <webElementGuid>22ead481-8a9c-46fe-94b1-e55759027382</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

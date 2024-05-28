@@ -6,12 +6,12 @@
    <elementGuidId>3aba8eca-106a-41fc-8afa-8316c2109fe7</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#pend_jumlah_evaluasi_A</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@id='pend_jumlah_evaluasi_A']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#pend_jumlah_evaluasi_A</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>56f78337-9092-4874-b6f7-bc557cdbccd8</webElementGuid>
+      <webElementGuid>f0b4a821-cd55-4c75-b309-5620e16d8c18</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>id</name>
       <type>Main</type>
       <value>pend_jumlah_evaluasi_A</value>
-      <webElementGuid>fb1d6603-5666-4601-8dfd-9faf55686df7</webElementGuid>
+      <webElementGuid>765bb277-51e5-4d4e-9d33-62d1fb9b6924</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>type</name>
       <type>Main</type>
       <value>number</value>
-      <webElementGuid>bbe740fb-547f-4011-8484-094e1352ac4e</webElementGuid>
+      <webElementGuid>57b40cb1-883e-4d3f-8fb3-8dfea8dd54bc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>92b63283-6fef-4e24-924a-00757d5bbdc9</webElementGuid>
+      <webElementGuid>6d6efe50-ea56-4d40-a7e2-f921fc08b60f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>name</name>
       <type>Main</type>
       <value>jumlah_evaluasi</value>
-      <webElementGuid>bc41f2a6-5545-4c2c-91f7-57789eba7061</webElementGuid>
+      <webElementGuid>19e343e7-508a-4940-b674-2bc56b4bc97d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>min</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>68e69e20-fddb-4cd3-ac5c-524ea14fe574</webElementGuid>
+      <webElementGuid>113fe441-f257-41e4-bffe-a6d42b781a21</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>step</name>
       <type>Main</type>
       <value>any</value>
-      <webElementGuid>1ee4e6d5-00cc-4c98-9767-cd38f2b46cff</webElementGuid>
+      <webElementGuid>8b76d5fb-ede2-4e7b-b1f1-642c584339df</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;pend_jumlah_evaluasi_A&quot;)</value>
-      <webElementGuid>9cf78001-7975-41bf-9bbe-d0ea86132366</webElementGuid>
+      <webElementGuid>0ff7e7ce-6470-4d8c-a822-90c2ba48d421</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='pend_jumlah_evaluasi_A']</value>
-      <webElementGuid>91cb88c4-dbd0-4bfc-9ac0-303eb0725719</webElementGuid>
+      <webElementGuid>b4494f76-d49e-4d34-95b1-58d8613d163d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,23 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='modalPendidikan_A']/div/div/form/div/div[3]/input</value>
-      <webElementGuid>800d8cfb-a7f5-4c9c-9810-5c1651fd74d9</webElementGuid>
+      <webElementGuid>7b8254f4-21fb-4118-8076-c000dac52996</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div[3]/input</value>
+      <webElementGuid>41a54f7f-2c2f-4783-916c-5da62d75ee41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@id = 'pend_jumlah_evaluasi_A' and @type = 'number' and @name = 'jumlah_evaluasi']</value>
+      <webElementGuid>f1b9dfc8-e823-43cd-bd38-ca0175eb75ac</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -104,13 +120,5 @@
       <type>Main</type>
       <value>//div[3]/input</value>
       <webElementGuid>f419ffc4-b35e-43ef-961a-4fc8eb3e1a16</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//input[@id = 'pend_jumlah_evaluasi_A' and @type = 'number' and @name = 'jumlah_evaluasi']</value>
-      <webElementGuid>f5ee7b9a-3547-4308-a71d-1e08da72e8b0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

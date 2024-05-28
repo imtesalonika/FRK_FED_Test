@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC26-Gagal Mengedit Kegiatan Pada Tabel A Dengan Tidak Mengisi SKS Mata Kuliah</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bb45b540-042f-491b-954b-55c74112287e</testCaseGuid>
+</TestCaseEntity>

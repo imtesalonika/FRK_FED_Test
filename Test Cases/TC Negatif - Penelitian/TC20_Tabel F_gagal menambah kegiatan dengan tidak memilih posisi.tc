@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC20_Tabel F_gagal menambah kegiatan dengan tidak memilih posisi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d2c1dc67-d11d-48cd-a837-8fd732f56a8a</testCaseGuid>
+</TestCaseEntity>

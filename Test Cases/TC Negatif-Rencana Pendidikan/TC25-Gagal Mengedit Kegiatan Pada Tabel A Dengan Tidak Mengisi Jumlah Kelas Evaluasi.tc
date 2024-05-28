@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC25-Gagal Mengedit Kegiatan Pada Tabel A Dengan Tidak Mengisi Jumlah Kelas Evaluasi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>645ef96d-bf19-495d-9ebf-18ccf054bc65</testCaseGuid>
+</TestCaseEntity>
