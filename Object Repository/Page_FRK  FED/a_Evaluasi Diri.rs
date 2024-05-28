@@ -3,7 +3,7 @@
    <description></description>
    <name>a_Evaluasi Diri</name>
    <tag></tag>
-   <elementGuidId>e87e8b51-a262-4c89-b78b-f119fc590cdc</elementGuidId>
+   <elementGuidId>018bdebd-c942-4cb7-b011-c4e5391aa573</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -15,7 +15,6 @@
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
-   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -23,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>955b01de-6e67-4b2f-8a2e-6d7b762f36d7</webElementGuid>
+      <webElementGuid>784fdf2e-a72f-493f-aec3-ed2ae3239ea8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>c6b566bf-9f90-4544-b9c1-1b63d6e32071</webElementGuid>
+      <webElementGuid>653d5f5a-5efd-4e49-8ab1-d18c7f0ecdbe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn-toggle list-group-item bg-abu list-group-item-action py-2 ripple d-flex justify-content-between align-items-center</value>
-      <webElementGuid>f1a3d4a2-a684-4d46-8fb6-dcb1ddd5bd26</webElementGuid>
+      <webElementGuid>faf648b6-1d9b-45b8-8cdc-f472fa5e8714</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +46,7 @@
       <name>data-bs-toggle</name>
       <type>Main</type>
       <value>collapse</value>
-      <webElementGuid>eadcbfd2-199f-4fc6-9450-f1d11d272be2</webElementGuid>
+      <webElementGuid>f3165303-54f2-4b93-a482-cb4286e023ea</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +54,7 @@
       <name>data-bs-target</name>
       <type>Main</type>
       <value>#fed-collapse</value>
-      <webElementGuid>e98ee12e-1497-41ec-85f8-42735fa09d06</webElementGuid>
+      <webElementGuid>b8f54a16-8db0-419d-abc1-0b6a09bb2741</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +62,7 @@
       <name>aria-expanded</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>5bae6bc3-fd44-4b4c-bee3-bc0d69eaaeb6</webElementGuid>
+      <webElementGuid>b314250a-9634-49bd-9742-0f2275a614d5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -75,7 +74,7 @@
                                 Evaluasi Diri
                                 
                             </value>
-      <webElementGuid>36fcbfa7-6f6b-4269-a73f-1b4d0c8cae67</webElementGuid>
+      <webElementGuid>dc018e07-401f-4add-a76a-ba41b916c832</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -83,7 +82,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;sidebarMenu&quot;)/div[@class=&quot;position-sticky&quot;]/div[@class=&quot;list-group list-group-flush mx-3 mt-5&quot;]/ul[@class=&quot;mt-5 list-unstyled ps-0&quot;]/li[4]/a[@class=&quot;btn-toggle list-group-item bg-abu list-group-item-action py-2 ripple d-flex justify-content-between align-items-center&quot;]</value>
-      <webElementGuid>d3a1caf5-c142-4d60-ba12-e3e32a456b87</webElementGuid>
+      <webElementGuid>dbe7eb3a-fee7-4acd-9473-b19b3fdf599c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -91,7 +90,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//a[@type='button'])[3]</value>
-      <webElementGuid>b1bcfd58-ee07-4864-b124-65b67dcfd129</webElementGuid>
+      <webElementGuid>c18a6091-5da8-423d-85e6-cb70e3fabc95</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -99,31 +98,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//nav[@id='sidebarMenu']/div/div/ul/li[4]/a</value>
-      <webElementGuid>37c07434-efdc-4b3e-98d5-130d4ad2f0f0</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rekap Kegiatan'])[1]/following::a[1]</value>
-      <webElementGuid>5ba4f547-e9e7-4da4-984d-f38dfa503bc0</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rencana Kerja'])[1]/following::a[2]</value>
-      <webElementGuid>5190be47-e30e-4828-891f-39a42ae31f04</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rekap Kegiatan'])[2]/preceding::a[1]</value>
-      <webElementGuid>db0a7ae9-488f-4d70-964c-e332de1e1050</webElementGuid>
+      <webElementGuid>539ca1dd-5dce-4bb5-9ebc-445307a7595b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -131,7 +106,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[4]/a</value>
-      <webElementGuid>e1a256e5-cff0-45e9-a013-d4c6fe3a8feb</webElementGuid>
+      <webElementGuid>c9a876aa-7484-4cc8-8e99-a862daa3b7eb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -147,6 +122,6 @@
                                 Evaluasi Diri
                                 
                             ')]</value>
-      <webElementGuid>635a85a3-7ea3-421a-86df-5294e7542248</webElementGuid>
+      <webElementGuid>7e1342fb-47cd-478a-b2c7-a240fed9eef6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -3,7 +3,7 @@
    <description></description>
    <name>body_Login                                 _0c00de (5)</name>
    <tag></tag>
-   <elementGuidId>9a84e6ee-cddf-4753-8807-7d5a335aeafe</elementGuidId>
+   <elementGuidId>f4a0cc0b-cf16-4dcc-8ec5-22a672c02054</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -15,7 +15,6 @@
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
-   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -23,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>body</value>
-      <webElementGuid>dc1604a4-3843-43f5-ae81-eb75c7048612</webElementGuid>
+      <webElementGuid>60dea177-3dea-4efd-8d19-903aa79e10bd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -81,8 +80,8 @@
 
 
 
-</value>
-      <webElementGuid>933df466-970b-4d5d-8e42-305833388789</webElementGuid>
+id(&quot;typeEmailX&quot;)</value>
+      <webElementGuid>5aaae254-3b4d-49e4-bf6e-b664db17c248</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -90,7 +89,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]</value>
-      <webElementGuid>095bd338-ebaa-4077-8e5b-95e3bf63ad93</webElementGuid>
+      <webElementGuid>d458d135-c778-4309-a5de-0dde8b26d9a1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -98,7 +97,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//body</value>
-      <webElementGuid>cf4ad835-5adb-424e-a740-ea3289e23238</webElementGuid>
+      <webElementGuid>2ee766c7-2278-4775-8117-94937bda8b9f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -156,7 +155,7 @@
 
 
 
-' or . = '
+id(&quot;typeEmailX&quot;)' or . = '
 
 
     
@@ -207,7 +206,7 @@
 
 
 
-')]</value>
-      <webElementGuid>eb5c327c-7370-4e40-a7bb-bc96a64e1049</webElementGuid>
+id(&quot;typeEmailX&quot;)')]</value>
+      <webElementGuid>270575ca-33e9-4734-8072-67ca731acc7a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

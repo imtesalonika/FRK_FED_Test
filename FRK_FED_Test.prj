@@ -5,12 +5,12 @@
    <tag></tag>
    <UUID>9b3f8839-0061-4b01-9137-2d858d4dc751</UUID>
    <createdVersion>9.3.1</createdVersion>
-   <freeLicense>true</freeLicense>
+   <freeLicense>false</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
-   <modifiedEdition>FREE</modifiedEdition>
+   <modifiedEdition>ENTERPRISE</modifiedEdition>
    <modifiedVersion>9.4.0</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-   <projectFileLocation>E:\Matkul Sem 6\Proyek MPPL\test 1\FRK_FED_Test\FRK_FED_Test.prj</projectFileLocation>
+   <projectFileLocation>D:\Kuliah\Semester 6\Manajemen Proyek Perangkat Lunak\FRK_FED_Test\FRK_FED_Test.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
