@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC22-Gagal Menambahkan Kegiatan Pada Tabel J Dengan Tidak Mengisi Nama Kegiatan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d64be73b-8835-4520-aa56-98a623edc169</testCaseGuid>
+</TestCaseEntity>

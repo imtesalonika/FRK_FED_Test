@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Menunggu_bi bi-pencil-square (12)</name>
+   <tag></tag>
+   <elementGuidId>1de46409-63bf-4f42-bc33-633e4298677a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='buttonEdit-7']/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#buttonEdit-7 > i.bi.bi-pencil-square</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>27a25ac6-9fb2-4103-9175-1f7d25355bce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bi bi-pencil-square</value>
+      <webElementGuid>cb3ba868-e471-4027-b2a8-1c6351cb4a37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;buttonEdit-7&quot;)/i[@class=&quot;bi bi-pencil-square&quot;]</value>
+      <webElementGuid>48052c68-93e5-4d58-8f39-0e28db7a0e25</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='buttonEdit-7']/i</value>
+      <webElementGuid>d18f9bb4-f050-4b0d-8fec-26459c4745ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]/div/div[2]/table/tbody/tr/td[7]/button/i</value>
+      <webElementGuid>a554e958-c093-409b-a585-9631ccd658f7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

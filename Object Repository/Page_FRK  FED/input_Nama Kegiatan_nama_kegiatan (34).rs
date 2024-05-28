@@ -1,3 +1,105 @@
+<<<<<<< HEAD
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Nama Kegiatan_nama_kegiatan (34)</name>
+   <tag></tag>
+   <elementGuidId>014856d4-d2c5-473e-b41f-98e148e602f7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='pend_nama_D']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#pend_nama_D</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>6b703c98-2b15-4ab8-8b4e-5bf90ab4e0db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>pend_nama_D</value>
+      <webElementGuid>a91d392c-5f2a-4f35-854d-ad7a73a86e3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>814857bb-119a-4f70-ba1c-e7297c323211</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>77373b89-0dc3-4091-8c0c-f3b328fc8d67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>nama_kegiatan</value>
+      <webElementGuid>53471001-07d5-4735-acd4-3e34b95db25c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pend_nama_D&quot;)</value>
+      <webElementGuid>5627e228-6ebb-4ab0-9aac-490283eebcaf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@id='pend_nama_D']</value>
+      <webElementGuid>3b5682eb-41ee-4519-8f18-0735cf6afd61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modalPendidikan_D']/div/div/form/div/div/input</value>
+      <webElementGuid>7366c649-7829-4aff-aa57-9296e4efac40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[17]/div/div/form/div/div/input</value>
+      <webElementGuid>ca982b43-9be4-4168-9689-9b839c7fffe6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@id = 'pend_nama_D' and @type = 'text' and @name = 'nama_kegiatan']</value>
+      <webElementGuid>00e1f8c6-ed3a-4923-ab8b-dd3456ea58ce</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
+=======
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
@@ -98,3 +200,4 @@
       <webElementGuid>d7d7317e-1cb4-4706-9d42-1767e71afceb</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
+>>>>>>> 8a8f20fa9ebde034c1c19771418b225d06099da6

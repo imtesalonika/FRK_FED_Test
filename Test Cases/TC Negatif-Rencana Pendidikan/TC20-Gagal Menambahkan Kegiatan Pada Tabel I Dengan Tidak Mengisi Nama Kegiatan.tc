@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC20-Gagal Menambahkan Kegiatan Pada Tabel I Dengan Tidak Mengisi Nama Kegiatan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>48f30de4-fdb4-408d-913c-c590cf6acab1</testCaseGuid>
+</TestCaseEntity>

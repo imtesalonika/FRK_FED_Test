@@ -3,15 +3,15 @@
    <description></description>
    <name>label_Nama Kegiatan (5)</name>
    <tag></tag>
-   <elementGuidId>7af3140b-1f45-4fca-a2ad-28e73b6d2b34</elementGuidId>
+   <elementGuidId>34e4b44d-72d3-41be-bb70-41d05773d721</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#modalPenelitian_F > div.modal-dialog.modal-dialog-centered > div.modal-content > form.formTambahData > div.modal-body > div.mb-3 > label.form-label</value>
+         <key>XPATH</key>
+         <value>//div[@id='modalPendidikan_E']/div/div/div[2]/form/div/label</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='modalPenelitian_F']/div/div/form/div/div/label</value>
+         <key>CSS</key>
+         <value>#modalPendidikan_E > div.modal-dialog.modal-dialog-centered > div.modal-content > div.modal-body > form > div.mb-3 > label.form-label</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>label</value>
-      <webElementGuid>49560b42-6464-44e9-864a-fbe4f489cbdf</webElementGuid>
+      <webElementGuid>eff35ea7-8d18-4135-9852-51300edf7e34</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>for</name>
       <type>Main</type>
       <value>nama_kegiatan</value>
-      <webElementGuid>7933372e-20b8-40fd-adeb-c81fae9d6366</webElementGuid>
+      <webElementGuid>40ce412f-38da-4cf8-b6fb-ce806e4a4099</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-label</value>
-      <webElementGuid>ea3892a9-978d-4ed8-82f5-aae17cc4911f</webElementGuid>
+      <webElementGuid>0a610cc6-1f2b-480b-9da3-cab188d93b6b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,63 +47,63 @@
       <name>text</name>
       <type>Main</type>
       <value>Nama Kegiatan</value>
-      <webElementGuid>ec975268-4100-4b81-acb1-256220b2154c</webElementGuid>
+      <webElementGuid>d09f260a-297a-458c-b142-e3f9e2da8cda</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;modalPenelitian_F&quot;)/div[@class=&quot;modal-dialog modal-dialog-centered&quot;]/div[@class=&quot;modal-content&quot;]/form[@class=&quot;formTambahData&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;mb-3&quot;]/label[@class=&quot;form-label&quot;]</value>
-      <webElementGuid>ea22483f-7c7e-4812-9c78-98a3755ce649</webElementGuid>
+      <value>id(&quot;modalPendidikan_E&quot;)/div[@class=&quot;modal-dialog modal-dialog-centered&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/form[1]/div[@class=&quot;mb-3&quot;]/label[@class=&quot;form-label&quot;]</value>
+      <webElementGuid>1df4252f-9bb5-4f47-8769-b9e1f4dff1f6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='modalPenelitian_F']/div/div/form/div/div/label</value>
-      <webElementGuid>8f97e917-7cbb-4577-b8a1-bed77d780670</webElementGuid>
+      <value>//div[@id='modalPendidikan_E']/div/div/div[2]/form/div/label</value>
+      <webElementGuid>c7acba14-b1f0-4832-9f80-5a1e9749e967</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Simpan'])[7]/following::label[1]</value>
-      <webElementGuid>3536a64b-b362-47af-a1f7-acb462f20b26</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Simpan'])[4]/following::label[1]</value>
+      <webElementGuid>139b1563-cf4b-4d90-9b86-a41b5c06e70f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Posisi (Ketua/Editor/Anggota)'])[3]/following::label[1]</value>
-      <webElementGuid>853fa204-242a-45ca-b9a5-bfba317cc818</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jumlah Kelompok'])[4]/following::label[1]</value>
+      <webElementGuid>1a8d19ef-53a5-4d86-8590-d501e9f253ae</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tahap Pencapaian'])[16]/preceding::label[1]</value>
-      <webElementGuid>630dd0c4-a9d3-4206-b9e9-d2d9b58bc4f4</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jumlah Kelompok'])[5]/preceding::label[1]</value>
+      <webElementGuid>9ca86e4a-b8a0-48d9-b17f-e90d19b85d84</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Posisi'])[5]/preceding::label[2]</value>
-      <webElementGuid>d0658685-1891-43dd-8a80-ee620a180dbf</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Simpan'])[5]/preceding::label[2]</value>
+      <webElementGuid>da8407e6-f176-49af-a290-b73ba8529efd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[23]/div/div/form/div/div/label</value>
-      <webElementGuid>3cdafe69-de5f-4059-bfe5-4b00f00b9e7a</webElementGuid>
+      <value>//div[18]/div/div/div[2]/form/div/label</value>
+      <webElementGuid>270cb624-00c7-4ff4-984f-bed4eadcc7e6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,6 +111,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//label[(text() = 'Nama Kegiatan' or . = 'Nama Kegiatan')]</value>
-      <webElementGuid>7d100bf4-dbd3-4ed3-bb9a-c278f5ee6f8b</webElementGuid>
+      <webElementGuid>496779fe-dc55-4cec-933b-01f5a0276714</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

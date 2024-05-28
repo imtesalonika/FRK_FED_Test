@@ -6,12 +6,12 @@
    <elementGuidId>9f1f4d1c-0e68-4add-ac94-0bfbbd81f197</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#pend_sks_A</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@id='pend_sks_A']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#pend_sks_A</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>0d62335c-dfee-42cf-9d5f-7c276451cc3d</webElementGuid>
+      <webElementGuid>b1f71ed8-43c9-4e04-ba16-288bb8ce2891</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>id</name>
       <type>Main</type>
       <value>pend_sks_A</value>
-      <webElementGuid>46f54b89-53c5-46c0-a597-c03d1b7d150f</webElementGuid>
+      <webElementGuid>9f41ee56-4bf4-4486-a7c7-d212e07ecf89</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>type</name>
       <type>Main</type>
       <value>number</value>
-      <webElementGuid>a5e13289-76e2-4c67-8c55-46dc9430081c</webElementGuid>
+      <webElementGuid>33a1e269-bf5e-4dba-a662-b8c8be636d82</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>71c3c6a9-d8bf-4e67-8098-766c19be1f64</webElementGuid>
+      <webElementGuid>ab669b1f-c698-4d66-83e3-6dc140310014</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>name</name>
       <type>Main</type>
       <value>sks_matakuliah</value>
-      <webElementGuid>d29f6a8e-106f-4f98-b8aa-7e8e97962c69</webElementGuid>
+      <webElementGuid>9a7008ea-b09e-4945-a239-1fb7c1fd3a0c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>min</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>788c663a-cd9a-43c2-b402-cba365519c9a</webElementGuid>
+      <webElementGuid>980d42cb-aa92-48fb-b97a-0dcb66d6ca1e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>step</name>
       <type>Main</type>
       <value>any</value>
-      <webElementGuid>6d8a2b9e-b636-45e5-a60f-44f094a42e48</webElementGuid>
+      <webElementGuid>8a005b64-5087-4b99-8ec0-2d7f384f38c4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;pend_sks_A&quot;)</value>
-      <webElementGuid>b3af2cb6-e8be-477e-a7d0-21d45650bef4</webElementGuid>
+      <webElementGuid>5703b3b1-799c-48d8-a752-c2674b685199</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='pend_sks_A']</value>
-      <webElementGuid>8068a115-d954-4d3b-a78c-6a0c8423dd55</webElementGuid>
+      <webElementGuid>9c571a2e-42de-4578-8bfd-b141654a63b9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,23 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='modalPendidikan_A']/div/div/form/div/div[4]/input</value>
-      <webElementGuid>25aedaba-3a23-41e9-84ac-6efbc9ed000d</webElementGuid>
+      <webElementGuid>b1a34664-2412-401e-bf34-f68408cb3d05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div[4]/input</value>
+      <webElementGuid>10552d79-a1ae-4ae7-86e7-45f7a2169884</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@id = 'pend_sks_A' and @type = 'number' and @name = 'sks_matakuliah']</value>
+      <webElementGuid>5c39786a-36ed-4697-86e3-40b3723afae2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -104,13 +120,5 @@
       <type>Main</type>
       <value>//div[4]/input</value>
       <webElementGuid>bc6e4b18-ea0f-41cd-9659-cec8dd4853ae</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//input[@id = 'pend_sks_A' and @type = 'number' and @name = 'sks_matakuliah']</value>
-      <webElementGuid>13a329fa-921f-4a2a-b7ad-dd68ed8f0e3e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

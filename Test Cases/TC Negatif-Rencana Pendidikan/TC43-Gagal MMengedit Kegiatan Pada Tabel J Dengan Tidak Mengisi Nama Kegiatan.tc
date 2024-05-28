@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC43-Gagal MMengedit Kegiatan Pada Tabel J Dengan Tidak Mengisi Nama Kegiatan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fdc00564-53cf-43af-8f16-ff4a689ae7a4</testCaseGuid>
+</TestCaseEntity>

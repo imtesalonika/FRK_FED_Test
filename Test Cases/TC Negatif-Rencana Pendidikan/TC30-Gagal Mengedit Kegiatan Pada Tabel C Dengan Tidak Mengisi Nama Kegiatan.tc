@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC30-Gagal Mengedit Kegiatan Pada Tabel C Dengan Tidak Mengisi Nama Kegiatan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dc4b139d-27d6-482c-8dc2-82dce61f526e</testCaseGuid>
+</TestCaseEntity>

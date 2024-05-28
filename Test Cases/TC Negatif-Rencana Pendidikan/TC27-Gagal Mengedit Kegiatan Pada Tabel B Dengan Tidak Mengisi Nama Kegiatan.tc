@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC27-Gagal Mengedit Kegiatan Pada Tabel B Dengan Tidak Mengisi Nama Kegiatan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c78ce737-cd25-4a38-812e-9f0ee1f6bdf4</testCaseGuid>
+</TestCaseEntity>

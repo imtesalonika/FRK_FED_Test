@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_PM_W13S02_RL Tutorial (2)_51_1435_penyulu_caaffc</name>
+   <tag></tag>
+   <elementGuidId>35c96370-6efe-42d4-9d30-fc5e62c20ddd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#modalEditEvaluasiPengabdian_B_51 > div.modal-dialog.modal-lg > div.modal-content > div.modal-body > div.container > div.row > div.col-md-12 > #existsFiles > div.file-item.d-flex.align-items-center.mb-2.border.rounded.p-3 > div > a.btn.btn-danger.btn-sm.btn-circle.ms-2 > i.bi.bi-x</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/main/div/div/div[2]/div[5]/div/div/div[1]/div/div/div[2]/div/div/div/div[2]/div[5]/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>638d086d-7944-4f49-934f-bba7f9304f65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bi bi-x</value>
+      <webElementGuid>24a7fdbf-1c85-4ab3-9cbe-587294e0a0d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modalEditEvaluasiPengabdian_B_51&quot;)/div[@class=&quot;modal-dialog modal-lg&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@id=&quot;existsFiles&quot;]/div[@class=&quot;file-item d-flex align-items-center mb-2 border rounded p-3&quot;]/div[1]/a[@class=&quot;btn btn-danger btn-sm btn-circle ms-2&quot;]/i[@class=&quot;bi bi-x&quot;]</value>
+      <webElementGuid>c5011979-d74e-426a-a0a7-9d1af610435f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//div[@id='existsFiles']/div/div/a/i)[2]</value>
+      <webElementGuid>359bee3a-2d39-49d3-b67c-d6c834489dfb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/div/div/div[2]/div/div/div/div[2]/div/div/a/i</value>
+      <webElementGuid>b794808c-e870-4424-bc73-4cec5d2b094c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

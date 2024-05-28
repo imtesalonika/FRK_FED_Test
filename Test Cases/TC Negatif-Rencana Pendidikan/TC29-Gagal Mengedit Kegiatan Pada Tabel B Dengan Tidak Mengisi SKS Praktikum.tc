@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC29-Gagal Mengedit Kegiatan Pada Tabel B Dengan Tidak Mengisi SKS Praktikum</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8e5e6360-c765-4d82-9154-ac5f81f86bf2</testCaseGuid>
+</TestCaseEntity>
